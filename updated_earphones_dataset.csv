@@ -1,0 +1,944 @@
+Unnamed: 0,company,name,color,type,ratings,people_review,offer_price,real_price,offer,battery_hours,fast_charging,ENC,ANC,calculated_discount,amount_saved,value_score,feature__score,feature_count
+0,Aroma,NB119B Badshah - 40 Hours Playtime Bluetooth Neck...,Black, In the Ear,4.0,240115,381,1499,74% off,40,False,False,False,74.58305537024683,1118,298.3322214809873,,0
+1,TECHFIRE,Fire 500v2 Neckband hi-bass Wireless Bluetooth...,Blue, In the Ear,3.9,188519,445,3850,88% off,,False,False,False,88.44155844155844,3405,344.9220779220779,,0
+2,Aroma,NB119 Titanium - 48 Hours Playtime Bluetooth Neck...,Blue, In the Ear,4.0,162560,499,2499,80% off,48,False,False,False,80.03201280512204,2000,320.12805122048815,,0
+3,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",White, In the Ear,4.2,14276,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,310.8621724344869,,1
+4,Aroma,NB119Pro Belief 48 Hours Playing Time Fast Chargi...,Blue, In the Ear,4.0,65327,395,1999,80% off,48,True,False,False,80.24012006003002,1604,320.9604802401201,,1
+5,Aroma,NB119 Titanium - 48 Hours Playtime Bluetooth Neck...,Black, In the Ear,4.0,162560,499,2499,80% off,48,False,False,False,80.03201280512204,2000,320.12805122048815,,0
+6,OnePlus,"Bullets Wireless Z2 with Fast Charge, 30 Hrs Ba...",Magico Black, In the Ear,4.2,506991,1799,2299,21% off,30,True,False,False,21.748586341887776,500,91.34406263592867,,1
+7,Boult,"Audio ProBass EQCharge with ZEN Mode ENC, 32hrs P...",Blue, In the Ear,4.0,49704,799,4499,82% off,,False,True,False,82.24049788841965,3700,328.9619915536786,,1
+8,boAt,Rockerz 255 Pro+ /258 Pro+ with ASAP Charge and up...,Navy Blue, In the Ear,4.2,624229,1199,3990,69% off,,False,False,False,69.9498746867168,2791,293.7894736842106,,0
+9,MASOORI,M19 / M10 / T2 TWS Bluetooth 5.0 Wireless Touch...,Black, True Wireless,3.6,547,499,1299,61% off,,False,False,False,61.585835257890686,800,221.70900692840647,,0
+10,Dozokil,High M10 Pro TWS Bluetooth Earbuds Wireless Ear...,Black, True Wireless,3.7,365,488,2499,80% off,,False,False,False,80.47218887555022,2011,297.7470988395358,,0
+11,Boult,"Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...",Black, True Wireless,4.1,111172,999,5499,81% off,40,True,False,False,81.83306055646482,4500,335.5155482815057,,1
+12,boAt,Airdopes 131 with upto 60 Hours and ASAP Charge Bl...,Active Black Matte Indi, True Wireless,4.0,1345614,899,2990,69% off,60,False,False,False,69.93311036789298,2091,279.7324414715719,,0
+13,boAt,"Airdopes 131 PRO with 11mm Drivers,45Hrs Playback,...",Active Black  Dark Grey, In the Ear,3.9,112074,1299,2990,56% off,45,False,False,False,56.5551839464883,1691,220.56521739130437,,0
+14,Noise,"Buds VS102 with 50 Hrs Playtime, 11mm Driver, IPX...",Jet Black, True Wireless,4.1,252983,1299,2999,56% off,50,False,False,False,56.68556185395131,1700,232.41080360120037,,0
+15,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",Blue, In the Ear,4.2,14276,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,310.8621724344869,,1
+16,Noise,"Buds VS404 with 50 Hours Playtime, ENC with Quad ...",Jet Black, True Wireless,4.1,3969,1499,3499,57% off,50,False,True,False,57.15918833952558,2000,234.35267219205485,,1
+17,Portronics,SoundDrum 1 10 W Bluetooth Speaker,Black, Mono Channel,4.3,41689,1099,2499,56% off,,False,False,False,56.022408963585434,1400,240.89635854341736,,0
+18,Aroma,NB119Pro Belief 48 Hours Playing Time Fast Chargi...,Black  Silver, In the Ear,4.0,65327,395,1999,80% off,48,True,False,False,80.24012006003002,1604,320.9604802401201,,1
+19,Boult,"Audio Truebuds with 30H Battery, IPX7 Waterproof,...",Red, True Wireless,3.8,47151,1099,7999,86% off,30,False,False,False,86.26078259782473,6900,327.79097387173397,,0
+20,Aroma,NB119D Dream 60 Hours Playing Time Fast Charging ...,Black  Silver, In the Ear,4.1,52942,431,2499,82% off,60,True,False,False,82.75310124049619,2068,339.2877150860344,,1
+21,Lichen,B11 Neckband Bluetooth Headset Earphone Sports R...,Blue, In the Ear,3.8,309,299,1599,81% off,,False,False,False,81.30081300813008,1300,308.9430894308943,,0
+22,ORAIMO,Shark 3 Deep Bass Neckband Bluetooth Headset,Black, In the Ear,4.1,17364,499,2499,80% off,,False,False,False,80.03201280512204,2000,328.13125250100035,,0
+23,Boult,"Audio Truebuds with 30H Battery, IPX7 Waterproof,...",Grey, True Wireless,3.8,47151,1099,7999,86% off,30,False,False,False,86.26078259782473,6900,327.79097387173397,,0
+24,Aroma,NB119B Badshah 60 Hours Playing Time Fast Chargin...,Green, In the Ear,4.0,240115,419,2499,83% off,60,True,False,False,83.23329331732693,2080,332.9331732693077,,1
+25,realme,Buds Wireless 2 Neo with Type-C Fast Charge & Ba...,Black, In the Ear,4.2,286234,1299,2499,48% off,,True,False,False,48.019207683073226,1200,201.68067226890756,,1
+26,realme,Buds Wireless 2 Neo with Type-C Fast Charge & Ba...,Blue, In the Ear,4.2,286234,1299,2499,48% off,,True,False,False,48.019207683073226,1200,201.68067226890756,,1
+27,PTron,"Bassbuds Joy TWS with 13mm Drivers, Stereo Calls,...",Black, True Wireless,3.7,6379,799,2599,69% off,,False,False,False,69.25740669488265,1800,256.2524047710658,,0
+28,Fire-Boltt,Fire Pods Ninja G201 Earbuds TWS IWP HD Call...,Black, True Wireless,4.1,15839,799,3999,80% off,,False,False,False,80.02000500125031,3200,328.08202050512625,,0
+29,boAt,"Airdopes 161 with ASAP Charge, 10mm Drivers and 17...",Pebble Black, True Wireless,4.1,327645,1099,2490,55% off,,False,False,False,55.863453815261046,1391,229.04016064257027,,0
+30,OPPO,Enco Buds 2 with 28 hours Battery life & Deep Nois...,Midnight, True Wireless,4.2,81506,1799,3999,55% off,,False,True,False,55.01375343835959,2200,231.0577644411103,,1
+31,Boult,"Audio Maverick with Quad Mic ENC, 45ms Low Latenc...",Black, True Wireless,4.0,7225,1299,4499,71% off,,False,True,False,71.12691709268726,3200,284.50766837074906,,1
+32,Chitransh,i12 Bluetooth Headset,White, True Wireless,3.9,193,439,999,56% off,,False,False,False,56.05605605605606,560,218.61861861861863,,0
+33,Seashot,M19 Earbuds/TWS/buds 5.1 Earbuds with 280H Play...,Black, True Wireless,3.6,5154,639,2999,78% off,280,False,False,False,78.69289763254417,2360,283.29443147715904,,0
+34,divinestar,MUisc dj Advance Design New Arrival TG-162 P...,Blue, 4.1 Channel,3.9,121,1199,4999,76% off,,False,False,True,76.01520304060813,3800,296.45929185837167,,1
+35,Boult,"Audio X50 with 40Hr Battery, Quad Mic ENC, 45ms U...",White, True Wireless,4.0,28901,445,2999,85% off,40,False,True,False,85.16172057352452,2554,340.6468822940981,,1
+36,TECHFIRE,Fire 500v2 Neckband hi-bass Wireless Bluetooth...,Green, In the Ear,3.9,188519,999,1990,49% off,,False,False,False,49.798994974874375,991,194.21608040201005,,0
+37,boAt,Rockerz 235 Pro with upto 20 Hours Playback & ASAP...,Furious Blue, In the Ear,4.2,124994,299,1999,85% off,20,False,False,False,85.04252126063031,1700,357.17858929464734,,0
+38,U&i,Trendy 24Hrs Battery Backup Bluetooth Neckband with...,Yellow, In the Ear,4.2,20,699,3499,80% off,24,False,False,False,80.02286367533581,2800,336.09602743641045,,0
+39,Aroma,NB140 Captain 24 Hours* Playtime | Deep Bass | Ma...,Dark Blue, True Wireless,3.6,6182,546,1999,72% off,24,False,False,False,72.68634317158579,1453,261.6708354177089,,0
+40,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,Black, True Wireless,3.7,8896,546,1999,72% off,24,False,False,False,72.68634317158579,1453,268.93946973486743,,0
+41,Aroma,NB119B Badshah - 40 Hours Playtime Bluetooth Neck...,Black, In the Ear,4.0,240115,381,1499,74% off,40,False,False,False,74.58305537024683,1118,298.3322214809873,,0
+42,Aroma,NB119 Titanium - 48 Hours Playtime Bluetooth Neck...,Blue, In the Ear,4.0,162560,499,2499,80% off,48,False,False,False,80.03201280512204,2000,320.12805122048815,,0
+43,TECHFIRE,Fire 500v2 Neckband hi-bass Wireless Bluetooth...,Blue, In the Ear,3.9,188519,445,3850,88% off,,False,False,False,88.44155844155844,3405,344.9220779220779,,0
+44,Aroma,NB119Pro Belief 48 Hours Playing Time Fast Chargi...,Blue, In the Ear,4.0,65327,395,1999,80% off,48,True,False,False,80.24012006003002,1604,320.9604802401201,,1
+45,Aroma,NB119 Titanium - 48 Hours Playtime Bluetooth Neck...,Black, In the Ear,4.0,162560,499,2499,80% off,48,False,False,False,80.03201280512204,2000,320.12805122048815,,0
+46,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",White, In the Ear,4.2,14276,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,310.8621724344869,,1
+47,OnePlus,"Bullets Wireless Z2 with Fast Charge, 30 Hrs Ba...",Magico Black, In the Ear,4.2,506991,1799,2299,21% off,30,True,False,False,21.748586341887776,500,91.34406263592867,,1
+48,boAt,Rockerz 255 Pro+ /258 Pro+ with ASAP Charge and up...,Navy Blue, In the Ear,4.2,624229,1199,3990,69% off,,False,False,False,69.9498746867168,2791,293.7894736842106,,0
+49,MASOORI,M19 / M10 / T2 TWS Bluetooth 5.0 Wireless Touch...,Black, True Wireless,3.6,547,499,1299,61% off,,False,False,False,61.585835257890686,800,221.70900692840647,,0
+50,Boult,"Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...",Black, True Wireless,4.1,111172,999,5499,81% off,40,True,False,False,81.83306055646482,4500,335.5155482815057,,1
+51,Dozokil,High M10 Pro TWS Bluetooth Earbuds Wireless Ear...,Black, True Wireless,3.7,365,488,2499,80% off,,False,False,False,80.47218887555022,2011,297.7470988395358,,0
+52,boAt,Airdopes 131 with upto 60 Hours and ASAP Charge Bl...,Active Black Matte Indi, True Wireless,4.0,1345614,899,2990,69% off,60,False,False,False,69.93311036789298,2091,279.7324414715719,,0
+53,boAt,"Airdopes 131 PRO with 11mm Drivers,45Hrs Playback,...",Active Black  Dark Grey, In the Ear,3.9,112074,1299,2990,56% off,45,False,False,False,56.5551839464883,1691,220.56521739130437,,0
+54,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",Blue, In the Ear,4.2,14276,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,310.8621724344869,,1
+55,Noise,"Buds VS102 with 50 Hrs Playtime, 11mm Driver, IPX...",Jet Black, True Wireless,4.1,252983,1299,2999,56% off,50,False,False,False,56.68556185395131,1700,232.41080360120037,,0
+56,Noise,"Buds VS404 with 50 Hours Playtime, ENC with Quad ...",Jet Black, True Wireless,4.1,3969,1499,3499,57% off,50,False,True,False,57.15918833952558,2000,234.35267219205485,,1
+57,Portronics,SoundDrum 1 10 W Bluetooth Speaker,Black, Mono Channel,4.3,41689,1099,2499,56% off,,False,False,False,56.022408963585434,1400,240.89635854341736,,0
+58,Boult,"Audio Truebuds with 30H Battery, IPX7 Waterproof,...",Red, True Wireless,3.8,47151,1099,7999,86% off,30,False,False,False,86.26078259782473,6900,327.79097387173397,,0
+59,Aroma,NB119Pro Belief 48 Hours Playing Time Fast Chargi...,Black  Silver, In the Ear,4.0,65327,395,1999,80% off,48,True,False,False,80.24012006003002,1604,320.9604802401201,,1
+60,Aroma,NB119D Dream 60 Hours Playing Time Fast Charging ...,Black  Silver, In the Ear,4.1,52942,431,2499,82% off,60,True,False,False,82.75310124049619,2068,339.2877150860344,,1
+61,Lichen,B11 Neckband Bluetooth Headset Earphone Sports R...,Blue, In the Ear,3.8,309,299,1599,81% off,,False,False,False,81.30081300813008,1300,308.9430894308943,,0
+62,boAt,"Airdopes 161 with ASAP Charge, 10mm Drivers and 17...",Pebble Black, True Wireless,4.1,327645,1099,2490,55% off,,False,False,False,55.863453815261046,1391,229.04016064257027,,0
+63,ORAIMO,Shark 3 Deep Bass Neckband Bluetooth Headset,Black, In the Ear,4.1,17364,499,2499,80% off,,False,False,False,80.03201280512204,2000,328.13125250100035,,0
+64,Aroma,NB119B Badshah 60 Hours Playing Time Fast Chargin...,Green, In the Ear,4.0,240115,419,2499,83% off,60,True,False,False,83.23329331732693,2080,332.9331732693077,,1
+65,realme,Buds Wireless 2 Neo with Type-C Fast Charge & Ba...,Blue, In the Ear,4.2,286234,1299,2499,48% off,,True,False,False,48.019207683073226,1200,201.68067226890756,,1
+66,TECHFIRE,Fire 500v2 Neckband hi-bass Wireless headphone...,Red, In the Ear,3.9,188519,449,3850,88% off,,False,False,False,88.33766233766234,3401,344.5168831168831,,0
+67,realme,Buds Wireless 2 Neo with Type-C Fast Charge & Ba...,Black, In the Ear,4.2,286234,1299,2499,48% off,,True,False,False,48.019207683073226,1200,201.68067226890756,,1
+68,Fire-Boltt,Fire Pods Ninja G201 Earbuds TWS IWP HD Call...,Black, True Wireless,4.1,15839,799,3999,80% off,,False,False,False,80.02000500125031,3200,328.08202050512625,,0
+69,OPPO,Enco Buds 2 with 28 hours Battery life & Deep Nois...,Midnight, True Wireless,4.2,81506,1799,3999,55% off,,False,True,False,55.01375343835959,2200,231.0577644411103,,1
+70,PTron,"Bassbuds Joy TWS with 13mm Drivers, Stereo Calls,...",Black, True Wireless,3.7,6379,799,2599,69% off,,False,False,False,69.25740669488265,1800,256.2524047710658,,0
+71,Chitransh,i12 Bluetooth Headset,White, True Wireless,3.9,193,439,999,56% off,,False,False,False,56.05605605605606,560,218.61861861861863,,0
+72,Seashot,M19 Earbuds/TWS/buds 5.1 Earbuds with 280H Play...,Black, True Wireless,3.6,5154,639,2999,78% off,280,False,False,False,78.69289763254417,2360,283.29443147715904,,0
+73,divinestar,MUisc dj Advance Design New Arrival TG-162 P...,Blue, 4.1 Channel,3.9,121,546,1999,72% off,,False,False,True,72.68634317158579,1453,283.4767383691846,,1
+74,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,White, True Wireless,3.7,8896,445,2999,85% off,24,False,False,False,85.16172057352452,2554,315.0983661220407,,0
+75,TECHFIRE,Fire 500v2 Neckband hi-bass Wireless Bluetooth...,Green, In the Ear,3.9,188519,999,1990,49% off,,False,False,False,49.798994974874375,991,194.21608040201005,,0
+76,boAt,Rockerz 235 Pro with upto 20 Hours Playback & ASAP...,Furious Blue, In the Ear,4.2,124994,299,1999,85% off,20,False,False,False,85.04252126063031,1700,357.17858929464734,,0
+77,U&i,Trendy 24Hrs Battery Backup Bluetooth Neckband with...,Yellow, In the Ear,4.2,20,445,3850,88% off,24,False,False,False,88.44155844155844,3405,371.4545454545455,,0
+78,Aloof,F9 Bluetooth Headset,Black, True Wireless,3.6,211,529,1999,73% off,,False,False,False,73.5367683841921,1470,264.7323661830916,,0
+79,divinestar,MUSIC DJ Advance Design TG-162 Party Light W...,Black, 4.1 Channel,3.6,22,1799,2299,21% off,,False,False,True,21.748586341887776,500,78.294910830796,,1
+80,OnePlus,Bullets Wireless Z2 Bluetooth Headset,Acoustic Red, In the Ear,4.2,506991,1299,4999,74% off,,False,False,False,74.01480296059212,3700,310.8621724344869,,0
+81,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",White, In the Ear,4.2,14276,431,2499,82% off,60,False,True,False,82.75310124049619,2068,347.56302521008405,,1
+82,Aroma,NB119D Dream 60 Hours Playing Time Fast Charging ...,Green, In the Ear,4.1,52942,285,999,71% off,60,True,False,False,71.47147147147147,714,293.033033033033,,1
+83,KRAZZY,INDIA R3 Bluetooth Headset,Black  Yellow, In the Ear,3.4,1263,419,2499,83% off,,False,False,False,83.23329331732693,2080,282.99319727891157,,0
+84,Aroma,NB119B Badshah 60 Hours Playing Time Fast Chargin...,Black  Silver, In the Ear,4.0,240115,799,4499,82% off,60,True,False,False,82.24049788841965,3700,328.9619915536786,,1
+85,Boult,"Audio ProBass EQCharge with ZEN Mode ENC, 32hrs P...",Blue, In the Ear,4.0,49704,419,2499,83% off,,False,True,False,83.23329331732693,2080,332.9331732693077,,1
+86,Aroma,NB119B Badshah 60 Hours Playing Time Fast Chargin...,Red, In the Ear,4.0,240115,449,3850,88% off,60,True,False,False,88.33766233766234,3401,353.35064935064935,,1
+87,TECHFIRE,Fire 500v2 Neckband hi-bass Wireless headphone...,Red, In the Ear,3.9,188519,485,1999,75% off,,False,False,False,75.73786893446723,1514,295.3776888444222,,0
+88,TECHFIRE,Platinum Series Neckband - Low Price Bluetooth...,Blue, In the Ear,3.9,28990,999,5499,81% off,,False,False,False,81.83306055646482,4500,319.1489361702128,,0
+89,Boult,"Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...",Black, True Wireless,4.1,111172,1399,3999,65% off,40,True,False,False,65.01625406351587,2600,266.56664166041503,,1
+90,Mivi,"DuoPods K5 TWS Earbuds Metallic Finish, HD calling...",Raven Black, True Wireless,4.2,308,529,4999,89% off,,False,False,False,89.41788357671534,4470,375.55511102220447,,0
+91,Earboss,"AIRYPOD TWS EARBUDS, Bass+ 20 H Playtime & Fast...",Black, True Wireless,3.4,14,799,2599,69% off,20,True,False,False,69.25740669488265,1800,235.47518276260098,,1
+92,PTron,"Bassbuds Joy TWS with 13mm Drivers, Stereo Calls,...",Blue, True Wireless,3.7,6379,546,1999,72% off,,False,False,False,72.68634317158579,1453,268.93946973486743,,0
+93,Aroma,NB140 Captain 24 Hours* Playtime | Deep Bass | Ma...,Dark Blue, True Wireless,3.6,6182,490,5999,91% off,24,False,False,False,91.83197199533255,5509,330.5950991831972,,0
+94,GREE,MATT Tws Wireless Bluetooth Headset With Power Ban...,Black, True Wireless,3.9,814,799,2599,69% off,,False,False,False,69.25740669488265,1800,270.1038861100423,,0
+95,PTron,"Bassbuds Joy TWS with 13mm Drivers, Stereo Calls,...",Black, True Wireless,3.7,6379,1099,7999,86% off,,False,False,False,86.26078259782473,6900,319.1648956119515,,0
+96,divinestar,Advance Design TG-162 Party Light With High ...,Black, 4.1 Channel,3.9,121,1199,3990,69% off,,False,False,True,69.9498746867168,2791,272.8045112781955,,1
+97,Boult,"Audio Truebuds with 30H Battery, IPX7 Waterproof,...",Red, True Wireless,3.8,47151,499,3499,85% off,30,False,False,False,85.73878250928837,3000,325.80737353529577,,0
+98,boAt,Rockerz 255 Pro+ /258 Pro+ with ASAP Charge and up...,Active Black, In the Ear,4.2,624229,1799,2299,21% off,,False,False,False,21.748586341887776,500,91.34406263592867,,0
+99,U&i,ProPlus 50 Hrs Battery Backup Bluetooth Neckband wi...,Blue, In the Ear,3.5,26,1299,4999,74% off,50,False,False,False,74.01480296059212,3700,259.05181036207244,,0
+100,OnePlus,Bullets Wireless Z2 Bluetooth Headset,Beam Blue, In the Ear,4.2,506991,1599,2490,35% off,,False,False,False,35.78313253012048,891,150.28915662650604,,0
+101,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",Blue, In the Ear,4.2,14276,299,1999,85% off,60,False,True,False,85.04252126063031,1700,357.17858929464734,,1
+102,boAt,Rockerz 333 Upto 30 Hours Battery Bluetooth Headse...,Cherry Black, In the Ear,4.1,226716,419,2499,83% off,30,False,False,False,83.23329331732693,2080,341.2565026010404,,0
+103,U&i,Trendy 24Hrs Battery Backup Bluetooth Neckband with...,Red, In the Ear,4.2,20,546,1999,72% off,24,False,False,False,72.68634317158579,1453,305.28264132066033,,0
+104,Aroma,NB119B Badshah 60 Hours Playing Time Fast Chargin...,Blue, In the Ear,4.0,240115,1099,2490,55% off,60,True,False,False,55.863453815261046,1391,223.45381526104418,,1
+105,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,Black, True Wireless,3.7,8896,498,1898,73% off,24,False,False,False,73.76185458377239,1400,272.91886195995784,,0
+106,boAt,"Airdopes 161 with ASAP Charge, 10mm Drivers and 17...",Pearl White, True Wireless,4.1,327645,2999,3299,9% off,,False,False,False,9.093664746892998,300,37.28402546226129,,0
+107,Fome,M10 TWS Bluetooth Earbuds Wireless Earbuds Bluetoo...,Black, In the Ear,3.4,130,1099,7999,86% off,,False,False,False,86.26078259782473,6900,293.28666083260407,,0
+108,OnePlus,Nord Buds 2 True Wireless Earbuds with 25dB Act...,Thunder Gray, True Wireless,4.3,2432,559,1999,72% off,,False,False,False,72.0360180090045,1440,309.7548774387193,,0
+109,Boult,"Audio Truebuds with 30H Battery, IPX7 Waterproof,...",Grey, True Wireless,3.8,47151,494,1799,72% off,30,False,False,False,72.54030016675931,1305,275.6531406336854,,0
+110,Aroma,NB140 Dhamaal 24 Hours* Playtime | Deep Bass | Ma...,Black, True Wireless,3.6,871,899,5999,85% off,24,False,False,False,85.01416902817137,5100,306.0510085014169,,0
+111,Fushion,"Earbud White, With (Wireless Charging Case) Blu...",White, True Wireless,3.5,137,1099,2490,55% off,,False,False,False,55.863453815261046,1391,195.52208835341366,,0
+112,Boult,"Audio Gearpods with 32H Playtime, Fast Charging, ...",Black, True Wireless,3.7,147072,599,6999,91% off,32,True,False,False,91.44163451921703,6400,338.33404772110305,,1
+113,boAt,"Airdopes 161 with ASAP Charge, 10mm Drivers and 17...",Pebble Black, True Wireless,4.1,327645,499,2850,82% off,,False,False,False,82.49122807017544,2351,338.21403508771925,,0
+114,SFZ,Mini Bluetooth Speaker Wireless Handsfree Car Bicyc...,Multicolor, Mono Channel,3.9,28990,899,2490,63% off,,False,False,False,63.89558232931727,1591,249.19277108433735,,0
+115,TECHFIRE,Platinum Series Neckband - Low Price Bluetooth...,Black, In the Ear,4.2,124994,649,2999,78% off,,False,False,False,78.35945315105035,2350,329.1097032344115,,0
+116,myxes,New Edition TWS M19 Gaming Earbuds Bluetooth 5.0 ...,Black, In the Ear,4.2,56,535,1999,73% off,,False,False,False,73.23661830915458,1464,307.5937968984492,,0
+117,truke,"BTG Alpha Earbuds with Game Mode, 38H Playtime, 7...",Black, True Wireless,3.9,16564,699,2499,72% off,38,False,False,False,72.02881152460985,1800,280.9123649459784,,0
+118,GAGANDEEP,TWS i12 Bluetooth Wireless Earphone Touch Sen...,Multicolor, True Wireless,3.4,1321,499,2999,83% off,,False,False,False,83.36112037345782,2500,283.4278092697566,,0
+119,Aroma,NB140 Captain 24 Hours* Playtime | Deep Bass | Ma...,Dark Blue, True Wireless,3.6,6182,546,1999,72% off,24,False,False,False,72.68634317158579,1453,261.6708354177089,,0
+120,Aroma,NB119 Advance 48 Hours Playing Time Fast Charging...,Black  Yellow, In the Ear,4.0,34492,399,2499,84% off,48,True,False,True,84.03361344537815,2100,336.1344537815126,,2
+121,Aroma,NB120 Tehalka 40 Hours Playing Time Dual Pairing ...,Black  Silver, In the Ear,3.8,134952,346,1499,76% off,40,False,False,False,76.91794529686457,1153,292.28819212808537,,0
+122,boAt,"Rockerz 255 Max with 60 Hours Playback, EQ Modes &...",Stunning Black, In the Ear,4.1,1997,1399,3990,64% off,60,False,False,False,64.93734335839599,2591,266.24310776942355,,0
+123,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,Black, True Wireless,3.7,8896,546,1999,72% off,24,False,False,False,72.68634317158579,1453,268.93946973486743,,0
+124,TECHFIRE,Fire 500v2 Neckband hi-bass Wireless Bluetooth...,Grey, In the Ear,3.9,188519,445,3850,88% off,,False,False,False,88.44155844155844,3405,344.9220779220779,,0
+125,Boult,"Audio YCharge with Pro+ Calling Mic, Full Charge ...",Blue, In the Ear,4.0,20048,699,1999,65% off,,False,False,False,65.03251625812906,1300,260.13006503251626,,0
+126,Ucool,80 Hours Playtime Wireless Neckband headphones Ea...,Teal Green, In the Ear,4.0,11962,599,2499,76% off,80,False,False,False,76.03041216486595,1900,304.1216486594638,,0
+127,Mivi,"DuoPods K5 TWS Earbuds Metallic Finish, HD calling...",Cobalt Blue, True Wireless,4.2,308,1399,3999,65% off,,False,False,False,65.01625406351587,2600,273.0682670667667,,0
+128,Nexbird,B11 Neckband Truly Wireless Bluetooth 5.0 Headp...,Blue, In the Ear,3.7,186,284,1899,85% off,0,False,False,False,85.04476040021063,1615,314.66561348077937,,0
+129,JVMART,B235 BT SUPER SOUND NECKBAND Bluetooth Headset,Blue, True Wireless,3.9,147764,385,1999,80% off,,False,False,False,80.74037018509254,1614,314.8874437218609,,0
+130,Boult,"Audio XPods with Mega 13mm Drivers, 20H Battery, ...",Blue, True Wireless,4.1,327645,899,4999,82% off,20,False,False,False,82.01640328065614,4100,336.26725345069013,,0
+131,boAt,"Airdopes 161 with ASAP Charge, 10mm Drivers and 17...",Pebble Black, True Wireless,3.6,6182,1099,2490,55% off,,False,False,False,55.863453815261046,1391,201.10843373493978,,0
+132,Aroma,NB140 Captain 24 Hours* Playtime | Deep Bass | Ma...,Black, True Wireless,4.2,14276,546,1999,72% off,24,False,False,False,72.68634317158579,1453,305.28264132066033,,0
+133,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",Blue, In the Ear,4.2,6,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,310.8621724344869,,1
+134,NS,"WORLD Maverix TWS Earbuds, 20H Playtime,IPX5,Bluetoo...",Black, True Wireless,3.9,188519,599,3800,84% off,20,False,False,False,84.23684210526315,3201,328.52368421052626,,0
+135,TECHFIRE,Fire 500v2 Neckband hi-bass Wireless headphone...,Red, In the Ear,4.2,364,449,3850,88% off,,False,False,False,88.33766233766234,3401,371.01818181818186,,0
+136,Portronics,Harmonics Z5 Wireless Stereo Neckband Blueto...,Black, In the Ear,4.0,11877,699,2499,72% off,,False,False,False,72.02881152460985,1800,288.1152460984394,,0
+137,Aroma,NB119 Diamond - 50 Hours Playtime Bluetooth Neckb...,Black, In the Ear,3.5,26,421,2499,83% off,50,False,False,False,83.1532613045218,2078,291.0364145658263,,0
+138,U&i,ProPlus 50 Hrs Battery Backup Bluetooth Neckband wi...,Black, In the Ear,3.7,8896,499,3499,85% off,50,False,False,False,85.73878250928837,3000,317.233495284367,,0
+139,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,White, True Wireless,4.2,124994,546,1999,72% off,24,False,False,False,72.68634317158579,1453,305.28264132066033,,0
+140,boAt,Rockerz 235 Pro with upto 20 Hours Playback & ASAP...,Active Black, In the Ear,4.1,8135,1099,2490,55% off,20,False,False,False,55.863453815261046,1391,229.04016064257027,,0
+141,boAt,Rockerz 255 Arc with ENx Technology and upto 30 Ho...,Cosmos Black, In the Ear,4.0,49704,1299,2990,56% off,30,False,False,False,56.5551839464883,1691,226.2207357859532,,0
+142,Boult,"Audio ProBass EQCharge with ZEN Mode ENC, 32hrs P...",Red, In the Ear,3.7,6379,799,4499,82% off,,False,True,False,82.24049788841965,3700,304.2898421871527,,1
+143,PTron,"Bassbuds Joy TWS with 13mm Drivers, Stereo Calls,...",Black, True Wireless,3.8,2303,799,2599,69% off,,False,False,False,69.25740669488265,1800,263.17814544055403,,0
+144,FPX,Buzz 35 Hours Playtime with Deep bass Neckband Head...,Red, True Wireless,3.9,22,399,2499,84% off,35,False,False,False,84.03361344537815,2100,327.7310924369748,,0
+145,GENTLEMOB,Latest Earbuds/Tws/Xpods M10 Buds True wirele...,Support Iphone/Android phones 10hrs playtime, True Wireless,3.5,57,498,1299,61% off,,False,False,False,61.662817551963045,801,215.81986143187066,,0
+146,Fome,M10 Earbuds/TWS/buds 5.1 Earbuds with 280H Playtim...,Black, In the Ear,3.8,2551,489,2299,78% off,280,False,False,False,78.72988255763376,1810,299.1735537190083,,0
+147,TECHFIRE,Fire-T10 -48 Hours Playing Time Fast Charging ...,OCEAN  Blue, In the Ear,4.6,9,399,3850,89% off,48,True,False,False,89.63636363636364,3451,412.3272727272727,,1
+148,flying,india Premium TWS L21 True HIFI Bluetooth Earbud...,Black, True Wireless,4.0,1345614,424,2199,80% off,,False,False,False,80.71850841291496,1775,322.87403365165983,,0
+149,boAt,Airdopes 131 with upto 60 Hours and ASAP Charge Bl...,Active Black, True Wireless,3.9,147764,899,2990,69% off,60,False,False,False,69.93311036789298,2091,272.7391304347826,,0
+150,Boult,"Audio XPods with Mega 13mm Drivers, 20H Battery, ...",Black, True Wireless,3.9,188519,899,4999,82% off,20,False,False,False,82.01640328065614,4100,319.86397279455895,,0
+151,TECHFIRE,Fire 500v2 Neckband hi-bass Wireless Bluetooth...,Black, In the Ear,3.7,74252,458,3850,88% off,,False,False,False,88.1038961038961,3392,325.9844155844156,,0
+152,Mivi,DuoPods M30 earbuds with 42 hours of playtime | Ma...,Blue, True Wireless,4.0,20048,799,2999,73% off,,False,False,False,73.35778592864288,2200,293.43114371457153,,0
+153,Boult,"Audio YCharge with Pro+ Calling Mic, Full Charge ...",Black, In the Ear,3.9,20871,699,1999,65% off,,False,False,False,65.03251625812906,1300,253.62681340670335,,0
+154,Aroma,NB119 Jersey - 48 Hours Playtime Fast Charging Wi...,Blue, In the Ear,4.7,81,399,2499,84% off,48,True,False,False,84.03361344537815,2100,394.9579831932773,,1
+155,boAt,"Airdopes 131 PRO with 11mm Drivers,45Hrs Playback,...",Royal Blue, In the Ear,3.9,112074,1299,2990,56% off,45,False,False,False,56.5551839464883,1691,220.56521739130437,,0
+156,HOPPUP,"AirDoze M30 with BT 5.3, 30H Playtime, Dual Mic ...",Black  Gold, True Wireless,3.6,536,599,1999,70% off,30,False,False,False,70.03501750875438,1400,252.12606303151577,,0
+157,Mivi,DuoPods M30 earbuds with 42 hours of playtime | Ma...,Black, True Wireless,3.7,74252,799,2999,73% off,,False,False,False,73.35778592864288,2200,271.4238079359787,,0
+158,Aroma,NB140 Captain 24 Hours* Playtime | Deep Bass | Ma...,Dark Blue, True Wireless,3.6,6182,546,1999,72% off,24,False,False,False,72.68634317158579,1453,261.6708354177089,,0
+159,boAt,Rockerz 333 Upto 30 Hours Battery Bluetooth Headse...,Teal Green, In the Ear,4.1,226716,1599,2490,35% off,30,False,False,False,35.78313253012048,891,146.71084337349396,,0
+160,realme,Buds Wireless 2S with Dual Device Switching & Ty...,Black  Yellow, In the Ear,4.1,20177,1499,2999,50% off,,False,False,False,50.01667222407469,1500,205.06835611870622,,0
+161,Mivi,Collar Classic Neckband with Fast Charging Bluetoo...,Black, In the Ear,3.9,194790,599,2999,80% off,,True,False,False,80.02667555851951,2400,312.10403467822607,,1
+162,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,Black, True Wireless,3.7,8896,546,1999,72% off,24,False,False,False,72.68634317158579,1453,268.93946973486743,,0
+163,Boult,"Audio ProBass Fcharge with 40 hrs Playtime, ENC, ...",Black, In the Ear,4.0,58276,899,4999,82% off,,False,True,False,82.01640328065614,4100,328.06561312262454,,1
+164,Mivi,Collar Classic Neckband with Fast Charging Bluetoo...,Blue, In the Ear,3.9,194790,699,2499,72% off,,True,False,False,72.02881152460985,1800,280.9123649459784,,1
+165,NOYMI,Wireless Waterproof Bluetooth Neckband earphone w...,Sea-Blue, In the Ear,3.7,135,599,1599,62% off,,False,False,False,62.539086929330836,1000,231.39462163852411,,0
+166,Boult,"Audio ProBass EQCharge with ZEN Mode ENC, 32hrs P...",Blue, In the Ear,4.0,49704,799,4499,82% off,,False,True,False,82.24049788841965,3700,328.9619915536786,,1
+167,GREE,"MATT Bluetooth Headst Neckband B11 (Red, In The Ea...",Red, In the Ear,4.1,82,290,999,70% off,,False,False,False,70.97097097097097,709,290.9809809809809,,0
+168,truke,"Buds S2 Lite with 48H Playtime, ENC, Made in Indi...",Black, True Wireless,4.0,12680,899,2999,70% off,48,False,True,False,70.02334111370457,2100,280.0933644548183,,1
+169,truke,"BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...",Black, True Wireless,4.0,45280,1099,3499,68% off,48,False,False,False,68.5910260074307,2400,274.3641040297228,,0
+170,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",White, In the Ear,4.2,14276,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,310.8621724344869,,1
+171,FRISTDOWN,I12 TWS Wireless Earbuds Bluetooth 5.0 Earpho...,White, True Wireless,3.6,230,430,1999,78% off,,False,False,False,78.48924462231116,1569,282.5612806403202,,0
+172,SHOPLINE,twins Ti7s bluetooth headphone wireless Blueto...,White, True Wireless,3.5,911,429,999,57% off,,False,False,False,57.05705705705706,570,199.6996996996997,,0
+173,TXOR,"SENSO V 1.0 TWS EARBUDS, Bass+ 20 H Playtime & Fas...",Metallic White, True Wireless,3.5,3262,573,1299,55% off,20,False,False,False,55.8891454965358,726,195.6120092378753,,0
+174,Boult,"Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...",Black, True Wireless,4.1,111172,999,5499,81% off,40,True,False,False,81.83306055646482,4500,335.5155482815057,,1
+175,Fire-Boltt,"Fire Pods Ninja Pro 403 Earbuds TWS, ENC & G...",Black, True Wireless,4.2,7484,1099,5999,81% off,,False,True,False,81.68028004667445,4900,343.05717619603274,,1
+176,Boult,"Audio XCharge with ENC Mic, 28H Playtime, Ultra-F...",Black, In the Ear,3.8,71799,799,4999,84% off,28,False,True,False,84.01680336067213,4200,319.2638527705541,,1
+177,Boult,"Audio Curve with BoomX Rich Bass, Flexi-band, Mag...",Blue  Black  Grey, In the Ear,4.0,405147,699,3499,80% off,,False,False,False,80.02286367533581,2800,320.09145470134325,,0
+178,Mivi,"DuoPods K5 TWS Earbuds Metallic Finish, HD calling...",Cobalt Blue, True Wireless,4.2,308,1399,3999,65% off,,False,False,False,65.01625406351587,2600,273.0682670667667,,0
+179,SHOPLINE,B11 Truly Wireless Bluetooth On Ear Neckband E...,Red, In the Ear,3.3,65,299,999,70% off,,False,False,False,70.07007007007007,700,231.23123123123122,,0
+180,Boult,"Audio ProBass Fcharge with 40 hrs Playtime, ENC, ...",Blue, In the Ear,4.0,58276,899,4999,82% off,,False,True,False,82.01640328065614,4100,328.06561312262454,,1
+181,Aroma,NB119 Genius - 60 Hours Playtime Fast Charging Wi...,Blue, In the Ear,3.9,16094,431,2999,85% off,60,True,False,False,85.62854284761588,2568,333.9513171057019,,1
+182,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",Blue, In the Ear,4.2,14276,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,310.8621724344869,,1
+183,Aroma,NB119 King 100 Hours Playting Time Fast Charging ...,Blue, In the Ear,4.0,2144,599,3299,81% off,100,True,False,False,81.84298272203698,2700,327.3719308881479,,1
+184,Ggkart,BM K1 BLACK Bluetooth Headset Pack of 2 Bluetoot...,Black, In the Ear,3.2,336,364,2198,83% off,,False,False,False,83.43949044585987,1834,267.00636942675163,,0
+185,Aroma,NB137 Nexon 16 Hours* Playtime Deep Bass True Wir...,White  Silver, True Wireless,3.7,3128,499,1499,66% off,16,False,False,False,66.711140760507,1000,246.83122081387594,,0
+186,Boult,"Audio Truebuds with 30H Battery, IPX7 Waterproof,...",Red, True Wireless,3.8,47151,1099,7999,86% off,30,False,False,False,86.26078259782473,6900,327.79097387173397,,0
+187,truke,"Air Buds Lite with Quad Mic ENC, 10mm Driver, Ear...",Black, True Wireless,4.0,32192,899,2999,70% off,,False,True,False,70.02334111370457,2100,280.0933644548183,,1
+188,Met,style True Wireless Earbuds Mini Bluetooth (Dual L/...,White, True Wireless,3.5,1011,499,1699,70% off,,False,False,False,70.62978222483814,1200,247.20423778693348,,0
+189,SAIANSH,ENTERPRISES M10 TWS Bluetooth Earbuds Wireless ...,Black, True Wireless,3.8,687,1099,2490,55% off,,False,False,False,55.863453815261046,1391,212.28112449799195,,0
+190,boAt,"Airdopes 161 with ASAP Charge, 10mm Drivers and 17...",Pebble Black, True Wireless,4.1,327645,599,7999,92% off,,False,False,False,92.5115639454932,7400,379.2974121765221,,0
+191,Earboss,F9-5 Earbuds/TWs/buds 5.1 Earbuds with 280H Pla...,Black, True Wireless,3.7,2516,546,1999,72% off,280,False,False,False,72.68634317158579,1453,268.93946973486743,,0
+192,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,White, True Wireless,3.7,8896,391,2299,82% off,24,False,False,False,82.99260548064376,1908,307.0726402783819,,0
+193,Aroma,NB119C Carter 48 Hours Playing Time Fast Charging...,Black  Silver, In the Ear,4.0,66986,449,3850,88% off,48,True,False,False,88.33766233766234,3401,353.35064935064935,,1
+194,boAt,"Immortal 131 with Beast Mode, 40 Hours Playback an...",Black, True Wireless,4.2,4125,1699,3499,51% off,40,False,False,False,51.44326950557302,1800,216.06173192340668,,0
+195,Boult,"Audio X50 with 40Hr Battery, Quad Mic ENC, 45ms U...",White, True Wireless,4.0,28901,1199,4999,76% off,40,False,True,False,76.01520304060813,3800,304.0608121624325,,1
+196,U&i,Trendy 24Hrs Battery Backup Bluetooth Neckband with...,Dark Green, In the Ear,4.2,20,299,1999,85% off,24,False,False,False,85.04252126063031,1700,357.17858929464734,,0
+197,Aroma,NB140 Captain 24 Hours* Playtime | Deep Bass | Ma...,Dark Blue, True Wireless,3.6,6182,546,1999,72% off,24,False,False,False,72.68634317158579,1453,261.6708354177089,,0
+198,Boult,"Audio XCharge with ENC Mic, 28H Playtime, Ultra-F...",Teal Blue, In the Ear,3.8,71799,799,4999,84% off,28,False,True,False,84.01680336067213,4200,319.2638527705541,,1
+199,IZWI,New 2023 BLAST BASS 233 +Pro Neckband Wireless Wit...,BLUE 35HOUR BATTERY BACKUP, In the Ear,3.9,109,449,3999,88% off,,False,False,False,88.77219304826205,3550,346.211552888222,,0
+200,NOYMI,Waterproof Bluetooth wireless neckband earphone w...,Silver, In the Ear,3.7,1271,474,1599,70% off,,False,False,False,70.35647279549718,1125,260.31894934333957,,0
+201,Boult,"Audio ProBass EQCharge with ZEN Mode ENC, 32hrs P...",Blue, In the Ear,4.0,49704,799,4499,82% off,,False,True,False,82.24049788841965,3700,328.9619915536786,,1
+202,PRANSHU,SHOPPE Magnetic Earphone Stereo Headphone Heads...,Gold, In the Ear,3.9,131,499,1299,61% off,,False,False,False,61.585835257890686,800,240.18475750577366,,0
+203,truke,"Yoga Mystic lite Earbuds with Game Mode, 40ms Lat...",Blue  Black, In the Ear,4.1,2304,699,2499,72% off,,False,False,False,72.02881152460985,1800,295.3181272509004,,0
+204,Mivi,"Collar D25 Earphones with fast charge, 24Hours pla...",Red, In the Ear,4.0,30198,699,2999,76% off,24,True,False,False,76.69223074358119,2300,306.76892297432477,,1
+205,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,Black, True Wireless,3.7,8896,546,1999,72% off,24,False,False,False,72.68634317158579,1453,268.93946973486743,,0
+206,Mivi,"DuoPods K5 TWS Earbuds Metallic Finish, HD calling...",Coral Plush, True Wireless,4.2,308,1399,3999,65% off,,False,False,False,65.01625406351587,2600,273.0682670667667,,0
+207,OnePlus,Nord Buds 2 True Wireless Earbuds with 25dB Act...,Lightning White, True Wireless,4.3,2432,2999,3299,9% off,,False,False,False,9.093664746892998,300,39.10275841163989,,0
+208,boAt,"Airdopes 192 with Beast Mode(40ms), 30 Hours Playb...",White Sabre, True Wireless,4.0,4882,1899,3599,47% off,30,False,False,False,47.235343150875245,1700,188.94137260350098,,0
+209,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",White, In the Ear,4.2,14276,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,310.8621724344869,,1
+210,Highnotes,F9-5 Earbuds/TWs/buds 5.0 Earbuds with 280H P...,Black, True Wireless,3.8,1066,539,7999,93% off,280,False,False,False,93.2616577072134,7460,354.3942992874109,,0
+211,LONGWINGS,Deep Bass Bluetooth 5.2 Light Weight with Wir...,White, True Wireless,3.8,52,499,2999,83% off,,False,False,False,83.36112037345782,2500,316.7722574191397,,0
+212,FUR,JADEN AirJams GenZ TWS Earbuds 24 Hour Battery HD M...,Black, True Wireless,4.7,81,699,2000,65% off,24,False,False,False,65.05,1301,305.735,,0
+213,Mivi,"DuoPods K5 TWS Earbuds Metallic Finish, HD calling...",Cobalt Blue, True Wireless,4.2,308,1399,3999,65% off,,False,False,False,65.01625406351587,2600,273.0682670667667,,0
+214,OPPO,Enco M32 / EWN20 Bluetooth Headset,Black, In the Ear,4.3,58311,1799,2999,40% off,,False,True,False,40.01333777925976,1200,172.05735245081695,,1
+215,OPPO,Enco M32 / EWN20 Bluetooth Headset,Green, In the Ear,4.3,58311,1799,2999,40% off,,False,True,False,40.01333777925976,1200,172.05735245081695,,1
+216,Aroma,NB120 Tehalka 40 Hours Playing Time Dual Pairing ...,Pastel Yellow, In the Ear,3.8,134952,369,1499,75% off,40,False,False,False,75.38358905937291,1130,286.45763842561706,,0
+217,Boult,"Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...",Black, True Wireless,4.1,111172,999,5499,81% off,40,True,False,False,81.83306055646482,4500,335.5155482815057,,1
+218,SONY,WI-XB400 Extra Bass Wireless Stereo Headset Blueto...,Blue, In the Ear,4.0,9339,2499,4990,49% off,,False,False,False,49.91983967935872,2491,199.67935871743487,,0
+219,TECHFIRE,FIRE 300 Platinum Series Neckband - Low Price ...,White, In the Ear,3.8,6597,469,3850,87% off,,False,False,False,87.81818181818181,3381,333.7090909090909,,0
+220,Boltune,BT-335 Neckband hi-bass Wireless Bluetooth head...,OCEAN BLUE, In the Ear,3.8,19277,449,3850,88% off,,False,False,False,88.33766233766234,3401,335.68311688311684,,0
+221,boAt,"Airdopes 161 with ASAP Charge, 10mm Drivers and 17...",Pebble Black, True Wireless,4.1,327645,1099,2490,55% off,,False,False,False,55.863453815261046,1391,229.04016064257027,,0
+222,TECHFIRE,T20 60 Hours Playing Time Fast Charging Blueto...,Black, In the Ear,3.8,1107,399,3850,89% off,60,True,False,False,89.63636363636364,3451,340.6181818181818,,1
+223,FUR,JADEN AirJams GameX Bluetooth 5.2 Gaming Headphone ...,Black, True Wireless,3.8,11415,769,3000,74% off,,False,False,False,74.36666666666667,2231,282.59333333333336,,0
+224,DigiClues,Earbud F9 Earbuds/TWs/buds 5.1 Earbuds with 3...,Black, True Wireless,3.7,271,749,7999,90% off,,False,False,False,90.63632954119265,7250,335.35441930241285,,0
+225,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",Blue, In the Ear,4.2,14276,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,310.8621724344869,,1
+226,OPPO,Enco Buds 2 with 28 Hours Playback and AI Deep Noi...,Lime Green, True Wireless,4.2,81506,1799,3999,55% off,28,False,True,False,55.01375343835959,2200,231.0577644411103,,1
+227,RFV1,TWS Bluetooth Earphones Touch Sensor with in Built...,White, True Wireless,3.6,919,435,999,56% off,,False,False,False,56.45645645645646,564,203.24324324324326,,0
+228,Boult,"Audio Truebuds with 30H Battery, IPX7 Waterproof,...",Grey, True Wireless,3.8,47151,1099,7999,86% off,30,False,False,False,86.26078259782473,6900,327.79097387173397,,0
+229,Boult,"Audio Truebuds with 30H Battery, IPX7 Waterproof,...",Red, True Wireless,3.8,47151,1099,7999,86% off,30,False,False,False,86.26078259782473,6900,327.79097387173397,,0
+230,PTron,"Bassbuds Joy TWS with 13mm Drivers, Stereo Calls,...",White, True Wireless,3.7,6379,799,2599,69% off,,False,False,False,69.25740669488265,1800,256.2524047710658,,0
+231,boAt,Rockerz 255F Pro with ASAP Charge and upto 10 Hour...,Active Black, In the Ear,4.1,412222,999,3499,71% off,10,False,False,False,71.44898542440697,2500,292.94084024006855,,0
+232,Aroma,NB128 Happy 24 Hours Playing Time | Deep Bass| Ma...,Black  Yellow, In the Ear,3.7,84,321,1499,78% off,128,False,False,False,78.58572381587724,1178,290.76717811874585,,0
+233,TECHFIRE,Fire 500v2 Neckband hi-bass Wireless headphone...,Red, In the Ear,3.9,188519,449,3850,88% off,,False,False,False,88.33766233766234,3401,344.5168831168831,,0
+234,NS,"WORLD Maverix TWS Earbuds, 20H Playtime,IPX5,Bluetoo...",Black, True Wireless,4.2,6,599,3800,84% off,20,False,False,False,84.23684210526315,3201,353.79473684210524,,0
+235,OPPO,Enco M32 / EWN20 Bluetooth Headset,Black, In the Ear,4.3,58311,1799,2999,40% off,,False,True,False,40.01333777925976,1200,172.05735245081695,,1
+236,Aroma,NB119 Love - 80 Hours Playtime Bluetooth Neckband...,Black, In the Ear,4.0,7076,599,2999,80% off,80,False,False,False,80.02667555851951,2400,320.10670223407806,,0
+237,Boult,"Audio YCharge with Pro+ Calling Mic, Full Charge ...",Blue, In the Ear,4.0,20048,699,1999,65% off,,False,False,False,65.03251625812906,1300,260.13006503251626,,0
+238,U&i,Massive 80Hrs Battery Backup Bluetooth Neckband wit...,Blue, In the Ear,4.5,39,599,2999,80% off,80,False,False,False,80.02667555851951,2400,360.1200400133378,,0
+239,Boult,"Audio ProBass EQCharge with ZEN Mode ENC, 32hrs P...",Black, In the Ear,4.0,49704,799,4499,82% off,,False,True,False,82.24049788841965,3700,328.9619915536786,,1
+240,OPPO,Enco M32 / EWN20 Bluetooth Headset,Green, In the Ear,4.3,58311,1799,2999,40% off,,False,True,False,40.01333777925976,1200,172.05735245081695,,1
+241,Boult,"Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...",Black, True Wireless,4.1,111172,999,5499,81% off,40,True,False,False,81.83306055646482,4500,335.5155482815057,,1
+242,Aroma,NB119 Genius - 60 Hours Playtime Fast Charging Wi...,Black, In the Ear,3.9,16094,431,2999,85% off,60,True,False,False,85.62854284761588,2568,333.9513171057019,,1
+243,Nexbird,B11 Neckband Truly Wireless Bluetooth 5.0 Headp...,Blue, In the Ear,4.4,5,284,1899,85% off,0,False,False,False,85.04476040021063,1615,374.19694576092684,,0
+244,Noise,"Buds VS102 with 50 Hrs Playtime, 11mm Driver, IPX...",Midnight Blue, True Wireless,4.1,252983,1299,2999,56% off,50,False,False,False,56.68556185395131,1700,232.41080360120037,,0
+245,Boult,"Audio Gearpods with 32H Playtime, Fast Charging, ...",White, True Wireless,3.7,147072,899,5999,85% off,32,True,False,False,85.01416902817137,5100,314.55242540423404,,1
+246,Mivi,Duopods F30 with 42 hours battery Fast Charging TW...,Black, True Wireless,3.9,184082,899,2999,70% off,,True,False,False,70.02334111370457,2100,273.0910303434478,,1
+247,Mivi,DuoPods F40 with 50 Hrs Playtime I13mm Drivers|Mad...,Black, True Wireless,3.8,109649,899,2999,70% off,50,False,False,False,70.02334111370457,2100,266.0886962320774,,0
+248,boAt,Airdopes 131 with upto 60 Hours and ASAP Charge Bl...,Cherry Blossom, True Wireless,4.0,1345614,899,2990,69% off,60,False,False,False,69.93311036789298,2091,279.7324414715719,,0
+249,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",Blue, In the Ear,4.2,14276,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,310.8621724344869,,1
+250,snowbudy,"Bluetooth Earbuds with High Bass, Full Touch, ...",Black BOX BATTERY BACKUP 48 HR, True Wireless,3.7,22,599,3399,82% off,,False,False,False,82.37716975581053,2800,304.79552809649897,,0
+251,Aroma,NB119C Carter 48 Hours Playing Time Fast Charging...,Yellow, In the Ear,4.0,66986,395,2299,82% off,48,True,False,False,82.81861678990866,1904,331.27446715963464,,1
+252,boAt,Rockerz 235v2/238 with ASAP Charge and upto 8 Hour...,Charcoal Black, In the Ear,4.2,1644667,1199,2990,59% off,8,False,False,False,59.89966555183946,1791,251.57859531772576,,0
+253,Mivi,"DuoPods K5 TWS Earbuds Metallic Finish, HD calling...",Raven Black, True Wireless,4.2,308,1399,3999,65% off,,False,False,False,65.01625406351587,2600,273.0682670667667,,0
+254,Mivi,"Collar D25 Earphones with fast charge, 24Hours pla...",Red, In the Ear,4.0,30198,699,2999,76% off,24,True,False,False,76.69223074358119,2300,306.76892297432477,,1
+255,TECHFIRE,F-700 40 Hours Playtime Bluetooth Wireless Nec...,Gold, In the Ear,3.8,760,499,3850,87% off,40,False,False,False,87.03896103896103,3351,330.7480519480519,,0
+256,boAt,Rockerz 333 Pro with 60 Hours Battery Bluetooth He...,Navy Blue, In the Ear,4.2,42691,1799,2990,39% off,60,False,False,False,39.83277591973244,1191,167.29765886287626,,0
+257,Boult,"Audio YCharge with Pro+ Calling Mic, Full Charge ...",Black, In the Ear,4.0,20048,699,1999,65% off,,False,False,False,65.03251625812906,1300,260.13006503251626,,0
+258,Aroma,"NB119 Unity 100 Hours Playtime ENC, EQ modes, Fas...",Black, In the Ear,3.6,1461,454,3299,86% off,100,False,True,False,86.2382540163686,2845,310.45771445892694,,1
+259,TECHFIRE,T20 60 Hours Playing Time Fast Charging Blueto...,Black, In the Ear,3.8,1107,399,3850,89% off,60,True,False,False,89.63636363636364,3451,340.6181818181818,,1
+260,Dozokil,M10 TWS Bluetooth Earbuds Wireless Earbuds (Bla...,Black, True Wireless,3.8,149,495,2099,76% off,,False,False,False,76.41734159123392,1604,290.3858980466889,,0
+261,boAt,Rockerz 235 Pro with upto 20 Hours Playback & ASAP...,Ash Grey, In the Ear,4.2,124994,899,2490,63% off,20,False,False,False,63.89558232931727,1591,268.3614457831325,,0
+262,DigiClues,Classic N21 TWS LED With Flashlight 40H Playt...,Black, True Wireless,3.9,152,899,7999,88% off,40,False,False,False,88.76109513689211,7100,346.1682710338792,,0
+263,LONGWINGS,Deep Bass Bluetooth 5.2 Light Weight with Wir...,White, True Wireless,3.8,52,499,2999,83% off,,False,False,False,83.36112037345782,2500,316.7722574191397,,0
+264,Lichen,B11 Neckband Bluetooth Headset Earphone Sports R...,Blue, In the Ear,3.8,47151,288,1599,81% off,,False,False,False,81.98874296435272,1311,311.5572232645403,,0
+265,Boult,"Audio Truebuds with 30H Battery, IPX7 Waterproof,...",Grey, True Wireless,4.1,1999,1099,7999,86% off,30,False,False,False,86.26078259782473,6900,353.66920865108136,,0
+266,Mivi,"Commando X9 Earbuds, Dual RGB Lights, 35ms Low Lat...",Black, True Wireless,3.7,338,1499,2999,50% off,,False,False,False,50.01667222407469,1500,185.06168722907637,,0
+267,snowbudy,X2 Pro Wireless Earbuds with Support Upto 6-8h...,Black, True Wireless,3.7,367,499,1799,72% off,,False,False,False,72.26236798221234,1300,267.37076153418565,,0
+268,ULTADOR,"Audio Bass Blast YCharge with Fast Charging , P...",Green, In the Ear,4.0,405147,475,1999,76% off,,True,False,False,76.23811905952977,1524,304.95247623811906,,1
+269,Boult,"Audio Curve with BoomX Rich Bass, Flexi-band, Mag...",Blue  Black  Grey, In the Ear,4.1,11076,699,3499,80% off,,False,False,False,80.02286367533581,2800,328.0937410688768,,0
+270,Aroma,NB119 Platinum - 48 Hours Playtime Bluetooth Neck...,Black, In the Ear,4.0,30198,499,2499,80% off,48,False,False,False,80.03201280512204,2000,320.12805122048815,,0
+271,Mivi,"Collar D25 Earphones with fast charge, 24Hours pla...",Blue, In the Ear,3.9,20871,699,2999,76% off,24,True,False,False,76.69223074358119,2300,299.09969989996665,,1
+272,Aroma,NB119 Jersey - 48 Hours Playtime Fast Charging Wi...,Red, In the Ear,4.1,17364,399,2499,84% off,48,True,False,False,84.03361344537815,2100,344.53781512605036,,1
+273,KRAZZY,INDIA B11 BLUE Bluetooth without Mic Headset,Blue  Black, In the Ear,3.7,1097,279,599,53% off,,False,False,False,53.42237061769616,320,197.6627712854758,,0
+274,Digiwins,B235 Neckband With ASAP Fast Charging Stereo S...,Black, In the Ear,5.0,14,449,2999,85% off,,True,False,False,85.02834278092698,2550,425.1417139046349,,1
+275,Mivi,"Collar D25 Earphones with fast charge, 24Hours pla...",Blue, In the Ear,4.0,30198,699,2999,76% off,24,True,False,False,76.69223074358119,2300,306.76892297432477,,1
+276,Boult,"Audio YCharge with Pro+ Calling Mic, Full Charge ...",Blue, In the Ear,4.0,20048,699,1999,65% off,,False,False,False,65.03251625812906,1300,260.13006503251626,,0
+277,TimbreSonic,Bounce Plus in-Ear Wireless Bluetooth Smart...,Grey, True Wireless,3.9,127,494,1999,75% off,,False,False,False,75.28764382191096,1505,293.6218109054527,,0
+278,truke,"Yoga Mystic with 50H Playtime, Fast Charge, ENC, ...",Black, In the Ear,3.8,2073,799,2999,73% off,50,True,True,False,73.35778592864288,2200,278.75958652884293,,2
+279,Aroma,NB120 Last 36 Hours Playtime Bluetooth Neckband E...,Blue, In the Ear,3.8,598,347,1499,76% off,36,False,False,False,76.85123415610407,1152,292.03468979319547,,0
+280,Boult,"Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...",Black, True Wireless,4.1,111172,999,5499,81% off,40,True,False,False,81.83306055646482,4500,335.5155482815057,,1
+281,Noise,"Nerve Neckband with 25 Hours of Playtime, 10mm Dr...",Stone Blue, In the Ear,3.9,70950,799,2499,68% off,25,False,False,False,68.02721088435374,1700,265.3061224489796,,0
+282,GENTLEMOB,M19 Gaming Earbuds Bluetooth 5.0 wireless Pro...,Black, True Wireless,5.0,3,589,1999,70% off,,False,False,False,70.53526763381691,1410,352.6763381690846,,0
+283,Noise,"Air Buds Mini with 15 Hours Playtime, Tru Bass Te...",Pale Blue, True Wireless,3.9,216863,1199,2999,60% off,15,False,False,False,60.02000666888962,1800,234.07802600866953,,0
+284,Boult,"Audio Gearpods with 32H Playtime, Fast Charging, ...",White, True Wireless,3.7,147072,899,5999,85% off,32,True,False,False,85.01416902817137,5100,314.55242540423404,,1
+285,Mivi,DuoPods F60 ENC with 50+ Hrs Playtime| Made in Ind...,Blue, True Wireless,3.8,70531,999,2999,66% off,,False,True,False,66.68889629876625,2000,253.41780593531175,,1
+286,ENTROK,M19 TWS Bluetooth 5.1 Wireless Earbuds With 2000...,Black, True Wireless,3.7,264,589,1999,70% off,,False,False,False,70.53526763381691,1410,260.9804902451226,,0
+287,OPPO,Enco Buds 2 with 28 Hours Playback and AI Deep Noi...,Lime Green, True Wireless,4.2,81506,1799,3999,55% off,28,False,True,False,55.01375343835959,2200,231.0577644411103,,1
+288,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",Blue, In the Ear,4.2,14276,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,310.8621724344869,,1
+289,truke,"Buds Q1 with 30H Playtime, Quad Mic ENC, Game Mod...",Black, True Wireless,4.0,69158,999,3499,71% off,30,False,True,False,71.44898542440697,2500,285.7959416976279,,1
+290,U&i,Burn Series Single Ear Business Headset Bluetooth H...,Silver, In the Ear,3.9,3975,449,1699,73% off,,False,False,False,73.57268981753973,1250,286.9334902884049,,0
+291,Ucool,Nexa 100 Hours Playtime Bluetooth Wireless Neckba...,Black  Teal Green, In the Ear,4.0,9849,699,2999,76% off,100,False,False,False,76.69223074358119,2300,306.76892297432477,,0
+292,Boult,"Audio YCharge with Pro+ Calling Mic, Full Charge ...",Black, In the Ear,4.0,20048,699,1999,65% off,,False,False,False,65.03251625812906,1300,260.13006503251626,,0
+293,Aroma,NB119C Carter 48 Hours Playing Time Fast Charging...,Blue, In the Ear,4.0,66986,395,2299,82% off,48,True,False,False,82.81861678990866,1904,331.27446715963464,,1
+294,Noise,"Nerve Neckband with 25 Hours of Playtime, 10mm Dr...",Mist Grey, In the Ear,3.9,70950,799,2499,68% off,25,False,False,False,68.02721088435374,1700,265.3061224489796,,0
+295,boAt,"Rockerz 260 with Beast Mode, ENx Tech and ASAP Cha...",Electric Purple, In the Ear,4.2,41194,1299,2499,48% off,,False,False,False,48.019207683073226,1200,201.68067226890756,,0
+296,boAt,Rockerz 235 Pro with upto 20 Hours Playback & ASAP...,Ash Grey, In the Ear,4.2,124994,899,2490,63% off,20,False,False,False,63.89558232931727,1591,268.3614457831325,,0
+297,U&i,Titanic Series - Low Price Bluetooth Neckband Bluet...,Black, In the Ear,4.0,172454,404,1999,79% off,,False,False,False,79.78989494747374,1595,319.15957978989496,,0
+298,Aroma,NB119 King 100 Hours Playting Time Fast Charging ...,Black, In the Ear,4.0,2144,599,3299,81% off,100,True,False,False,81.84298272203698,2700,327.3719308881479,,1
+299,snowbudy,"(TWS) with Mic Bluetooth 5.0 6Hours Playtime, ...",Black BOX BATTERY BACKUP 48 HR, True Wireless,4.1,59,599,2199,72% off,6,False,False,False,72.76034561164165,1600,298.31741700773074,,0
+300,Boult,"Audio Truebuds with 30H Battery, IPX7 Waterproof,...",Grey, True Wireless,3.8,47151,1099,7999,86% off,30,False,False,False,86.26078259782473,6900,327.79097387173397,,0
+301,GREE,MATT M19 Bluetooth 5.1 Wireless Earbuds Touch Wate...,Black, True Wireless,3.5,27,593,4199,85% off,,False,False,False,85.87758990235771,3606,300.571564658252,,0
+302,TXOR,"SENSO V 1.0 TWS EARBUDS, Bass+ 20 H Play time & Fa...",Black, True Wireless,3.5,3262,572,1299,55% off,20,False,False,False,55.966127790608155,727,195.88144726712855,,0
+303,TEG,"EARBUDS SMALL SIZE, SUPER LIGHTWEIGHT earphone Blue...",White, In the Ear,3.6,8,499,2999,83% off,,False,False,False,83.36112037345782,2500,300.10003334444815,,0
+304,ORAIMO,"Airbuds 3 Earbuds with ENC, up to 20 hours Playb...",Blue, True Wireless,4.0,7050,899,2500,64% off,,False,True,False,64.03999999999999,1601,256.15999999999997,,1
+305,Boult,"Audio Truebuds with 30H Battery, IPX7 Waterproof,...",Red, True Wireless,3.8,47151,1099,7999,86% off,30,False,False,False,86.26078259782473,6900,327.79097387173397,,0
+306,Noise,"Buds VS102 Plus with 70 Hrs Playtime, Environment...",Serene Blue, In the Ear,4.0,29758,1599,3999,60% off,70,False,False,False,60.01500375093774,2400,240.06001500375095,,0
+307,Aroma,NB119 Magic 100 Hours Playing Time Fast Charging ...,Green, In the Ear,4.0,8531,663,3299,79% off,100,True,False,False,79.90300090936647,2636,319.6120036374659,,1
+308,Boult,"Audio Curve with BoomX Rich Bass, Flexi-band, Mag...",Blue  Black  Grey, In the Ear,4.0,405147,699,3499,80% off,,False,False,False,80.02286367533581,2800,320.09145470134325,,0
+309,TECHFIRE,M-31 Pro Neckband Wireless Bluetooth Headphone...,Green, In the Ear,3.9,6671,449,3850,88% off,,False,False,False,88.33766233766234,3401,344.5168831168831,,0
+310,U&i,Pro 50Hrs Battery Backup Bluetooth Neckband with Ma...,Blue, In the Ear,3.6,13,499,3199,84% off,50,False,False,False,84.40137542982183,2700,303.84495154735856,,0
+311,Boult,"Audio Curve with BoomX Rich Bass, Flexi-band, Mag...",Black  Grey, In the Ear,4.0,405147,699,3499,80% off,,False,False,False,80.02286367533581,2800,320.09145470134325,,0
+312,Mivi,"DuoPods K7 Metallic Finish,AI ENC,50H Playtime,Low...",Galaxy Black, In the Ear,4.1,2992,1299,4999,74% off,50,False,True,False,74.01480296059212,3700,303.46069213842765,,1
+313,Aroma,"NB119 Love 80 Hours Playtime Fast Charging, Dual ...",Green, In the Ear,4.0,7076,599,2999,80% off,80,True,False,False,80.02667555851951,2400,320.10670223407806,,1
+314,Noise,"Nerve Pro with upto 35hrs of playtime, ESR, Insta...",Neon Green, In the Ear,3.9,70950,899,2799,67% off,,False,False,False,67.88138620936049,1900,264.73740621650586,,0
+315,Boult,"Audio Curve ANC with Active Noice Cancellation, E...",Black, In the Ear,3.7,2493,1499,5499,72% off,,False,False,True,72.74049827241316,4000,269.1398436079287,,1
+316,Aroma,NB140 Captain 24 Hours* Playtime | Deep Bass | Ma...,Dark Blue, True Wireless,3.6,6182,546,1999,72% off,24,False,False,False,72.68634317158579,1453,261.6708354177089,,0
+317,U&i,Burn Series Single Ear Business Headset Bluetooth H...,Silver, In the Ear,3.9,3975,449,1699,73% off,,False,False,False,73.57268981753973,1250,286.9334902884049,,0
+318,SONY,WI-C100 with 25 Hours Battery Life Bluetooth Heads...,Grey, In the Ear,3.5,6986,1699,2790,39% off,25,False,False,False,39.10394265232975,1091,136.86379928315412,,0
+319,U&i,Titanic Series - Low Price Bluetooth Neckband Bluet...,Black, In the Ear,4.0,172454,404,1999,79% off,,False,False,False,79.78989494747374,1595,319.15957978989496,,0
+320,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,Black, True Wireless,3.7,8896,546,1999,72% off,24,False,False,False,72.68634317158579,1453,268.93946973486743,,0
+321,boAt,Airdopes 131 with upto 60 Hours and ASAP Charge Bl...,Cherry Blossom, True Wireless,4.0,1345614,899,2990,69% off,60,False,False,False,69.93311036789298,2091,279.7324414715719,,0
+322,realme,Techlife Buds T100 with up to 28 Hours Playback ...,White, True Wireless,4.3,55154,1499,2999,50% off,28,False,False,False,50.01667222407469,1500,215.07169056352114,,0
+323,Boult,"Audio Maverick with Quad Mic ENC, 45ms Low Latenc...",Black, True Wireless,4.0,7225,1299,4499,71% off,,False,True,False,71.12691709268726,3200,284.50766837074906,,1
+324,Mivi,"DuoPods K5 TWS Earbuds Metallic Finish, HD calling...",Cobalt Blue, True Wireless,4.2,308,1399,3999,65% off,,False,False,False,65.01625406351587,2600,273.0682670667667,,0
+325,Lichen,B11 Neckband Bluetooth Headset Earphone Sports R...,Blue, In the Ear,5.0,4,288,1599,81% off,,False,False,False,81.98874296435272,1311,409.9437148217636,,0
+326,Boult,"Audio Airbass Z35 with ZEN ENC Mic, 32H Playtime,...",Graphite Black, True Wireless,4.1,22458,1299,2999,56% off,32,False,True,False,56.68556185395131,1700,232.41080360120037,,1
+327,Boult,"Audio PowerBuds with Inbuilt Powerbank, 120H Batt...",Black, True Wireless,3.8,5418,1299,8999,85% off,120,False,False,False,85.56506278475386,7700,325.1472385820647,,0
+328,boAt,"Airdopes 161 with ASAP Charge, 10mm Drivers and 17...",Pebble Black, True Wireless,4.1,327645,1099,2490,55% off,,False,False,False,55.863453815261046,1391,229.04016064257027,,0
+329,Aroma,"NB119 Diamond 50 Hours Playtime Fast Charging, Du...",Green, In the Ear,4.0,11877,421,2499,83% off,50,True,False,False,83.1532613045218,2078,332.6130452180872,,1
+330,Mivi,Collar Classic Pro TWS Neckband with 72 Hours of P...,Red, In the Ear,4.0,25909,899,2999,70% off,72,False,False,False,70.02334111370457,2100,280.0933644548183,,0
+331,Ucool,Elite 100 Hours Playtime Wireless Neckband headph...,Black  Grey, In the Ear,4.0,4640,690,2999,76% off,100,False,False,False,76.99233077692564,2309,307.96932310770256,,0
+332,TECHFIRE,Fire 500v2 Neckband hi-bass Wireless headphone...,Red, In the Ear,3.9,188519,449,3850,88% off,,False,False,False,88.33766233766234,3401,344.5168831168831,,0
+333,HOPPUP,"ALPHA Neckband with 50H Playtime, Gaming Mode, E...",Red, In the Ear,3.8,3276,499,1499,66% off,50,False,False,False,66.711140760507,1000,253.5023348899266,,0
+334,Boult,"Audio Curve with BoomX Rich Bass, Flexi-band, Mag...",Black  Grey, In the Ear,4.0,405147,699,3499,80% off,,False,False,False,80.02286367533581,2800,320.09145470134325,,0
+335,Ucool,Nexa 100 Hours Playtime Bluetooth Wireless Neckba...,Black  Teal Green, In the Ear,4.0,9849,699,2999,76% off,100,False,False,False,76.69223074358119,2300,306.76892297432477,,0
+336,TECHFIRE,Fire 500v2 Neckband hi-bass Wireless Bluetooth...,Grey, In the Ear,3.9,188519,445,3850,88% off,,False,False,False,88.44155844155844,3405,344.9220779220779,,0
+337,KRAZZY,INDIA headphone0011 Bluetooth Headset,Black, In the Ear,3.7,734,279,999,72% off,,False,False,False,72.07207207207207,720,266.6666666666667,,0
+338,Mivi,DuoPods F40 with 50 Hrs Playtime I13mm Drivers|Mad...,Black, True Wireless,3.8,109649,899,2999,70% off,50,False,False,False,70.02334111370457,2100,266.0886962320774,,0
+339,truke,"BTG Beta with 13mm Titanium Drivers, 38H Playtime...",White, True Wireless,3.9,4768,899,2499,64% off,38,False,False,False,64.02561024409763,1600,249.69987995198076,,0
+340,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,White, True Wireless,3.7,8896,546,1999,72% off,24,False,False,False,72.68634317158579,1453,268.93946973486743,,0
+341,realme,Buds Air 3 with Fast Charge & Active Noise Cance...,Starry Blue, True Wireless,4.2,45985,3999,5999,33% off,,True,False,True,33.338889814969164,2000,140.0233372228705,,2
+342,ORAIMO,"Airbuds 3 Earbuds with ENC, up to 20 hours Playb...",Blue, True Wireless,4.0,7050,899,2500,64% off,,False,True,False,64.03999999999999,1601,256.15999999999997,,1
+343,boAt,"Airdopes 100 with 50 Hours Playback, Quad Mics ENx...",Emerald Green, In the Ear,3.8,15087,1399,4490,68% off,50,False,False,False,68.84187082405346,3091,261.5991091314031,,0
+344,TECHFIRE,Fire-T10 -48 Hours Playing Time Fast Charging ...,OCEAN  Blue, In the Ear,3.8,2551,399,3850,89% off,48,True,False,False,89.63636363636364,3451,340.6181818181818,,1
+345,FD1,S_S L21 Wireless bluetooth headphone Waterproof Ste...,Black, True Wireless,3.8,27292,485,1298,62% off,,False,False,False,62.634822804314325,813,238.01232665639444,,0
+346,SONY,WI-XB400 Extra Bass Wireless Stereo Headset Blueto...,Black, In the Ear,4.0,9339,2499,4990,49% off,,False,False,False,49.91983967935872,2491,199.67935871743487,,0
+347,Aroma,NB119 Jersey - 48 Hours Playtime Fast Charging Wi...,Red, In the Ear,3.9,20871,399,2499,84% off,48,True,False,False,84.03361344537815,2100,327.7310924369748,,1
+348,TECHFIRE,Fire 500v2 Neckband hi-bass Wireless Bluetooth...,Black, In the Ear,3.9,188519,458,3850,88% off,,False,False,False,88.1038961038961,3392,343.6051948051948,,0
+349,Aroma,NB119C Carter 48 Hours Playing Time Fast Charging...,Yellow, In the Ear,4.0,66986,395,2299,82% off,48,True,False,False,82.81861678990866,1904,331.27446715963464,,1
+350,TECHFIRE,M-31 Pro Neckband Wireless Bluetooth Headphone...,Green, In the Ear,3.9,6671,449,3850,88% off,,False,False,False,88.33766233766234,3401,344.5168831168831,,0
+351,Aroma,NB119 Rock - 40 Hours Playtime Bluetooth Neckband...,Blue, In the Ear,3.9,26422,597,2999,80% off,40,False,False,False,80.09336445481827,2402,312.36412137379125,,0
+352,FUR,JADEN AirJams GenZ TWS Earbuds 24 Hour Battery HD M...,Black, True Wireless,4.7,81,699,2000,65% off,24,False,False,False,65.05,1301,305.735,,0
+353,boAt,Rockerz 333 Pro with 60 Hours Battery Bluetooth He...,Cherry Black, In the Ear,4.2,42691,1799,2990,39% off,60,False,False,False,39.83277591973244,1191,167.29765886287626,,0
+354,TECHFIRE,Live 1000 Neckband wireless headphones with 36...,Black, In the Ear,3.8,2324,499,3850,87% off,,False,False,False,87.03896103896103,3351,330.7480519480519,,0
+355,Mivi,"Collar D25 Earphones with fast charge, 24Hours pla...",Blue, In the Ear,4.0,30198,699,2999,76% off,24,True,False,False,76.69223074358119,2300,306.76892297432477,,1
+356,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",White, In the Ear,4.2,14276,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,310.8621724344869,,1
+357,U&i,Pro 50Hrs Battery Backup Bluetooth Neckband with Ma...,Blue, In the Ear,3.6,13,499,3199,84% off,50,False,False,False,84.40137542982183,2700,303.84495154735856,,0
+358,Boltune,BT-335 Neckband hi-bass Wireless Bluetooth head...,Black, In the Ear,3.8,19277,449,3850,88% off,,False,False,False,88.33766233766234,3401,335.68311688311684,,0
+359,Boult,"Audio X45 with Quad Mic ENC, 40H Playtime, 45ms U...",Green, True Wireless,4.0,10964,1099,4999,78% off,40,False,True,False,78.01560312062412,3900,312.0624124824965,,1
+360,Boult,"Audio ProBass EQCharge with ZEN Mode ENC, 32hrs P...",Blue, In the Ear,4.0,49704,799,4499,82% off,,False,True,False,82.24049788841965,3700,328.9619915536786,,1
+361,PTron,"Basspods P481, 60Hrs Playtime, Deep Bass, ENC Ste...",Black, In the Ear,4.0,7783,799,3199,75% off,60,False,True,False,75.02344482650828,2400,300.0937793060331,,1
+362,Xezbi,(True buds) Wireless headphone Bluetooth earphone...,White, True Wireless,3.7,502,485,1699,71% off,,False,False,False,71.45379635079459,1214,264.37904649794,,0
+363,FPX,Jazz 80 Hours Playtime with Deep Bass Neckband Head...,Green, In the Ear,4.0,51,379,1499,74% off,80,False,False,False,74.71647765176785,1120,298.8659106070714,,0
+364,Boult,"Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...",Black, True Wireless,4.1,111172,999,5499,81% off,40,True,False,False,81.83306055646482,4500,335.5155482815057,,1
+365,Ggkart,K1 BLACK Bluetooth Headset Bluetooth Headset,Black, In the Ear,3.6,374,250,1199,79% off,,False,False,False,79.14929107589657,949,284.93744787322765,,0
+366,Mivi,"DuoPods K1 compact earbuds,AI-ENC,TWS with 42H Pla...",Bold Black, In the Ear,4.1,710,999,2999,66% off,42,False,True,False,66.68889629876625,2000,273.4244748249416,,1
+367,blue,"seed BBD Neckband Crystal Clear Sound,Vibration Al...",Black, In the Ear,4.0,10,349,399,12% off,,False,False,False,12.531328320802004,50,50.125313283208015,,0
+368,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",Blue, In the Ear,4.2,14276,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,310.8621724344869,,1
+369,ORAIMO,"Necklace 4 Fast Charge, 50hr PlayTime, Super Bas...",Blue  Green, In the Ear,4.2,2022,1299,3499,62% off,,True,False,False,62.87510717347814,2200,264.0754501286082,,1
+370,Aroma,NB128 Happy 24 Hours Playting Time Deep Bass Made...,Black  Black, In the Ear,3.7,178,314,1499,79% off,128,False,False,False,79.0527018012008,1185,292.49499666444297,,0
+371,Aroma,NB119 Diamond - 50 Hours Playtime Bluetooth Neckb...,Blue, In the Ear,4.0,11877,421,2499,83% off,50,False,False,False,83.1532613045218,2078,332.6130452180872,,0
+372,Boult,"Audio Truebuds with 30H Battery, IPX7 Waterproof,...",Red, True Wireless,3.8,47151,1099,7999,86% off,30,False,False,False,86.26078259782473,6900,327.79097387173397,,0
+373,KIMTOK,Bluetooth Wireless Earphone Waterproof Headphone...,Black, In the Ear,3.8,2412,449,1099,59% off,,False,False,False,59.14467697907189,650,224.74977252047316,,0
+374,U&i,Massive 80Hrs Battery Backup Bluetooth Neckband wit...,Silver, In the Ear,4.5,39,599,2999,80% off,80,False,False,False,80.02667555851951,2400,360.1200400133378,,0
+375,U&i,Massive 80Hrs Battery Backup Bluetooth Neckband wit...,Blue, In the Ear,4.5,39,599,2999,80% off,80,False,False,False,80.02667555851951,2400,360.1200400133378,,0
+376,Boult,"Audio Truebuds with 30H Battery, IPX7 Waterproof,...",Grey, True Wireless,3.8,47151,1099,7999,86% off,30,False,False,False,86.26078259782473,6900,327.79097387173397,,0
+377,OnePlus,Buds Z2 with Active Noise cancellation Bluetoot...,Obsidian Black, In the Ear,4.2,32911,4999,5999,16% off,,False,False,True,16.669444907484582,1000,70.01166861143525,,1
+378,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,Black, True Wireless,3.7,8896,546,1999,72% off,24,False,False,False,72.68634317158579,1453,268.93946973486743,,0
+379,Alfanso,"Earbud White, With (Wireless Charging Case) Blu...",Metallic White, True Wireless,3.6,54,499,1299,61% off,,False,False,False,61.585835257890686,800,221.70900692840647,,0
+380,PTron,"Bassbuds Joy TWS with 13mm Drivers, Stereo Calls,...",Black, True Wireless,3.7,6379,799,2599,69% off,,False,False,False,69.25740669488265,1800,256.2524047710658,,0
+381,OnePlus,Nord Buds Bluetooth Headset,Black Slate, True Wireless,4.3,77759,2499,2999,16% off,,False,False,False,16.672224074691563,500,71.69056352117371,,0
+382,Boult,"Audio Airbass Z35 with ZEN ENC Mic, 32H Playtime,...",Pista Green, True Wireless,4.1,22458,1299,2999,56% off,32,False,True,False,56.68556185395131,1700,232.41080360120037,,1
+383,Wings,Phantom 500 with ENC and 40 ms latency game mode ...,Black, True Wireless,4.0,6185,1299,4999,74% off,,False,True,False,74.01480296059212,3700,296.0592118423685,,1
+384,Boult,"Audio Maverick with Quad Mic ENC, 45ms Low Latenc...",Black, True Wireless,4.0,7225,1299,4499,71% off,,False,True,False,71.12691709268726,3200,284.50766837074906,,1
+385,Aroma,NB119C Carter 48 Hours Playing Time Fast Charging...,Pink, In the Ear,4.0,66986,395,2299,82% off,48,True,False,False,82.81861678990866,1904,331.27446715963464,,1
+386,KRAZZY,INDIA B11 BLUE Bluetooth without Mic Headset,Blue  Black, In the Ear,3.7,1097,279,599,53% off,,False,False,False,53.42237061769616,320,197.6627712854758,,0
+387,U&i,Pro 50Hrs Battery Backup Bluetooth Neckband with Ma...,Red, In the Ear,3.3,18,499,3199,84% off,50,False,False,False,84.40137542982183,2700,278.524538918412,,0
+388,Boult,"Audio X50 with 40Hr Battery, Quad Mic ENC, 45ms U...",White, True Wireless,4.0,28901,1199,4999,76% off,40,False,True,False,76.01520304060813,3800,304.0608121624325,,1
+389,TECHFIRE,Fire-155 Neckband hi-bass Wireless Bluetooth h...,TEAL GREEN, In the Ear,3.7,3072,409,1999,79% off,,False,False,False,79.53976988494247,1590,294.2971485742872,,0
+390,Aroma,NB119 Jersey - 48 Hours Playtime Fast Charging Wi...,Black, In the Ear,3.9,20871,399,2499,84% off,48,True,False,False,84.03361344537815,2100,327.7310924369748,,1
+391,Lichen,B11 Neckband Truly Wireless Bluetooth 5.0 Headph...,Black, In the Ear,4.0,405147,299,1599,81% off,0,False,False,False,81.30081300813008,1300,325.2032520325203,,0
+392,Aroma,NB119 Freedom - 72 Hours Playtime Bluetooth Neckb...,Orange, In the Ear,3.9,1693,489,2999,83% off,72,False,False,False,83.69456485495165,2510,326.40880293431144,,0
+393,Longway,Beat 512 with Fast Charge and upto 30 Hours Pla...,Black, In the Ear,4.2,845,399,1130,64% off,30,True,False,False,64.69026548672566,731,271.6991150442478,,1
+394,CIHLEX,CH-125 Latest Headphones Neckband Music Time Bat...,Blue, In the Ear,4.5,6,449,1999,77% off,,False,False,False,77.53876938469234,1550,348.92446223111557,,0
+395,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",White, In the Ear,4.2,14276,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,310.8621724344869,,1
+396,Ucool,Gusto 80 Hours Playtime Wireless Neckband headpho...,Black  Red, In the Ear,4.0,11962,598,2499,76% off,80,False,False,False,76.07042817126852,1901,304.28171268507407,,0
+397,Earboss,M10 Earbuds/ipod/buds 5.1 Earbuds with 280H Pla...,Black, True Wireless,3.5,11912,599,6999,91% off,280,False,False,False,91.44163451921703,6400,320.0457208172596,,0
+398,Boult,"Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...",Black, True Wireless,4.1,111172,999,5499,81% off,40,True,False,False,81.83306055646482,4500,335.5155482815057,,1
+399,Boult,"Audio ProBass EQCharge with ZEN Mode ENC, 32hrs P...",Blue, In the Ear,4.0,49704,799,4499,82% off,,False,True,False,82.24049788841965,3700,328.9619915536786,,1
+400,Mivi,DuoPods F40 with 50 Hrs Playtime I13mm Drivers|Mad...,Blue, True Wireless,3.8,109649,899,2999,70% off,50,False,False,False,70.02334111370457,2100,266.0886962320774,,0
+401,Noise,"Buds VS102 Plus with 70 Hrs Playtime, Environment...",Matte Black, In the Ear,4.0,29758,1599,3999,60% off,70,False,False,False,60.01500375093774,2400,240.06001500375095,,0
+402,snowbudy,A15 Wireless Earbuds with Support Upto 6-8hrs ...,Black, True Wireless,3.8,394,499,2099,76% off,,False,False,False,76.22677465459743,1600,289.6617436874702,,0
+403,Aroma,NB140 Captain 24 Hours* Playtime | Deep Bass | Ma...,Dark Blue, True Wireless,3.6,6182,546,1999,72% off,24,False,False,False,72.68634317158579,1453,261.6708354177089,,0
+404,GREEN,BIRD in-Ear Truly Wireless Earbuds with Fast Char...,SKY BLUE, True Wireless,3.5,4639,474,1499,68% off,,True,False,False,68.37891927951968,1025,239.32621747831888,,1
+405,boAt,Rockerz 255F Pro with Fast Charging Bluetooth Head...,Navy Blue, In the Ear,4.1,412222,1099,3499,68% off,,True,False,False,68.5910260074307,2400,281.2232066304658,,1
+406,boAt,"Rockerz 378 with Spatial Bionic Sound by THX, ASAP...",Active Black, In the Ear,4.0,970,1499,3490,57% off,,False,False,False,57.0487106017192,1991,228.1948424068768,,0
+407,PTron,"Bassbuds Joy TWS with 13mm Drivers, Stereo Calls,...",Black, True Wireless,3.7,6379,799,2599,69% off,,False,False,False,69.25740669488265,1800,256.2524047710658,,0
+408,Aroma,"NB119 Extreme 100 Hours, Type C Fast Charging Mag...",Blue, In the Ear,3.9,942,783,3299,76% off,100,True,False,False,76.26553501060927,2516,297.43558654137615,,1
+409,Aroma,NB119 Neutron 60 Hours PlayTime With 4 EQ modes F...,Black, In the Ear,3.9,3797,594,2999,80% off,60,False,False,False,80.19339779926642,2405,312.754251417139,,0
+410,Aroma,NB120 Jam 24 Hours Playtime Bluetooth Neckband Ea...,Yellow, In the Ear,3.8,989,339,1499,77% off,24,False,False,False,77.38492328218813,1160,294.06270847231485,,0
+411,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,Black, True Wireless,3.7,8896,546,1999,72% off,24,False,False,False,72.68634317158579,1453,268.93946973486743,,0
+412,IZWI,"Premium Wireless Magnetic Neckband, Bluetooth in E...",Black, In the Ear,3.9,194790,499,2490,79% off,,False,False,False,79.95983935742971,1991,311.8433734939759,,0
+413,Mivi,Collar Classic Neckband with Fast Charging Bluetoo...,Orange, In the Ear,3.7,21,699,2499,72% off,,True,False,False,72.02881152460985,1800,266.5066026410565,,1
+414,Dozokil,L21 Earbuds/Air-pod/ buds 5.0 Bluetooth Headset,Black, True Wireless,3.8,47151,499,1997,75% off,,False,False,False,75.01251877816725,1498,285.0475713570355,,0
+415,Boult,"Audio Truebuds with 30H Battery, IPX7 Waterproof,...",Red, True Wireless,5.0,3,1099,7999,86% off,30,False,False,False,86.26078259782473,6900,431.30391298912366,,0
+416,MR,ROBOT K1 Wireless Bluetoth Single Ear Headset Earbud...,Black, True Wireless,4.0,3487,499,999,50% off,,False,False,False,50.050050050050054,500,200.20020020020021,,0
+417,FUR,"JADEN AirJams 13mm HD Dynamic Driver, Thumping Bass...",Black, True Wireless,3.6,26,869,3000,71% off,,False,False,False,71.03333333333333,2131,255.72,,0
+418,Mayank,"M19 Bluetooth Headset (Black, True Wireless) Blu...",Black, True Wireless,4.2,14276,575,1999,71% off,,False,False,False,71.23561780890445,1424,299.1895947973987,,0
+419,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",Blue, In the Ear,4.1,19628,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,303.46069213842765,,1
+420,DEFY,"GravityZ with upto 50 Hours Playback, 4 Mic ENC, 1...",Black Fury, In the Ear,4.4,389,1099,2699,59% off,50,False,True,False,59.28121526491294,1600,260.83734716561696,,1
+421,truke,"Buds A1 with 30dB ANC, Quad Mic ENC, 48H Playtime...",Black, True Wireless,4.0,98,1299,3999,67% off,48,False,True,True,67.51687921980495,2700,270.0675168792198,,2
+422,ZTNY,2023 New Design In-Ear Waterproof Wireless Earphon...,Green, In the Ear,4.1,2992,499,1399,64% off,,False,False,False,64.33166547533953,900,263.75982844889205,,0
+423,Mivi,"DuoPods K7 Metallic Finish,AI ENC,50H Playtime,Low...",Galaxy Black, In the Ear,4.0,6,1299,4999,74% off,50,False,True,False,74.01480296059212,3700,296.0592118423685,,1
+424,CARRON,CH-125 Dilbar - 48 Hour Playtime Bluetooth Headp...,Blue, In the Ear,3.8,4,449,1999,77% off,48,False,False,False,77.53876938469234,1550,294.6473236618309,,0
+425,ZTNY,Wireless Bluetooth Headphones Flexible Neckband wi...,Black, In the Ear,4.1,327645,449,4999,91% off,,False,False,False,91.01820364072815,4550,373.1746349269854,,0
+426,Lichen,B11 Neckband Truly Wireless Bluetooth 5.0 Headph...,Red Black, In the Ear,3.8,1567,281,1599,82% off,0,False,False,False,82.42651657285803,1318,313.2207629768605,,0
+427,boAt,"Airdopes 161 with ASAP Charge, 10mm Drivers and 17...",Pebble Black, True Wireless,4.1,5729,1099,2490,55% off,,False,False,False,55.863453815261046,1391,229.04016064257027,,0
+428,KRAZZY,INDIA b11 red Bluetooth Headset,Red, In the Ear,4.2,42691,279,999,72% off,,False,False,False,72.07207207207207,720,302.7027027027027,,0
+429,Syska,"PACE HE3500 with ENC, Fast Charging, Low Latency ...",Marine Green, In the Ear,3.8,47151,799,2999,73% off,,True,True,False,73.35778592864288,2200,278.75958652884293,,2
+430,CIHYARD,CH-125 Dilbar - 30 Hours Playtime Bluetooth Nec...,Black, In the Ear,3.9,50,449,1999,77% off,30,False,False,False,77.53876938469234,1550,302.4012006003001,,0
+431,Aroma,NB119 Star - 50 Hours Playtime Bluetooth Neckband...,Black, In the Ear,4.0,5800,564,2999,81% off,50,False,False,False,81.19373124374792,2435,324.7749249749917,,0
+432,Aroma,NB120 Last 36 Hours Playtime Bluetooth Neckband E...,Red, In the Ear,3.8,598,346,1499,76% off,36,False,False,False,76.91794529686457,1153,292.28819212808537,,0
+433,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",White, In the Ear,4.2,14276,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,310.8621724344869,,1
+434,snowbudy,Gaming pro Earbuds Upto 32 Hrs Playtime With 2...,Black BOX BATTERY BACKUP 48 HR, True Wireless,4.0,58452,599,2670,77% off,32,False,False,False,77.56554307116104,2071,310.2621722846442,,0
+435,truke,"Buds S1 with Quad Mic ENC, 72 Hours Playtime, 10m...",Black, True Wireless,3.4,417,1299,3999,67% off,72,False,True,False,67.51687921980495,2700,229.55738934733682,,1
+436,TRUETAG,M19 TWS Bluetooth 5.1 Wireless Earbuds With 220...,Black, In the Ear,4.0,49704,789,4999,84% off,,False,False,False,84.21684336867374,4210,336.86737347469494,,0
+437,Boult,"Audio ProBass EQCharge with ZEN Mode ENC, 32hrs P...",Blue, In the Ear,3.7,324,799,4499,82% off,,False,True,False,82.24049788841965,3700,304.2898421871527,,1
+438,flying,india New Edition TWS M19 Gaming Earbuds Bluetoo...,Black, True Wireless,4.1,19628,586,2199,73% off,,False,False,False,73.35152341973624,1613,300.74124602091854,,0
+439,DEFY,"GravityZ with upto 50 Hours Playback, 4 Mic ENC, 1...",Blue Impulse, In the Ear,3.6,54,1099,2699,59% off,50,False,True,False,59.28121526491294,1600,213.41237495368657,,1
+440,Alfanso,"BEATBOX TWS EARBUDS, Bass+ 20 H Playtime & Fast...",Black, True Wireless,4.1,111172,499,1299,61% off,20,True,False,False,61.585835257890686,800,252.5019245573518,,1
+441,Boult,"Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...",Black, True Wireless,3.6,79,999,5499,81% off,40,True,False,False,81.83306055646482,4500,294.59901800327333,,1
+442,JOKIN,single ear Bluetooth hedset Bluetooth Headset,White, In the Ear,3.8,108,299,1299,76% off,,False,False,False,76.98229407236336,1000,292.53271747498076,,0
+443,CARRON,CH-106 Tiger - 48 Hour Playtime Bluetooth Headph...,Grey  Green, In the Ear,3.9,4699,569,1999,71% off,48,False,False,False,71.53576788394197,1430,278.98949474737367,,0
+444,TECHFIRE,Fire 200 PRO Neckband hi-bass Wireless Bluetoo...,Blue, In the Ear,4.2,14276,449,3850,88% off,,False,False,False,88.33766233766234,3401,371.01818181818186,,0
+445,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",Blue, In the Ear,3.5,706,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,259.05181036207244,,1
+446,CARRON,CH-125 Dilbar - 48 Hour Playtime Bluetooth Headp...,Red, In the Ear,4.5,22,449,1999,77% off,48,False,False,False,77.53876938469234,1550,348.92446223111557,,0
+447,U&i,Melody 48Hrs Battery Backup Bluetooth Neckband with...,Yellow, In the Ear,3.8,3276,399,2199,81% off,48,False,False,False,81.85538881309687,1800,311.05047748976807,,0
+448,HOPPUP,"ALPHA Neckband with 50H Playtime, Gaming Mode, E...",Black, In the Ear,3.8,47151,499,1499,66% off,50,False,False,False,66.711140760507,1000,253.5023348899266,,0
+449,Boult,"Audio Truebuds with 30H Battery, IPX7 Waterproof,...",Red, True Wireless,4.1,245,1099,7999,86% off,30,False,False,False,86.26078259782473,6900,353.66920865108136,,0
+450,LEAF,Move X142 Bluetooth Headset,Carbon Black, In the Ear,3.9,3975,899,1999,55% off,,False,False,False,55.02751375687844,1100,214.60730365182593,,0
+451,U&i,Burn Series Single Ear Business Headset Bluetooth H...,Black, In the Ear,3.8,27,449,1699,73% off,,False,False,False,73.57268981753973,1250,279.57622130665095,,0
+452,Earboss,"Z11 Earbuds with Gaming Pods, 200H Playtime, Qu...",Black, True Wireless,3.8,47151,799,4999,84% off,200,False,False,False,84.01680336067213,4200,319.2638527705541,,0
+453,Boult,"Audio Truebuds with 30H Battery, IPX7 Waterproof,...",Grey, True Wireless,4.3,1367,1099,7999,86% off,30,False,False,False,86.26078259782473,6900,370.9213651706463,,0
+454,truke,"Buds Vibe with 35dB ANC, 4Mic ENC, 13mm Speaker, ...",Black, True Wireless,3.8,15087,1499,3499,57% off,,False,True,True,57.15918833952558,2000,217.2049156901972,,2
+455,boAt,"Airdopes 100 with 50 Hours Playback, Quad Mics ENx...",Sapphire Blue, In the Ear,3.7,885,1399,4490,68% off,50,False,False,False,68.84187082405346,3091,254.7149220489978,,0
+456,blue,seed M19 Bluetooth 5.1 Wireless Earbuds Touch Wate...,Black, True Wireless,4.0,7225,579,1599,63% off,,False,False,False,63.789868667917446,1020,255.15947467166978,,0
+457,Boult,"Audio Maverick with Quad Mic ENC, 45ms Low Latenc...",Black, True Wireless,4.0,634,1299,4499,71% off,,False,True,False,71.12691709268726,3200,284.50766837074906,,1
+458,DigiClues,"Gaming Pro P30 with ENC HD+ Calling, Deep Bas...",Black, True Wireless,4.0,257,987,7999,87% off,,False,True,False,87.66095761970246,7012,350.64383047880983,,1
+459,KDM,A-2 sport 59 hour Bluetooth Headset,Black, In the Ear,4.1,4196,862,1900,54% off,,False,False,False,54.63157894736842,1038,223.98947368421048,,0
+460,Ubon,"Club Series CL-80 With In-Built MIic,Upto 45Hour P...",Green, In the Ear,4.0,28901,899,2999,70% off,45,False,False,False,70.02334111370457,2100,280.0933644548183,,0
+461,Boult,"Audio X50 with 40Hr Battery, Quad Mic ENC, 45ms U...",White, True Wireless,3.9,3797,1199,4999,76% off,40,False,True,False,76.01520304060813,3800,296.45929185837167,,1
+462,Aroma,NB119 Neutron 60 Hours PlayTime With 4 EQ modes F...,Orange, In the Ear,3.8,10586,594,2999,80% off,60,False,False,False,80.19339779926642,2405,304.7349116372124,,0
+463,Ucool,Soul 100 Hours Playtime Wireless Neckband Earphon...,Blue, In the Ear,3.7,7649,649,2499,74% off,100,False,False,False,74.0296118447379,1850,273.90956382553026,,0
+464,realme,Buds Wireless Pro with Active Noise Cancellation...,Yellow, In the Ear,4.0,405147,2999,5999,50% off,,False,False,True,50.00833472245374,3000,200.03333888981496,,1
+465,Boult,"Audio Curve with BoomX Rich Bass, Flexi-band, Mag...",Blue  Black  Grey, In the Ear,3.8,21,699,3499,80% off,,False,False,False,80.02286367533581,2800,304.08688196627605,,0
+466,SUCHETA,20 Hours Playtime Neckband Bluetooth Headset,Black, In the Ear,3.9,2432,449,1999,77% off,20,False,False,False,77.53876938469234,1550,302.4012006003001,,0
+467,Ucool,Sport 50 Hours Backup Wireless Neckband Bluetooth...,Blue, In the Ear,4.1,94,759,7999,90% off,50,False,False,False,90.51131391423928,7240,371.096387048381,,0
+468,UPOZA,"BTH F9 Pro Earbuds with ENC HD+ Calling, Deep Bas...",Black, True Wireless,4.1,2992,1299,4999,74% off,,False,True,False,74.01480296059212,3700,303.46069213842765,,1
+469,ZEBRONICS,Zeb Yoga 90 Plus Bluetooth Headset,Red  Black, In the Ear,4.0,447,799,2299,65% off,,False,False,False,65.24575902566333,1500,260.98303610265333,,0
+470,Syska,"PACE HE3500 with ENC, Fast Charging, Low Latency ...",Marine Green, In the Ear,4.1,5729,799,2999,73% off,,True,True,False,73.35778592864288,2200,300.7669223074358,,2
+471,Mivi,DuoPods M30 earbuds with 42 hours of playtime | Ma...,Beige, True Wireless,3.7,74252,799,2999,73% off,,False,False,False,73.35778592864288,2200,271.4238079359787,,0
+472,Aroma,NB137 Nexon 16 Hours* Playtime Deep Bass True Wir...,White  Silver, True Wireless,3.7,3128,499,1499,66% off,16,False,False,False,66.711140760507,1000,246.83122081387594,,0
+473,Aroma,NB140 Dhamaal 24 Hours* Playtime | Deep Bass | Ma...,Baby Pink, True Wireless,3.6,871,559,1999,72% off,24,False,False,False,72.0360180090045,1440,259.3296648324162,,0
+474,flying,india New Edition TWS M19 Gaming Earbuds Bluetoo...,Black, True Wireless,3.7,324,586,2199,73% off,,False,False,False,73.35152341973624,1613,271.4006366530241,,0
+475,Ggkart,K1 BLACK Bluetooth Headset Bluetooth Headset,Black, In the Ear,3.6,374,250,1199,79% off,,False,False,False,79.14929107589657,949,284.93744787322765,,0
+476,Aroma,NB140 Captain 24 Hours* Playtime | Deep Bass | Ma...,Dark Blue, True Wireless,3.6,6182,546,1999,72% off,24,False,False,False,72.68634317158579,1453,261.6708354177089,,0
+477,blue,seed M19 Bluetooth 5.1 Wireless Earbuds Touch Wate...,Black, True Wireless,3.7,885,579,1599,63% off,,False,False,False,63.789868667917446,1020,236.02251407129455,,0
+478,FUR,"JADEN AirJams 13mm HD Dynamic Driver, Thumping Bass...",Black, True Wireless,4.0,3487,869,3000,71% off,,False,False,False,71.03333333333333,2131,284.1333333333333,,0
+479,TECHFIRE,Fire 200 PRO Neckband hi-bass Wireless Bluetoo...,Blue, In the Ear,3.9,4699,449,3850,88% off,,False,False,False,88.33766233766234,3401,344.5168831168831,,0
+480,Boult,"Audio YCharge with Pro+ Calling Mic, Full Charge ...",Blue, In the Ear,4.0,20048,699,1999,65% off,,False,False,False,65.03251625812906,1300,260.13006503251626,,0
+481,Wings,Phantom 205 Neck band with touch controls Bluetoo...,Grey, In the Ear,4.0,3399,899,2999,70% off,,False,False,False,70.02334111370457,2100,280.0933644548183,,0
+482,CARRON,CH-125 Dilbar - 48 Hour Playtime Bluetooth Headp...,Blue, In the Ear,4.0,6,449,1999,77% off,48,False,False,False,77.53876938469234,1550,310.1550775387694,,0
+483,LEAF,Move X142 Bluetooth Headset,Carbon Black, In the Ear,4.1,245,899,1999,55% off,,False,False,False,55.02751375687844,1100,225.6128064032016,,0
+484,Boult,"Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...",Black, True Wireless,4.1,111172,999,5499,81% off,40,True,False,False,81.83306055646482,4500,335.5155482815057,,1
+485,MR,ROBOT Premium B11 Neckband Bluetooth Headset Earphon...,Blue, In the Ear,3.2,178,429,2199,80% off,,False,False,False,80.49113233287858,1770,257.5716234652115,,0
+486,Ucool,Soul 100 Hours Playtime Wireless Neckband Earphon...,Blue, In the Ear,3.8,10586,649,2499,74% off,100,False,False,False,74.0296118447379,1850,281.312525010004,,0
+487,Ucool,Beast 100 Hours Playtime Bluetooth Wireless Neckb...,Black, In the Ear,3.8,1801,649,2999,78% off,100,False,False,False,78.35945315105035,2350,297.7659219739913,,0
+488,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,Black, True Wireless,3.7,8896,546,1999,72% off,24,False,False,False,72.68634317158579,1453,268.93946973486743,,0
+489,Alfanso,"BEATBOX TWS EARBUDS, Bass+ 20 H Playtime & Fast...",Black, True Wireless,3.6,54,499,1299,61% off,20,True,False,False,61.585835257890686,800,221.70900692840647,,1
+490,truke,"Buds A1 with 30dB ANC, Quad Mic ENC, 48H Playtime...",Black, True Wireless,4.4,389,1299,3999,67% off,48,False,True,True,67.51687921980495,2700,297.0742685671418,,2
+491,Highnotes,M19 Earbuds/TWS/buds 5.1 Earbuds with 280H Pl...,Black, True Wireless,3.6,1319,668,7999,91% off,280,False,False,False,91.64895611951493,7331,329.93624203025377,,0
+492,Boult,"Audio Gearpods with 32H Playtime, Fast Charging, ...",White, True Wireless,3.7,147072,899,5999,85% off,32,True,False,False,85.01416902817137,5100,314.55242540423404,,1
+493,GREEN,BIRD in-Ear Truly Wireless Earbuds with Fast Char...,Blue, True Wireless,3.5,4639,480,1499,67% off,,True,False,False,67.97865243495663,1019,237.9252835223482,,1
+494,PTron,"Basspods Encore TWS Earbuds, 50H Playtime, Quad M...",Blue, In the Ear,4.1,2128,1199,3499,65% off,50,False,True,False,65.73306659045441,2300,269.5055730208631,,1
+495,ORAIMO,"Airbuds 3 Earbuds with ENC, up to 20 hours Playb...",Blue, True Wireless,4.0,7050,899,2500,64% off,,False,True,False,64.03999999999999,1601,256.15999999999997,,1
+496,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",Blue, In the Ear,4.2,14276,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,310.8621724344869,,1
+497,flying,india Exclusive Gaming Earbuds M28 Upto 48 Hours...,Black, True Wireless,3.8,50,693,2199,68% off,48,False,False,False,68.4856753069577,1506,260.24556616643923,,0
+498,ZTNY,2023 New Design In-Ear Waterproof Wireless Earphon...,Black, In the Ear,3.7,606,549,3490,84% off,,False,False,False,84.26934097421204,2941,311.79656160458455,,0
+499,Aroma,"NB128 Adventure 50 Hours Playtime Fast Charging, ...",Navy Blue, In the Ear,4.0,20048,418,2999,86% off,50,True,False,False,86.06202067355785,2581,344.2480826942314,,1
+500,Boult,"Audio YCharge with Pro+ Calling Mic, Full Charge ...",Black, In the Ear,4.1,4196,699,1999,65% off,,False,False,False,65.03251625812906,1300,266.63331665832914,,0
+501,Ubon,"Club Series CL-80 With In-Built MIic,Upto 45Hour P...",Green, In the Ear,4.0,23,899,2999,70% off,45,False,False,False,70.02334111370457,2100,280.0933644548183,,0
+502,CIHROX,"Bluetooth Neckband 12Hrs Playback, 10mm Drivers,...",Black, In the Ear,3.9,50,499,1899,73% off,12,False,False,False,73.72301211163771,1400,287.51974723538706,,0
+503,CIHYARD,CH-125 Dilbar - 30 Hours Playtime Bluetooth Nec...,Black, In the Ear,3.9,72798,449,1999,77% off,30,False,False,False,77.53876938469234,1550,302.4012006003001,,0
+504,HOPPUP,GRAND With Power Bank Function & Upto 75 Hours P...,Black, True Wireless,3.4,63,599,2999,80% off,75,False,False,False,80.02667555851951,2400,272.0906968989663,,0
+505,TEQIR,Bluetooth Neckband Bluetooth Headset Immersive Au...,Black, In the Ear,3.8,70531,569,799,28% off,,False,False,False,28.785982478097623,230,109.38673341677097,,0
+506,TEG,BEAST 5.2 Bluetooth Sports Bluetooth Headset,White, True Wireless,4.1,327645,499,2999,83% off,,False,False,False,83.36112037345782,2500,341.78059353117703,,0
+507,Wings,"Phantom 110 Neckband, LED , 20 hrs Playtime, 50ms...",Black, In the Ear,4.1,1804,899,1999,55% off,,False,False,False,55.02751375687844,1100,225.6128064032016,,0
+508,flying,india New Edition TWS M19 Gaming Earbuds Bluetoo...,Black, True Wireless,3.7,324,586,2199,73% off,,False,False,False,73.35152341973624,1613,271.4006366530241,,0
+509,U&i,Burn Series Single Ear Business Headset Bluetooth H...,Black, In the Ear,3.9,3975,449,1699,73% off,,False,False,False,73.57268981753973,1250,286.9334902884049,,0
+510,Aroma,NB137 Nexon 16 Hours* Playtime Deep Bass True Wir...,White  Silver, True Wireless,3.7,3128,499,1499,66% off,16,False,False,False,66.711140760507,1000,246.83122081387594,,0
+511,MEDIAL,"SENSO V 1.0 TWS EARBUDS, Bass+ 20 H Playtime & F...",Black, True Wireless,3.1,51,499,1299,61% off,20,False,False,False,61.585835257890686,800,190.91608929946113,,0
+512,HOPPUP,GRAND With Power Bank Function & Upto 75 Hours P...,Green, True Wireless,3.9,72798,599,2999,80% off,75,False,False,False,80.02667555851951,2400,312.10403467822607,,0
+513,Syska,SonicBuds X2 Bluetooth Headset,Elegant Black, True Wireless,4.0,566,899,2999,70% off,,False,False,False,70.02334111370457,2100,280.0933644548183,,0
+514,Aroma,NB140 Captain 24 Hours* Playtime | Deep Bass | Ma...,Dark Blue, True Wireless,3.6,6182,546,1999,72% off,24,False,False,False,72.68634317158579,1453,261.6708354177089,,0
+515,Wings,"Phantom Pro earbuds with Low latency Game mode, 4...",White, True Wireless,4.0,33193,1299,5499,76% off,,False,True,False,76.37752318603383,4200,305.5100927441353,,1
+516,Ucool,Beast 100 Hours Playtime Bluetooth Wireless Neckb...,Navy Blue, In the Ear,3.8,1801,649,2999,78% off,100,False,False,False,78.35945315105035,2350,297.7659219739913,,0
+517,boAt,Rockerz 255 Arc with ENx Technology and upto 30 Ho...,Fern Green, In the Ear,4.1,8135,1299,2990,56% off,30,False,False,False,56.5551839464883,1691,231.87625418060202,,0
+518,Boult,"Audio YCharge with Pro+ Calling Mic, Full Charge ...",Blue, In the Ear,4.0,20048,699,1999,65% off,,False,False,False,65.03251625812906,1300,260.13006503251626,,0
+519,Nexbird,B11 Neckband Truly Wireless Bluetooth 5.0 Headp...,Red, In the Ear,3.9,805,285,1899,84% off,0,False,False,False,84.99210110584518,1614,331.4691943127962,,0
+520,Portronics,Harmonics 250 Fast Charging with 60Hrs Playt...,Black, In the Ear,4.0,257,899,2999,70% off,60,True,False,False,70.02334111370457,2100,280.0933644548183,,1
+521,KDM,A-2 sport 59 hour Bluetooth Headset,Black, In the Ear,4.1,111172,862,1900,54% off,,False,False,False,54.63157894736842,1038,223.98947368421048,,0
+522,Boult,"Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...",Black, True Wireless,3.3,42,999,5499,81% off,40,True,False,False,81.83306055646482,4500,270.0490998363339,,1
+523,Casa,Tech Long Hrs Playtime with Quick Charge in Ear Bl...,Red, In the Ear,4.0,2057,499,1000,50% off,,False,False,False,50.1,501,200.4,,0
+524,Cellecor,NK3 Wireless Waterproof Neckband with 25 Hrs p...,Dark Black, In the Ear,4.2,1135,696,2999,76% off,25,False,False,False,76.79226408802934,2303,322.52750916972326,,0
+525,DEFY,GravityU with 35 Hours Playback and Beast Mode Blu...,Stellar Black, In the Ear,3.7,8896,899,1999,55% off,35,False,False,False,55.02751375687844,1100,203.60180090045026,,0
+526,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,Black, True Wireless,4.2,45985,546,1999,72% off,24,False,False,False,72.68634317158579,1453,305.28264132066033,,0
+527,realme,Buds Air 3 with Fast Charge & Active Noise Cance...,Galaxy White, True Wireless,4.0,6818,3799,5999,36% off,,True,False,True,36.672778796466076,2200,146.6911151858643,,2
+528,Tunifi,TN01 TWS Earbuds Upto 48Hrs. Playback with Power...,Black, True Wireless,3.7,147072,499,7999,93% off,48,False,False,False,93.76172021502688,7500,346.9183647955995,,0
+529,Noise,"Beads with 18hrs of playtime, HyperSync, IPX5 and...",Pearl White, True Wireless,3.8,70531,1199,3499,65% off,,False,False,False,65.73306659045441,2300,249.78565304372677,,0
+530,Boult,"Audio Gearpods with 32H Playtime, Fast Charging, ...",White, True Wireless,3.7,147072,899,5999,85% off,32,True,False,False,85.01416902817137,5100,314.55242540423404,,1
+531,Mivi,DuoPods F60 ENC with 50+ Hrs Playtime| Made in Ind...,White, True Wireless,4.0,3,999,2999,66% off,,False,True,False,66.68889629876625,2000,266.755585195065,,1
+532,Boult,"Audio Gearpods with 32H Playtime, Fast Charging, ...",Blue, True Wireless,4.2,14276,899,5999,85% off,32,True,False,False,85.01416902817137,5100,357.05950991831975,,1
+533,Varni,CAP10 Flexible with Upto 16Hours Playtime Bluetoo...,Black, In the Ear,3.7,1227,599,1999,70% off,16,False,False,False,70.03501750875438,1400,259.12956478239124,,0
+534,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",Blue, In the Ear,4.0,11051,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,296.0592118423685,,1
+535,CARRON,CH-271 Pull-Fire - 48 Hour Playtime Bluetooth He...,Blue, In the Ear,4.0,20048,499,1999,75% off,48,False,False,False,75.03751875937968,1500,300.1500750375187,,0
+536,FPX,Jazz 35 Hours Playtime with Deep Bass Neckband Head...,Red, In the Ear,3.6,21,399,2499,84% off,35,False,False,False,84.03361344537815,2100,302.52100840336135,,0
+537,Aroma,NB119 Champion - 50 Hours Playtime Fast Charging ...,Green, In the Ear,3.2,10,569,2999,81% off,50,True,False,False,81.027009003001,2430,259.2864288096032,,1
+538,Boult,"Audio YCharge with Pro+ Calling Mic, Full Charge ...",Black, In the Ear,3.7,3,699,1999,65% off,,False,False,False,65.03251625812906,1300,240.62031015507756,,0
+539,Makzee,"MAGIC2626 WATERPROOF, TurboBass, D-Pairing, Ligh...",GOLD-BLACK, In the Ear,4.2,124994,351,999,64% off,,False,False,False,64.86486486486487,648,272.43243243243245,,0
+540,Syska,PACE X1 Bluetooth Headset,Royal Blue, In the Ear,3.8,109649,699,2299,69% off,,False,False,False,69.59547629404089,1600,264.4628099173554,,0
+541,D1Y3,IN 75 HOURS BETETRY BACKUP HIGH BASS STORNG LONG B...,Multicolor, In the Ear,3.6,26,1529,5999,74% off,75,False,False,False,74.51241873645607,4470,268.2447074512419,,0
+542,boAt,Rockerz 235 Pro with upto 20 Hours Playback & ASAP...,Ash Grey, In the Ear,3.4,68,899,2490,63% off,20,False,False,False,63.89558232931727,1591,217.2449799196787,,0
+543,Mivi,DuoPods F40 with 50 Hrs Playtime I13mm Drivers|Mad...,Mint Green, True Wireless,3.9,72798,899,2999,70% off,50,False,False,False,70.02334111370457,2100,273.0910303434478,,0
+544,boAt,Airdopes 131 with upto 60 Hours and ASAP Charge Bl...,Midnight Blue, True Wireless,4.0,1345614,999,2990,66% off,60,False,False,False,66.5886287625418,1991,266.3545150501672,,0
+545,boAt,"Airdopes Atom 83 with 50Hrs Playback, Quad Mics EN...",Ivory White, True Wireless,4.0,10668,1499,4490,66% off,50,False,False,False,66.61469933184854,2991,266.45879732739417,,0
+546,ZWOLLEX,High Bass Neck Band with Mic and Noise Cancella...,Black, True Wireless,3.7,6379,440,1499,70% off,,False,False,True,70.64709806537692,1059,261.3942628418946,,1
+547,PTron,"Bassbuds Joy TWS with 13mm Drivers, Stereo Calls,...",Black, True Wireless,4.0,6,799,2599,69% off,,False,False,False,69.25740669488265,1800,277.0296267795306,,0
+548,LUTENET,Original i12 true wireless headset earbuds with...,Black, In the Ear,3.9,18685,339,999,66% off,,False,False,False,66.06606606606607,660,257.6576576576577,,0
+549,boAt,Airdopes 411ANC with upto 17.5 Hours Playback and ...,Black Storm, True Wireless,4.0,10315,1699,4990,65% off,5,False,False,True,65.95190380761522,3291,263.8076152304609,,1
+550,Wings,"Phantom 550 Earbuds with Low latency Game mode, 4...",Black, True Wireless,4.2,14276,1299,2999,56% off,,False,True,False,56.68556185395131,1700,238.07935978659552,,1
+551,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",White, In the Ear,4.1,532,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,303.46069213842765,,1
+552,Mytrack,"Neckband Low latency , Microphone incoming call...",Teal Green, In the Ear,4.0,5821,449,2995,85% off,,False,True,False,85.00834724540901,2546,340.03338898163605,,1
+553,Aroma,NB119_Boom - 72 Hours Playtime Bluetooth Headset,Black, In the Ear,4.0,23,594,2999,80% off,72,False,False,False,80.19339779926642,2405,320.7735911970657,,0
+554,CIHROX,"Bluetooth Neckband 12Hrs Playback, 10mm Drivers,...",Black, In the Ear,4.0,49704,499,1899,73% off,12,False,False,False,73.72301211163771,1400,294.89204844655086,,0
+555,Boult,"Audio ProBass EQCharge with ZEN Mode ENC, 32hrs P...",Blue, In the Ear,3.8,1801,799,4499,82% off,,False,True,False,82.24049788841965,3700,312.5138919759947,,1
+556,Ucool,Beast 100 Hours Playtime Bluetooth Wireless Neckb...,Black, In the Ear,3.9,10565,649,2999,78% off,100,False,False,False,78.35945315105035,2350,305.60186728909633,,0
+557,Ubon,CL-122 Neckband Bluetooth Headset,Pink, In the Ear,3.7,3,599,1999,70% off,,False,False,False,70.03501750875438,1400,259.12956478239124,,0
+558,D1Y3,IN 75 HOURS BETETRY BACKUP HIGH BASS STORNG LONG B...,Multicolor, In the Ear,4.1,111172,1529,5999,74% off,75,False,False,False,74.51241873645607,4470,305.50091681946986,,0
+559,Boult,"Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...",Black, True Wireless,4.5,22,999,5499,81% off,40,True,False,False,81.83306055646482,4500,368.2487725040917,,1
+560,U&i,Melody 48Hrs Battery Backup Bluetooth Neckband with...,Red, In the Ear,4.3,4,399,2199,81% off,48,False,False,False,81.85538881309687,1800,351.9781718963165,,0
+561,HUTUVI,i7s Bluetooth Headphone Twins Wireless Buds (set...,White, In the Ear,3.5,1819,399,1999,80% off,,False,False,False,80.040020010005,1600,280.14007003501746,,0
+562,TECHFIRE,i7s Tws Mini Earphone Bluetooth Headset,White, True Wireless,3.6,6182,399,1999,80% off,,False,False,False,80.040020010005,1600,288.144072036018,,0
+563,Aroma,NB140 Captain 24 Hours* Playtime | Deep Bass | Ma...,Dark Blue, True Wireless,4.0,51798,546,1999,72% off,24,False,False,False,72.68634317158579,1453,290.74537268634316,,0
+564,Wings,Phantom Wireless Earbuds with 50ms Low Latency Ga...,White, True Wireless,3.8,1442,1199,4999,76% off,,False,True,False,76.01520304060813,3800,288.8577715543109,,1
+565,GREE,"MATT B11 Bluetooth Headset (Red, In the Ear) Bluet...",Red, In the Ear,4.1,19628,391,699,44% off,,False,False,False,44.06294706723891,308,180.65808297567952,,0
+566,DEFY,"GravityZ with upto 50 Hours Playback, 4 Mic ENC, 1...",White Purity, In the Ear,3.8,47151,1099,2699,59% off,50,False,True,False,59.28121526491294,1600,225.26861800666916,,1
+567,Boult,"Audio Truebuds with 30H Battery, IPX7 Waterproof,...",Red, True Wireless,4.0,43163,1099,7999,86% off,30,False,False,False,86.26078259782473,6900,345.0431303912989,,0
+568,Mivi,"DuoPods F70 ENC with Quad Mic, 50+ Hrs Playtime| M...",Black, True Wireless,4.2,2022,1099,2999,63% off,,False,True,False,63.354451483827944,1900,266.0886962320774,,1
+569,ORAIMO,"Necklace 4 Fast Charge, 50hr PlayTime, Super Bas...",Black, In the Ear,4.2,14276,1299,3499,62% off,,True,False,False,62.87510717347814,2200,264.0754501286082,,1
+570,Zusix,Elite 90 with 18 Hours Music Time In-Ear Wireless...,Light Blue, In the Ear,3.7,3,643,1599,59% off,18,False,False,False,59.78736710444027,956,221.213258286429,,0
+571,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",Blue, In the Ear,3.7,1227,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,273.8547709541909,,1
+572,Nexbird,B11 Neckband Truly Wireless Bluetooth 5.0 Headp...,Black, In the Ear,4.1,511,293,1899,84% off,0,False,False,False,84.57082675092154,1606,346.7403896787783,,0
+573,FPX,Jazz 35 Hours Playtime with Deep Bass Neckband Head...,Red, In the Ear,3.7,8896,399,2499,84% off,35,False,False,False,84.03361344537815,2100,310.92436974789916,,0
+574,Portronics,Harmonics Z2 - 30 Hours Playtime Wireless Ne...,Blue, In the Ear,3.9,485,649,1999,67% off,30,False,False,False,67.53376688344173,1350,263.3816908454227,,0
+575,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,Black, True Wireless,3.9,16582,546,1999,72% off,24,False,False,False,72.68634317158579,1453,283.4767383691846,,0
+576,ROKAVO,Silver neckband wireless headphone headset earph...,Silver  Black  Blue  Multicolor, In the Ear,3.8,6259,745,2199,66% off,,False,False,False,66.12096407457936,1454,251.25966348340157,,0
+577,Ucool,Prime 60 Hours Playtime Bluetooth Wireless Neckba...,Blue, In the Ear,4.1,2992,449,1999,77% off,60,False,False,False,77.53876938469234,1550,317.9089544772386,,0
+578,truke,"Air Buds with Quad Mic ENC & 20 EQ modes, 10mm Dr...",Black, True Wireless,4.1,13,999,3299,69% off,,False,True,False,69.71809639284632,2300,285.8441952106699,,1
+579,Mivi,"DuoPods K7 Metallic Finish,AI ENC,50H Playtime,Low...",Galaxy Black, In the Ear,3.3,490,1299,4999,74% off,50,False,True,False,74.01480296059212,3700,244.24884976995398,,1
+580,Rudra,Tech M10 TWS Bluetooth Earbuds Wireless Earbuds B...,Black, In the Ear,3.6,1023,494,2699,81% off,,False,False,False,81.69692478695814,2205,294.1089292330493,,0
+581,NP,SERIES TWS-I12 Twins Bluetooth Wireless Headset with...,White, True Wireless,3.8,47151,496,2499,80% off,,False,False,False,80.15206082432972,2003,304.57783113245296,,0
+582,Mivi,"DuoPods K7 Metallic Finish,AI ENC,50H Playtime,Low...",Coral, In the Ear,4.1,2992,1299,4999,74% off,50,False,True,False,74.01480296059212,3700,303.46069213842765,,1
+583,Wings,"Phantom 550 Earbuds with Low latency Game mode, 4...",White, True Wireless,4.0,10315,1299,2999,56% off,,False,True,False,56.68556185395131,1700,226.74224741580525,,1
+584,Raman,Sales M19 / M90 / M10 / Bluetooth 5.0 Wireless Ea...,Black, In the Ear,4.0,24,599,2299,73% off,,False,False,False,73.94519356241844,1700,295.78077424967375,,0
+585,Aroma,NB140 Captain 24 Hours* Playtime | Deep Bass | Ma...,Dark Blue, True Wireless,3.6,6182,546,1999,72% off,24,False,False,False,72.68634317158579,1453,261.6708354177089,,0
+586,Mivi,"DuoPods K1 compact earbuds,AI-ENC,TWS with 42H Pla...",Brisk Blue, In the Ear,4.1,710,999,4999,80% off,42,False,True,False,80.01600320064013,4000,328.0656131226245,,1
+587,JAIBALLY,i12 TWS Wireless Bluetooth Earbuds Long Lastin...,White, True Wireless,2.7,3,379,1299,70% off,,False,False,False,70.82371054657429,920,191.2240184757506,,0
+588,UPOZA,B235 Upto 25 Hours Playbak with ASAP Charge Bluet...,Black, In the Ear,4.6,17,499,3999,87% off,25,False,False,False,87.52188047011754,3500,402.60065016254066,,0
+589,Boult,"Audio YCharge with Pro+ Calling Mic, Full Charge ...",Blue, In the Ear,4.0,20048,699,1999,65% off,,False,False,False,65.03251625812906,1300,260.13006503251626,,0
+590,IZWI,Behind The Neck Bluetooth Neckband with V5.2 Flexi...,Black, In the Ear,4.0,60812,499,2490,79% off,,False,False,False,79.95983935742971,1991,319.83935742971886,,0
+591,REDMI,SonicBass Wireless Bluetooth Neckband in-Ear Earp...,Red, In the Ear,3.8,24353,1299,1599,18% off,,False,False,False,18.76172607879925,300,71.29455909943714,,0
+592,Mivi,Collar 2A with Fast Charging Bluetooth Headset,Grey, In the Ear,4.1,111172,899,2999,70% off,,True,False,False,70.02334111370457,2100,287.09569856618873,,1
+593,Boult,"Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...",Black, True Wireless,4.0,30,999,5499,81% off,40,True,False,False,81.83306055646482,4500,327.33224222585926,,1
+594,ROKAVO,Travel wrieless earbuds headphone neckband long ...,Green, In the Ear,3.7,367,749,2199,65% off,,False,False,False,65.93906321055026,1450,243.97453387903596,,0
+595,ULTADOR,"Audio ProBass YCharge with Fast Charging , Pro+...",Red, In the Ear,3.8,598,510,1199,57% off,,True,False,False,57.46455379482902,689,218.36530442035027,,1
+596,Aroma,NB120 Last 36 Hours Playtime Bluetooth Neckband E...,Black, In the Ear,3.7,3128,348,1499,76% off,36,False,False,False,76.78452301534357,1151,284.1027351567712,,0
+597,Aroma,NB137 Nexon 16 Hours* Playtime Deep Bass True Wir...,White  Silver, True Wireless,3.5,82,499,1499,66% off,16,False,False,False,66.711140760507,1000,233.48899266177452,,0
+598,Malhotra,enterprises Air Tune (Buds) True Wireless Blue...,Assorted, True Wireless,3.8,15087,1399,4490,68% off,,False,False,False,68.84187082405346,3091,261.5991091314031,,0
+599,boAt,"Airdopes 100 with 50 Hours Playback, Quad Mics ENx...",Sapphire Blue, In the Ear,3.4,833,593,4999,88% off,50,False,False,False,88.1376275255051,4406,299.6679335867173,,0
+600,deamflum,Earbuds M90 PRO with Power Bank & ASAP Charge ...,Black, True Wireless,4.2,14276,1299,4999,74% off,,False,False,False,74.01480296059212,3700,310.8621724344869,,0
+601,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",Blue, In the Ear,4.8,4,427,1296,67% off,60,False,True,False,67.05246913580247,869,321.85185185185185,,1
+602,Mestie,i12 tws earpods Bluetooth Headset 91 Bluetooth H...,White, True Wireless,4.1,2992,1299,4999,74% off,,False,False,False,74.01480296059212,3700,303.46069213842765,,0
+603,Mivi,"DuoPods K7 Metallic Finish,AI ENC,50H Playtime,Low...",Mint Green, In the Ear,4.0,20048,599,2670,77% off,50,False,True,False,77.56554307116104,2071,310.2621722846442,,1
+604,snowbudy,Gaming pro Earbuds Upto 32 Hrs Playtime With 2...,Black BOX BATTERY BACKUP 48 HR, True Wireless,4.0,25909,699,1999,65% off,32,False,False,False,65.03251625812906,1300,260.13006503251626,,0
+605,Boult,"Audio YCharge with Pro+ Calling Mic, Full Charge ...",Black, In the Ear,3.8,760,799,2999,73% off,,False,False,False,73.35778592864288,2200,278.75958652884293,,0
+606,Mivi,Collar Classic Pro TWS Neckband with 72 Hours of P...,Grey, In the Ear,3.5,4,479,3850,87% off,72,False,False,False,87.55844155844156,3371,306.45454545454544,,0
+607,TECHFIRE,F-700 40 Hours Playtime Bluetooth Wireless Nec...,Red, In the Ear,3.7,8896,529,1599,66% off,40,False,False,False,66.91682301438398,1070,247.59224515322074,,0
+608,ROKAVO,Hot Selling Sport Earphone Magnetic Good Quality...,Gree  Purple, In the Ear,3.5,6986,546,1999,72% off,,False,False,False,72.68634317158579,1453,254.40220110055026,,0
+609,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,Black, True Wireless,4.1,511,1699,2790,39% off,24,False,False,False,39.10394265232975,1091,160.32616487455195,,0
+610,SONY,WI-C100 with 25 Hours Battery Life Bluetooth Heads...,Black, In the Ear,3.8,40120,649,1999,67% off,25,False,False,False,67.53376688344173,1350,256.62831415707853,,0
+611,Portronics,Harmonics Z2 - 30 Hours Playtime Wireless Ne...,Sky Blue, In the Ear,3.7,147072,799,3999,80% off,30,False,False,False,80.02000500125031,3200,296.07401850462617,,0
+612,Boult,"Audio Escape with Zen Tech ENC mic, BoomX Tech fo...",Black, In the Ear,3.9,60,899,5999,85% off,,False,True,False,85.01416902817137,5100,331.5552592098683,,1
+613,Boult,"Audio Gearpods with 32H Playtime, Fast Charging, ...",White, True Wireless,5.0,3,749,2499,70% off,32,True,False,False,70.02801120448179,1750,350.14005602240894,,1
+614,Portronics,Harmonics Z4 Wireless Stereo Neckband Blueto...,Black, In the Ear,3.9,28219,499,999,50% off,,False,False,False,50.050050050050054,500,195.1951951951952,,0
+615,MR,ROBOT K1 Wireless Bluetoth Single Ear Headset Earbud...,Black, True Wireless,4.2,124994,899,2499,64% off,,False,False,False,64.02561024409763,1600,268.9075630252101,,0
+616,truke,"Buds F1 with 38H Playtime, ENC, Instant Pairing, ...",Blue, True Wireless,3.8,1442,899,2490,63% off,38,False,True,False,63.89558232931727,1591,242.80321285140562,,1
+617,boAt,Rockerz 235 Pro with upto 20 Hours Playback & ASAP...,Ash Grey, In the Ear,4.4,1269,391,699,44% off,20,False,False,False,44.06294706723891,308,193.87696709585123,,0
+618,GREE,"MATT B11 Bluetooth Headset (Red, In the Ear) Bluet...",Red, In the Ear,3.7,76,9999,12999,23% off,,False,False,False,23.078698361412417,3000,85.39118393722595,,0
+619,Nothing,"Ear (2) with Dual chamber sound, Hi-res audio, ...",White, True Wireless,4.2,308,499,1499,66% off,,False,False,False,66.711140760507,1000,280.18679119412946,,0
+620,Boult,"Audio X45 with Quad Mic ENC, 40H Playtime, 45ms U...",Black, True Wireless,4.0,10964,1099,4999,78% off,40,False,True,False,78.01560312062412,3900,312.0624124824965,,1
+621,boAt,Airdopes 131 Iron Man Edition with 15 Hours Playti...,Iron Blood, True Wireless,4.0,1345614,1499,2990,49% off,15,False,False,False,49.86622073578595,1491,199.4648829431438,,0
+622,truke,"Buds A1 with 30dB ANC, Quad Mic ENC, 48H Playtime...",Blue, True Wireless,4.4,389,1299,3999,67% off,48,False,True,True,67.51687921980495,2700,297.0742685671418,,2
+623,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",White, In the Ear,4.2,14276,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,310.8621724344869,,1
+624,VEKIN,bluetooth with microphone for calling and music B...,Blue, True Wireless,3.8,572,494,1999,75% off,,False,False,False,75.28764382191096,1505,286.09304652326165,,0
+625,Callmate,BassFit Pro (30 hours Backup) Wireless Neckban...,Black, In the Ear,3.5,72,616,1999,69% off,,False,False,False,69.18459229614807,1383,242.14607303651823,,0
+626,TECHFIRE,N95- Hours Playtime with superior sound Neckba...,Black, In the Ear,3.6,5193,329,1999,83% off,,False,False,False,83.54177088544273,1670,300.7503751875938,,0
+627,Boult,"Audio ProBass EQCharge with ZEN Mode ENC, 32hrs P...",Blue, In the Ear,4.0,49704,799,4499,82% off,,False,True,False,82.24049788841965,3700,328.9619915536786,,1
+628,ROKAVO,Girls Purple neckband wireless headphone headset...,Purple  Multicolor  Green, In the Ear,3.6,59,525,1599,67% off,,False,False,False,67.16697936210132,1074,241.80112570356474,,0
+629,TECHFIRE,F-700 40 Hours Playtime Bluetooth Wireless Nec...,Teal green, In the Ear,3.8,760,479,4850,90% off,40,False,False,False,90.12371134020619,4371,342.47010309278346,,0
+630,TECHFIRE,F-255 neckband bluetooth headphone with Fast C...,Black, In the Ear,3.6,573,449,3850,88% off,,True,False,False,88.33766233766234,3401,318.01558441558444,,1
+631,Boult,"Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...",Black, True Wireless,4.1,111172,999,5499,81% off,40,True,False,False,81.83306055646482,4500,335.5155482815057,,1
+632,Hitage,NBT-2319 Grand Series stylish and comfortable Le...,Grey, In the Ear,3.7,131,949,1999,52% off,,False,False,False,52.526263131565784,1050,194.34717358679342,,0
+633,KDM,G2 Power Bluetooth Headset,Black, In the Ear,4.0,99,829,1999,58% off,,False,False,False,58.529264632316156,1170,234.11705852926463,,0
+634,ISYSGO,New Arrival waterproof bluetooth 5.1 earbuds tws...,Black, In the Ear,3.8,5,498,1999,75% off,,False,False,False,75.08754377188595,1501,285.33266633316657,,0
+635,Aroma,NB140 Captain 24 Hours* Playtime | Deep Bass | Ma...,Dark Blue, True Wireless,3.6,6182,546,1999,72% off,24,False,False,False,72.68634317158579,1453,261.6708354177089,,0
+636,DigiClues,Premium N-21 Earbuds/TWs/buds 5.1 Earbuds wit...,Black, True Wireless,3.8,50,899,7999,88% off,,False,False,False,88.76109513689211,7100,337.29216152019,,0
+637,HOPPUP,"AirDoze D50 Earbuds with upto 50H Playtime, ENC,...",White, True Wireless,3.9,3478,799,2999,73% off,50,False,True,False,73.35778592864288,2200,286.09536512170723,,1
+638,boAt,"Airdopes 192 with Beast Mode(40ms), 30 Hours Playb...",Black Sabre, True Wireless,4.0,4882,1899,3599,47% off,30,False,False,False,47.235343150875245,1700,188.94137260350098,,0
+639,PTron,"Bassbuds Joy TWS with 13mm Drivers, Stereo Calls,...",Black, True Wireless,3.7,6379,799,2599,69% off,,False,False,False,69.25740669488265,1800,256.2524047710658,,0
+640,OPPO,Enco Air 2 Pro Bluetooth Headset,White, True Wireless,4.2,9625,3499,4999,30% off,,False,True,False,30.006001200240046,1500,126.0252050410082,,1
+641,boAt,Airdopes 131 with upto 60 Hours and ASAP Charge Bl...,Crimson Cream, True Wireless,4.0,1345614,1199,2990,59% off,60,False,False,False,59.89966555183946,1791,239.59866220735785,,0
+642,NKL,H.EAR 2 Neckband Wireless Bluetooth Super Sound Wit...,Black, In the Ear,3.7,8896,629,1999,68% off,,False,False,False,68.53426713356679,1370,253.5767883941971,,0
+643,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,Black, True Wireless,4.0,2144,546,1999,72% off,24,False,False,False,72.68634317158579,1453,290.74537268634316,,0
+644,Aroma,NB119 King 100 Hours Playting Time Fast Charging ...,Pink, In the Ear,3.8,1801,599,3299,81% off,100,True,False,False,81.84298272203698,2700,311.0033343437405,,1
+645,Ucool,Beast 100 Hours Playtime Bluetooth Wireless Neckb...,Blue, In the Ear,3.7,13,649,2999,78% off,100,False,False,False,78.35945315105035,2350,289.9299766588863,,0
+646,Buy,Genuine Good Sound Quality Wireless Bluetooth Earph...,White, In the Ear,3.8,47151,499,999,50% off,,False,False,False,50.050050050050054,500,190.1901901901902,,0
+647,Boult,"Audio Truebuds with 30H Battery, IPX7 Waterproof,...",Red, True Wireless,3.7,43,1099,7999,86% off,30,False,False,False,86.26078259782473,6900,319.1648956119515,,0
+648,IZWI,MI-271 Latest Headphones Neckband Music Time Batte...,Red, In the Ear,4.1,4890,449,1499,70% off,,False,False,False,70.04669779853235,1050,287.1914609739826,,0
+649,Ubon,Wireless Neckband CL-50 with Longlasting 30H Playt...,Black, True Wireless,3.9,2058,735,2999,75% off,30,False,False,False,75.49183061020341,2264,294.4181393797933,,0
+650,U&i,Leather Series 100hours Music Time Bluetooth Headse...,Red1, In the Ear,4.2,14276,799,2999,73% off,,False,False,False,73.35778592864288,2200,308.10270090030014,,0
+651,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",Blue, In the Ear,3.9,28219,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,288.65773154630926,,1
+652,truke,"Buds F1 with 38H Playtime, ENC, Instant Pairing, ...",Blue, True Wireless,3.9,72798,899,2499,64% off,38,False,True,False,64.02561024409763,1600,249.69987995198076,,1
+653,HOPPUP,GRAND With Power Bank Function & Upto 75 Hours P...,Blue, True Wireless,3.6,783,599,2999,80% off,75,False,False,False,80.02667555851951,2400,288.0960320106703,,0
+654,PHILIPS,TAT2206BK True Wireless (TWS Earbuds) with IPX4...,Black, True Wireless,3.8,47151,1449,6999,79% off,,False,False,False,79.29704243463352,5550,301.3287612516074,,0
+655,Boult,"Audio Truebuds with 30H Battery, IPX7 Waterproof,...",Grey, True Wireless,4.1,8979,1099,7999,86% off,30,False,False,False,86.26078259782473,6900,353.66920865108136,,0
+656,Wings,"Phantom 850 Earbuds with Game mode, 50 hrsPlaytim...",Black, In the Ear,3.8,109649,1499,2999,50% off,,False,False,False,50.01667222407469,1500,190.0633544514838,,0
+657,Mivi,DuoPods F40 with 50 Hrs Playtime I13mm Drivers|Mad...,Mint Green, True Wireless,3.7,306,899,2999,70% off,50,False,False,False,70.02334111370457,2100,259.08636212070695,,0
+658,Tunifi,Earbuds F9 with Power-Bank Bluetooth Headset,Black, True Wireless,4.1,327645,499,4999,90% off,,False,False,False,90.01800360072014,4500,369.0738147629525,,0
+659,Tunifi,"Mafia T12 TWS Earbuds Upto 48Hrs. Playback, with...",Black, True Wireless,3.9,60877,499,7999,93% off,48,False,False,False,93.76172021502688,7500,365.67070883860487,,0
+660,truke,"Fit1+ with 36H of Playtime, Gaming Mode, 10mm Dri...",Black, True Wireless,3.6,6182,799,2799,71% off,36,False,False,False,71.45409074669526,2000,257.2347266881029,,0
+661,Petronics,Z11 Bluetooth Headset,Black, True Wireless,3.8,10586,699,4999,86% off,,False,False,False,86.01720344068814,4300,326.8653730746149,,0
+662,Aroma,NB140 Captain 24 Hours* Playtime | Deep Bass | Ma...,Dark Blue, True Wireless,3.7,8896,546,1999,72% off,24,False,False,False,72.68634317158579,1453,268.93946973486743,,0
+663,Ucool,Soul 100 Hours Playtime Bluetooth Wireless Neckba...,Teal Green  Black, In the Ear,3.9,9693,599,2499,76% off,100,False,False,False,76.03041216486595,1900,296.5186074429772,,0
+664,TEQIR,"Bluetooth Wireless in Ear Earphones,48 Hours Batt...",Grey, In the Ear,3.8,3411,449,2490,81% off,48,False,False,False,81.96787148594377,2041,311.47791164658634,,0
+665,Kabeer,enterprises H-700 Bluetooth Headset,Grey, In the Ear,3.7,3128,499,1499,66% off,,False,False,False,66.711140760507,1000,246.83122081387594,,0
+666,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,Black, True Wireless,3.9,10565,546,1999,72% off,24,False,False,False,72.68634317158579,1453,283.4767383691846,,0
+667,Noise,"Tune Active Pro with upto 60hrs playtime, ESR, In...",Burgundy Red, In the Ear,3.9,3478,1099,2999,63% off,,False,False,False,63.354451483827944,1900,247.08236078692897,,0
+668,Xenio,BT90 Wireless Neckband With Qcharge upto 30H Play...,Black, In the Ear,4.0,125,707,1899,62% off,30,False,False,False,62.769878883622965,1192,251.07951553449186,,0
+669,TECHFIRE,Solo X2 36 Hours Play Time With Vibration On C...,Green, True Wireless,4.2,308,415,1999,79% off,36,False,False,False,79.23961980990495,1584,332.8064032016008,,0
+670,Aroma,NB137 Nexon 16 Hours* Playtime Deep Bass True Wir...,White  Silver, True Wireless,3.8,109649,499,1499,66% off,16,False,False,False,66.711140760507,1000,253.5023348899266,,0
+671,Ubon,CL-122 Neckband Bluetooth Headset,Pink, In the Ear,4.1,19628,599,1999,70% off,,False,False,False,70.03501750875438,1400,287.1435717858929,,0
+672,HOPPUP,"AirDoze D50 Earbuds with upto 50H Playtime, ENC,...",White, True Wireless,4.1,327645,799,2999,73% off,50,False,True,False,73.35778592864288,2200,300.7669223074358,,1
+673,Digiwins,"Gaming Pro P30 with ENC HD+ Calling, Deep Bass...",Black, True Wireless,3.8,141,999,7999,87% off,,False,True,False,87.51093886735842,7000,332.541567695962,,1
+674,Mivi,"DuoPods K5 TWS Earbuds Metallic Finish, HD calling...",Cobalt Blue, True Wireless,4.5,99,1399,3999,65% off,,False,False,False,65.01625406351587,2600,292.5731432858214,,0
+675,Mivi,DuoPods F40 with 50 Hrs Playtime I13mm Drivers|Mad...,White, True Wireless,3.9,72798,899,2999,70% off,50,False,False,False,70.02334111370457,2100,273.0910303434478,,0
+676,DEFY,"GravityZ with upto 50 Hours Playback, 4 Mic ENC, 1...",White Purity, In the Ear,4.0,1670,1099,2699,59% off,50,False,True,False,59.28121526491294,1600,237.12486105965175,,1
+677,GENTLEMOB,Latest Earbuds/Tws/xpods/buds M19 True wirele...,Support Iphone/Android phone 10hrs playtime Black colour, True Wireless,4.0,99,589,1999,70% off,,False,False,False,70.53526763381691,1410,282.14107053526766,,0
+678,boAt,"Airdopes 161 with ASAP Charge, 10mm Drivers and 17...",Pebble Black, True Wireless,3.6,573,1099,2490,55% off,,False,False,False,55.863453815261046,1391,201.10843373493978,,0
+679,DIGIBUDS,L-21 Smart TWS With Charging Case HD Sound Tec...,Black, True Wireless,3.9,188519,549,2499,78% off,,False,False,False,78.031212484994,1950,304.3217286914766,,0
+680,MOOZMOB,PRO Edition Neckband B11 Bluetooth Earphone wit...,Black, In the Ear,3.6,136,549,999,45% off,,False,False,False,45.04504504504504,450,162.16216216216216,,0
+681,GOVO,"GOKIXX 952 Bluetooth Neckband, 106H Battery-Fast C...",Gun Metal Grey, In the Ear,4.3,6,1399,4999,72% off,106,True,False,False,72.01440288057611,3600,309.6619323864773,,1
+682,HOPPUP,GRAND With Power Bank Function & Upto 75 Hours P...,Black, True Wireless,3.7,8896,599,2999,80% off,75,False,False,False,80.02667555851951,2400,296.0986995665222,,0
+683,Sulfur,Vibration & 45 Hours Backup Elite-2 Wireless Spo...,Black1, True Wireless,3.2,21,498,2499,80% off,45,False,False,False,80.0720288115246,2001,256.23049219687874,,0
+684,KDM,G2 Power Bluetooth Headset,Black, In the Ear,4.0,51798,829,1999,58% off,,False,False,False,58.529264632316156,1170,234.11705852926463,,0
+685,TECHFIRE,F-255 neckband bluetooth headphone with Fast C...,Black, In the Ear,4.2,9625,449,3850,88% off,,True,False,False,88.33766233766234,3401,371.01818181818186,,1
+686,TECHFIRE,Fire 500v2 Neckband hi-bass Wireless Bluetooth...,Grey, In the Ear,3.9,188519,445,3850,88% off,,False,False,False,88.44155844155844,3405,344.9220779220779,,0
+688,NKL,H700 Wireless Bluetooth Neckband with Mic Bluetooth...,Green, In the Ear,3.7,39568,719,999,40% off,,False,False,False,28.02802802802803,280,103.70370370370371,,0
+689,FLIXWISE,"TWS Earbuds Full Touch Control, HD Audio 24Hrs...",White, True Wireless,4.0,5800,599,1999,72% off,24,False,False,False,70.03501750875438,1400,280.1400700350175,,0
+690,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,White, True Wireless,3.7,3072,546,3999,85% off,24,False,False,False,86.34658664666166,3453,319.4823705926482,,0
+691,Jeevan,jyoti agency M19 Earbuds/TWS/buds 5.1 Earbuds wi...,Black, True Wireless,4.3,1367,671,1199,44% off,,False,True,False,44.03669724770643,528,189.35779816513764,,1
+692,truke,"Buds Vibe with 35dB ANC, 4Mic ENC, 13mm Speaker, ...",Yellow, True Wireless,4.1,25,1499,3499,57% off,,False,True,True,57.15918833952558,2000,234.35267219205485,,2
+693,Longway,Evoke 355 with Fast Charge and upto 45 Hours Pl...,Black, In the Ear,3.6,6182,429,1290,66% off,45,True,False,False,66.74418604651163,861,240.27906976744188,,1
+694,Aroma,NB140 Captain 24 Hours* Playtime | Deep Bass | Ma...,Dark Blue, True Wireless,3.7,8896,546,1999,72% off,24,False,False,False,72.68634317158579,1453,268.93946973486743,,0
+695,UBeesize,H700 Platinum Series Neckband BASS Bluetooth H...,Black, In the Ear,4.1,532,399,1499,73% off,,False,False,False,73.3822548365577,1100,300.86724482988654,,0
+696,Zohlo,Bluetooth Neckband with Mic Stereo Sound Compatib...,Black, In the Ear,4.0,2779,429,800,46% off,,False,False,False,46.375,371,185.5,,0
+697,blue,seed BBD-B17 Portable Headset Hand Free Call with ...,Multicolor, In the Ear,4.2,308,930,1999,53% off,,False,False,False,53.476738369184595,1069,224.6023011505753,,0
+698,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,Black, True Wireless,3.8,109649,546,1999,72% off,24,False,False,False,72.68634317158579,1453,276.208104052026,,0
+699,D1Y3,"B-14, ProBass Fcharge with 35 hrs Playtime, Fast C...",Multicolor  Silver, In the Ear,3.9,4974,1439,4999,71% off,,True,False,False,71.21424284856971,3560,277.7355471094219,,1
+700,Mytrack,"MT0507 Neckband Low latency Quick Charging, Mic...",Black, In the Ear,4.2,1135,449,2995,85% off,,False,True,False,85.00834724540901,2546,357.03505843071787,,1
+701,Aroma,"NB119 Queen 100 Hours Playtime, EQ modes, Fast Ch...",Black, In the Ear,4.1,327645,689,3299,79% off,100,True,False,False,79.11488329796909,2610,324.37102152167324,,1
+702,Mivi,"DuoPods K5 TWS Earbuds Metallic Finish, HD calling...",Cobalt Blue, True Wireless,3.9,21,1399,3999,65% off,,False,False,False,65.01625406351587,2600,253.5633908477119,,0
+703,Mivi,DuoPods F40 with 50 Hrs Playtime I13mm Drivers|Mad...,White, True Wireless,4.0,12482,899,2999,70% off,50,False,False,False,70.02334111370457,2100,280.0933644548183,,0
+704,Wings,"Phantom 105 Earbuds with Game Mode, ENC, 40 Hours...",Black, True Wireless,3.9,188519,1799,3599,50% off,40,False,True,False,50.01389274798556,1800,195.05418171714368,,1
+705,DEFY,GravityU with 35 Hours Playback and Beast Mode Blu...,Celestial Cyan, In the Ear,3.2,10,899,1999,55% off,35,False,False,False,55.02751375687844,1100,176.08804402201102,,0
+706,boAt,"Airdopes 161 with ASAP Charge, 10mm Drivers and 17...",Pebble Black, True Wireless,3.8,808,1099,2490,55% off,,False,False,False,55.863453815261046,1391,212.28112449799195,,0
+707,Xezbi,Earbuds M10 Air-Pro Wireless Earphone Touch Contr...,Black, True Wireless,3.9,188519,549,3899,85% off,,False,False,False,85.91946652987946,3350,335.0859194665299,,0
+708,Wings,"X-Fire with 25 Hrs playtime Bluetooth5.3, 50ms lo...",Black, True Wireless,4.1,1616,1599,7999,93% off,25,False,False,False,80.01000125015626,6400,328.04100512564065,,0
+709,Tunifi,TN01 TWS Earbuds Upto 48Hrs. Playback with Power...,Black, True Wireless,4.1,43,499,3850,88% off,48,False,False,False,87.03896103896103,3351,356.8597402597402,,0
+710,TECHFIRE,Fire 500v2 Neckband hi-bass Wireless headphone...,Red, In the Ear,4.0,11051,449,2299,69% off,,False,False,False,80.46976946498478,1850,321.8790778599391,,0
+711,Syska,PACE X1 Bluetooth Headset,Elegant Black, In the Ear,3.7,8896,699,2999,69% off,,False,False,False,76.69223074358119,2300,283.7612537512504,,0
+712,Ubon,"Khiladi Series CL-3990 Upto 30 hours Playtime ,Typ...",Grey, In the Ear,3.9,194790,919,3850,88% off,,False,False,False,76.12987012987013,2931,296.9064935064935,,0
+713,MOQ,MQ655BLACK Bluetooth Headset,Black, In the Ear,3.7,448,445,2999,81% off,,False,False,False,85.16172057352452,2554,315.0983661220407,,0
+714,TECHFIRE,Fire 500v2 Neckband hi-bass Wireless Bluetooth...,Grey, In the Ear,3.7,39568,564,3990,64% off,,False,False,False,85.86466165413535,3426,317.6992481203008,,0
+715,Aroma,NB119 Hero - 50 Hours Playtime Bluetooth Neckband...,Black, In the Ear,3.8,2551,1424,2999,81% off,119,False,False,False,52.51750583527842,1575,199.56652217405798,,0
+716,DUDAO,Expendable One click Retractable Single Ear Bluet...,Black, In the Ear,3.7,1060,564,1999,72% off,,False,False,False,71.78589294647324,1435,265.607803901951,,0
+717,Aroma,NB119 Champion - 50 Hours Playtime Bluetooth Neck...,Black, In the Ear,3.4,5917,546,2499,72% off,50,False,False,False,78.15126050420169,1953,265.7142857142857,,0
+718,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,White, True Wireless,3.8,141,699,3499,74% off,24,False,False,False,80.02286367533581,2800,304.08688196627605,,0
+719,Mivi,Collar Classic Neckband with Fast Charging Bluetoo...,Red, In the Ear,3.9,188519,899,3499,57% off,,True,False,False,74.30694484138326,2600,289.7970848813947,,1
+720,Aroma,NB132 Construct 48 Hours PlayTime True Wireless E...,White, True Wireless,4.3,6,1499,3850,89% off,48,False,False,False,61.064935064935064,2351,262.57922077922075,,0
+721,Noise,"Buds VS202 with 24 Hours Playtime, Instacharge, H...",Charcoal Black, True Wireless,3.3,1435,399,7999,90% off,24,False,False,False,95.01187648456056,7600,313.53919239904985,,0
+723,Digiwins,BTH F9 Pro Earbuds Upto 300Hrs Playtime With 2...,Black, True Wireless,4.7,81,235,2499,78% off,300,False,False,False,90.59623849539817,2264,425.8023209283714,,0
+724,JBL,"Tune 230NC TWS, Active Noise Cancellation, 40Hr Pla...",Black, True Wireless,4.0,5696,5999,7999,25% off,40,False,False,True,25.003125390673837,2000,100.01250156269535,,1
+725,MASOORI,L21 Wireless 5.0 TWS Earphones Earbuds Stereo I...,Black, True Wireless,3.3,6,499,1599,68% off,,False,False,False,68.79299562226392,1100,227.0168855534709,,0
+726,CIHLEX,CX-1004 Classical Bluetooth Neckband Headphone E...,Black, In the Ear,3.7,3128,749,1999,62% off,,False,False,False,62.531265632816414,1250,231.36568284142075,,0
+727,Aroma,NB137 Nexon 16 Hours* Playtime Deep Bass True Wir...,White  Silver, True Wireless,3.6,4211,499,1499,66% off,16,False,False,False,66.711140760507,1000,240.16010673782523,,0
+728,TECHFIRE,H700 Hi-Res Wireless in Ear Headphone Black Bl...,Black, In the Ear,3.9,527,494,1299,61% off,700,False,False,False,61.9707467282525,805,241.68591224018473,,0
+729,KDM,A2 50H MUSIC TIME HEADPHONE Bluetooth Headset,Multicolor, In the Ear,3.6,6182,999,2999,66% off,50,False,False,False,66.68889629876625,2000,240.0800266755585,,0
+730,blue,seed BBD-B17 Portable Headset Hand Free Call with ...,Multicolor, In the Ear,3.9,194790,930,1999,53% off,,False,False,False,53.476738369184595,1069,208.55927963981992,,0
+731,Aroma,NB140 Captain 24 Hours* Playtime | Deep Bass | Ma...,Dark Blue, True Wireless,4.0,4882,546,1999,72% off,24,False,False,False,72.68634317158579,1453,290.74537268634316,,0
+732,Worricow,Hot Sale IPX7 Waterproof headphone with callin...,Green, In the Ear,4.0,20048,549,999,45% off,,False,False,False,45.04504504504504,450,180.18018018018017,,0
+733,Mivi,Collar Classic Neckband with Fast Charging Bluetoo...,Red, In the Ear,3.4,229,699,2499,72% off,,True,False,False,72.02881152460985,1800,244.8979591836735,,1
+734,boAt,"Airdopes 192 with Beast Mode(40ms), 30 Hours Playb...",Black Sabre, True Wireless,3.8,103,1899,3599,47% off,30,False,False,False,47.235343150875245,1700,179.4943039733259,,0
+735,Boult,"Audio YCharge with Pro+ Calling Mic, Full Charge ...",Blue, In the Ear,4.3,1367,699,1999,65% off,,False,False,False,65.03251625812906,1300,279.63981990995495,,0
+736,GAGANDEEP,TWS i12 Bluetooth Wireless Earphone Touch Sen...,Multicolor, True Wireless,4.1,111172,499,2999,83% off,,False,False,False,83.36112037345782,2500,341.78059353117703,,0
+737,JVMART,M10 TWS EarBuds Touch Control Bluetooth Headset,Black, True Wireless,3.5,6737,499,2999,83% off,,False,False,False,83.36112037345782,2500,291.76392130710235,,0
+738,truke,"Buds Vibe with 35dB ANC, 4Mic ENC, 13mm Speaker, ...",Yellow, True Wireless,3.7,8896,1499,3499,57% off,,False,True,True,57.15918833952558,2000,211.48899685624465,,2
+739,Boult,"Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...",Black, True Wireless,3.6,5193,999,5499,81% off,40,True,False,False,81.83306055646482,4500,294.59901800327333,,1
+740,snowbudy,7PRO TWS Earbuds Movie Mode 48Hrs Total Playti...,Black, True Wireless,3.9,1495,852,4490,81% off,48,False,False,False,81.02449888641425,3638,315.99554565701555,,0
+741,Rudra,Tech M19 / M90 / M10 / T2TWS Bluetooth 5.0 Wirele...,Black, In the Ear,3.7,147072,628,2499,74% off,,False,False,False,74.86994797919168,1871,277.01880752300923,,0
+742,Oxhox,Wireless compatible with 4G redmi Bluetooth Heads...,Red  Black, True Wireless,4.3,3,249,999,75% off,,False,False,False,75.07507507507508,750,322.82282282282284,,0
+743,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,Black, True Wireless,3.9,142,546,1999,72% off,24,False,False,False,72.68634317158579,1453,283.4767383691846,,0
+744,TECHFIRE,N95- Hours Playtime with superior sound Neckba...,Black, In the Ear,4.2,14276,329,1999,83% off,,False,False,False,83.54177088544273,1670,350.8754377188595,,0
+745,Matlek,16 Hours Music Neckband Earphone Bluetooth Wirel...,Red, In the Ear,3.7,187,399,990,59% off,16,False,False,False,59.696969696969695,591,220.87878787878788,,0
+746,CARRON,CH-160 Avatar - 48 Hour Playtime Bluetooth Headp...,Green, In the Ear,3.7,1060,426,1999,78% off,48,False,False,False,78.68934467233618,1573,291.15057528764385,,0
+747,Boult,"Audio Gearpods with 32H Playtime, Fast Charging, ...",White, True Wireless,3.8,7725,899,5999,85% off,32,True,False,False,85.01416902817137,5100,323.0538423070512,,1
+748,HASTAGG,SB 2001 Long Life Battery Bluetooth Headphone E...,Green, In the Ear,4.0,20048,599,1999,70% off,,False,False,False,70.03501750875438,1400,280.1400700350175,,0
+749,GAGANDEEP,Magnet Bluetooth Headset for all Smart phones...,Black, In the Ear,4.0,69158,399,1699,76% off,,False,False,False,76.51559741024133,1300,306.0623896409653,,0
+750,Portronics,Harmonics X1 Sports Bluetooth Headset,Green, In the Ear,4.0,51798,899,1999,55% off,,False,False,False,55.02751375687844,1100,220.11005502751377,,0
+751,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",Blue, In the Ear,3.9,1993,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,288.65773154630926,,1
+752,Boult,"Audio X60 ANC (30dB), Quad Mic ENC, 30 Hrs Batter...",Blue, True Wireless,4.1,2992,1499,4999,70% off,30,False,True,True,70.01400280056012,3500,287.05741148229646,,2
+753,Digiwins,BTH F9 Pro Earbuds Upto 300Hrs Playtime With 2...,Black, True Wireless,3.3,7472,759,7999,90% off,300,False,False,False,90.51131391423928,7240,298.68733591698964,,0
+754,truke,"Buds S2 with 48H Playtime, Quad Mic ENC, Instant ...",Blue, True Wireless,3.8,24,1099,3999,72% off,48,False,True,False,72.51812953238309,2900,275.5688922230557,,1
+755,Boult,"Audio YCharge with Pro+ Calling Mic, Full Charge ...",Black, In the Ear,3.9,72798,699,1999,65% off,,False,False,False,65.03251625812906,1300,253.62681340670335,,0
+756,YAMAHA,EP-E50ABLACK\\G Bluetooth without Mic Headset,Black, In the Ear,3.7,12,9399,12400,24% off,,False,False,False,24.201612903225804,3001,89.54596774193548,,0
+757,ultiads,36 Hours Playtime with superior sound Neckband ...,Silver, In the Ear,3.4,237,1304,4999,73% off,36,False,False,False,73.91478295659132,3695,251.3102620524105,,0
+758,JBL,"Tune 175BT Flex Neckband with 14-Hour Playtime, Qui...",Red, In the Ear,3.6,6182,1899,2999,36% off,,False,False,False,36.67889296432144,1100,132.0440146715572,,0
+759,Aroma,NB140 Captain 24 Hours* Playtime | Deep Bass | Ma...,Dark Blue, True Wireless,4.0,3399,546,1999,72% off,24,False,False,False,72.68634317158579,1453,290.74537268634316,,0
+760,Wings,Phantom 205 Neck band with touch controls Bluetoo...,Grey, In the Ear,4.0,447,899,2999,70% off,,False,False,False,70.02334111370457,2100,280.0933644548183,,0
+761,ZEBRONICS,Zeb Yoga 90 Plus Bluetooth Headset,Blue  Black, In the Ear,3.8,11,1399,2299,39% off,,False,False,False,39.147455415398,900,148.7603305785124,,0
+762,REEPUD,SH12 Bluetooth Headset,Red, In the Ear,3.7,8896,599,2999,80% off,,False,False,False,80.02667555851951,2400,296.0986995665222,,0
+763,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,Black, True Wireless,3.9,200,546,1999,72% off,24,False,False,False,72.68634317158579,1453,283.4767383691846,,0
+764,SOniLEX,SL-BT-193 (GREEN) Bluetooth Headset,Green, In the Ear,3.6,183,679,2499,72% off,,False,False,False,72.82913165266106,1820,262.1848739495798,,0
+765,FRISTDOWN,i12 TWS Wireless inpods Earbuds With Touch Se...,Multicolor, True Wireless,3.5,2443,459,1999,77% off,,False,False,False,77.03851925962981,1540,269.63481740870435,,0
+766,Casa,Tech Double (Dual L/R)BT Sports With Charging Box ...,White, True Wireless,4.2,308,395,866,54% off,,False,False,False,54.387990762124716,471,228.4295612009238,,0
+767,Mivi,"DuoPods K5 TWS Earbuds Metallic Finish, HD calling...",Cobalt Blue, True Wireless,4.1,13,1399,3999,65% off,,False,False,False,65.01625406351587,2600,266.56664166041503,,0
+768,snowbudy,Top selling Earbuds Upto 32 Hrs Playtime With ...,Black BOX BATTERY BACKUP 48 HR, True Wireless,4.2,4028,599,2670,77% off,32,False,False,False,77.56554307116104,2071,325.7752808988764,,0
+769,realme,Buds Air 3S with Dual Device Pairing and 30hrs T...,Bass White, In the Ear,3.7,44,2499,4999,50% off,,False,False,False,50.01000200040008,2500,185.0370074014803,,0
+770,THE,MOBILE POINT Stereo Single Ear Mini wireless Hi-Fi ...,Black, In the Ear,4.1,327645,327,1199,72% off,,False,False,False,72.72727272727273,872,298.1818181818182,,0
+771,boAt,"Airdopes 161 with ASAP Charge, 10mm Drivers and 17...",Pebble Black, True Wireless,4.0,970,1099,2490,55% off,,False,False,False,55.863453815261046,1391,223.45381526104418,,0
+772,Auratic,M 10 TWS 5.0 Bluetooth Earphones 3500mAh Chargi...,Black, In the Ear,3.9,188519,498,999,50% off,,False,False,False,50.150150150150154,501,195.5855855855856,,0
+773,ROKAVO,Purple neckband wireless headphone headset earph...,Purple  Multicolor  Green, In the Ear,3.8,19277,529,1599,66% off,,False,False,False,66.91682301438398,1070,254.2839274546591,,0
+774,boAt,"Rockerz 378 with Spatial Bionic Sound by THX, ASAP...",Vibrant Red, In the Ear,3.9,451,1499,3490,57% off,,False,False,False,57.0487106017192,1991,222.48997134670486,,0
+775,TECHFIRE,Fire 500v2 Neckband hi-bass Wireless headphone...,Red, In the Ear,3.9,188519,449,3850,88% off,,False,False,False,88.33766233766234,3401,344.5168831168831,,0
+776,Boltune,BT-335 Neckband hi-bass Wireless Bluetooth head...,Navy Blue, In the Ear,3.3,4,479,3850,87% off,,False,False,False,87.55844155844156,3371,288.9428571428571,,0
+777,Ubon,Sound Range CL-4050 Bluetooth Headset,Blue, In the Ear,3.8,7725,827,2499,66% off,,False,False,False,66.90676270508203,1672,254.2456982793117,,0
+778,ROKAVO,Hot Selling Original high quality super bass wir...,Black, In the Ear,3.7,8896,749,1999,62% off,,False,False,False,62.531265632816414,1250,231.36568284142075,,0
+779,TECHFIRE,Fire 500v2 Neckband hi-bass Wireless Bluetooth...,Grey, In the Ear,3.8,39,445,3850,88% off,,False,False,False,88.44155844155844,3405,336.07792207792204,,0
+780,Kabeer,enterprises BT-255 Upto 30 Hours Battery Life Fl...,Red, In the Ear,4.1,710,699,2999,76% off,30,False,False,False,76.69223074358119,2300,314.4381460486829,,0
+781,TROST,Sports 40H Playtime Neckband for Gym Office Car I...,Black, In the Ear,4.1,350,539,1999,73% off,40,False,False,False,73.03651825912956,1460,299.4497248624312,,0
+782,truke,"Buds S2 with 48H Playtime, Quad Mic ENC, Instant ...",Blue, True Wireless,3.8,2551,1099,3999,72% off,48,False,True,False,72.51812953238309,2900,275.5688922230557,,1
+783,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,White, True Wireless,4.2,1135,546,1999,72% off,24,False,False,False,72.68634317158579,1453,305.28264132066033,,0
+784,Tunifi,Earbud F9 Earbuds/TWs/buds 5.1 Earbuds with 300H...,Black, True Wireless,3.5,557,499,7999,93% off,300,False,False,False,93.76172021502688,7500,328.1660207525941,,0
+785,Mivi,"DuoPods K1 compact earbuds,AI-ENC,TWS with 42H Pla...",Brisk Blue, In the Ear,3.9,188519,999,4999,80% off,42,False,True,False,80.01600320064013,4000,312.0624124824965,,1
+786,Wings,Vader 350 Bluetooth Gaming Headset,White, True Wireless,3.2,13,1599,2999,46% off,,False,False,False,46.68222740913638,1400,149.38312770923642,,0
+787,TECHFIRE,Fire-T10 -48 Hours Playing Time Fast Charging ...,OCEAN  Blue, In the Ear,3.8,24353,399,3850,89% off,48,True,False,False,89.63636363636364,3451,340.6181818181818,,1
+788,DEFY,GravityU with 35 Hours Playback and Beast Mode Blu...,Lunar White, In the Ear,4.7,81,899,1999,55% off,35,False,False,False,55.02751375687844,1100,258.6293146573287,,0
+789,Sulfur,45 Hours Playtime & Call vibration Alert Elite-2...,Red, True Wireless,4.0,1670,498,2499,80% off,45,False,False,False,80.0720288115246,2001,320.2881152460984,,0
+790,Gali,Bazar IEGA33 Bluetooth Headset,White, In the Ear,4.0,52,395,1999,80% off,,False,False,False,80.24012006003002,1604,320.9604802401201,,0
+791,ZEBRONICS,"ZEB -YOGA N2 RGB with 30H Playtime, ENC Mic, ...",Yellow, In the Ear,3.6,6182,899,2999,70% off,30,False,True,False,70.02334111370457,2100,252.08402800933646,,1
+792,Aroma,NB140 Captain 24 Hours* Playtime | Deep Bass | Ma...,Dark Blue, True Wireless,4.0,5346,546,1999,72% off,24,False,False,False,72.68634317158579,1453,290.74537268634316,,0
+793,Auxigen,Buzz Sports Wireless Neckband BT 5.0 with Deep ...,Black, In the Ear,4.2,17196,499,999,50% off,,False,False,False,50.050050050050054,500,210.21021021021022,,0
+794,Ubon,"Prithvi Series CL-350, Upto 15 Hours Playtime In-E...",Red, In the Ear,3.7,8896,649,1999,67% off,15,False,False,False,67.53376688344173,1350,249.8749374687344,,0
+795,DIZO,"Wireless Active with ENC, 11.2mm Driver, 23H Playb...",Blue, In the Ear,3.9,233,1499,2499,40% off,23,False,True,False,40.01600640256102,1000,156.06242496998797,,1
+796,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,Black, True Wireless,3.9,67,546,1999,72% off,24,False,False,False,72.68634317158579,1453,283.4767383691846,,0
+797,byer,"Scrapper Ultra Gaming TWS with 18 Hrs Battery ,50m...",Black, True Wireless,3.6,249,826,4449,81% off,18,False,False,False,81.4340301191279,3623,293.16250842886046,,0
+798,UPOZA,"Earbuds A520 TWS with 13mm HQ Drivers, Touch Cont...",Blue, True Wireless,3.7,3128,999,7999,87% off,,False,False,False,87.51093886735842,7000,323.79047380922617,,0
+799,DigiClues,Earbud BTH F9 Earbuds/TWs/buds 5.1 Earbuds wi...,Black, True Wireless,4.0,29975,749,7999,90% off,,False,False,False,90.63632954119265,7250,362.5453181647706,,0
+800,Aroma,NB137 Nexon 16 Hours* Playtime Deep Bass True Wir...,White  Silver, True Wireless,4.0,12482,499,1499,66% off,16,False,False,False,66.711140760507,1000,266.844563042028,,0
+801,boAt,"Airdopes 115 with ENx & Beast Mode, upto 24 Hrs Pl...",White Siberia, True Wireless,4.0,11,1599,2990,46% off,24,False,False,False,46.52173913043478,1391,186.08695652173913,,0
+802,Wings,"X-Fire with 25 Hrs playtime Bluetooth5.3, 50ms lo...",Black, True Wireless,4.2,308,1599,1999,80% off,25,False,False,False,20.01000500250125,400,84.04202101050525,,0
+803,ElectroMania,i12 tws earpods Bluetooth Headset Bluetoot...,White, In the Ear,4.0,1147,399,3999,65% off,,False,False,False,90.0225056264066,3600,360.0900225056264,,0
+804,Mivi,"DuoPods K5 TWS Earbuds Metallic Finish, HD calling...",Cobalt Blue, True Wireless,4.1,327645,1399,3499,81% off,,False,False,False,60.017147756501856,2100,246.07030580165758,,0
+805,Ucool,Dart 100 Hours Playtime Bluetooth Wireless Neckba...,Black, In the Ear,3.7,6,649,1999,70% off,100,False,False,False,67.53376688344173,1350,249.8749374687344,,0
+806,senerathe,BT M 233 Bluetooth Headset,Black, In the Ear,4.0,7076,599,3990,84% off,,False,False,False,84.9874686716792,3391,339.9498746867168,,0
+807,Chaebol,Thundar Bass 100Hr Standby Long Battery Life Bl...,Blue, In the Ear,3.6,38,599,2490,55% off,100,False,False,False,75.94377510040161,1891,273.3975903614458,,0
+808,boAt,"Airdopes 161 with ASAP Charge, 10mm Drivers and 17...",Pebble Black, True Wireless,3.9,72798,1099,2499,54% off,,False,False,False,56.022408963585434,1400,218.48739495798318,,0
+809,Portronics,"Harmonics Y1 with Auto ENC, Upto 40 Hours Pl...",Black, In the Ear,3.8,284,1149,2999,80% off,40,False,True,False,61.68722907635878,1850,234.41147049016337,,1
+810,Aroma,"NB119 Love 80 Hours Playtime Fast Charging, Dual ...",Red, In the Ear,4.1,10325,599,1890,48% off,80,True,False,False,68.3068783068783,1291,280.058201058201,,1
+811,KDM,G1-BULLET Stereo Sound Wireless Bluetooth Headset,Black, In the Ear,3.9,188519,975,2999,80% off,,False,False,False,67.48916305435145,2024,263.20773591197064,,0
+812,HOPPUP,GRAND With Power Bank Function & Upto 75 Hours P...,Black, True Wireless,3.8,4611,599,2499,82% off,75,False,False,False,76.03041216486595,1900,288.9155662264906,,0
+813,IZWI,F-255 neckband bluetooth headphone with Fast Charg...,Red, In the Ear,4.0,10964,449,3499,54% off,,True,False,False,87.16776221777651,3050,348.67104887110605,,1
+815,Chitransh,M10 Wireless Earbuds Bluetooth Upto 48Hrs Pla...,Black, True Wireless,3.7,8896,505,3850,88% off,48,False,False,False,86.88311688311688,3345,321.46753246753246,,0
+816,TECHFIRE,Fire 500v2 Neckband hi-bass Wireless Bluetooth...,Grey, In the Ear,3.7,448,445,2999,56% off,,False,False,False,85.16172057352452,2554,315.0983661220407,,0
+817,Noise,"Buds VS304 with 30 Hours Playtime, Instacharge, 1...",Pearl White, True Wireless,3.8,28576,1299,4999,78% off,30,False,False,False,74.01480296059212,3700,281.25625125025005,,0
+818,Boult,"Audio X45 with Quad Mic ENC, 40H Playtime, 45ms U...",Grey, True Wireless,3.9,371,1099,1249,64% off,40,False,True,False,12.00960768614892,150,46.83746997598079,,1
+819,x,pulse TwsL21 Mini Wireless Bluetooth Headset / Earpho...,Black, In the Ear,3.9,188519,449,1999,72% off,,False,False,False,77.53876938469234,1550,302.4012006003001,,0
+820,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,White, True Wireless,3.8,39269,546,3499,74% off,24,False,False,False,84.39554158330952,2953,320.70305801657616,,0
+821,Aroma,NB132 Construct 48 Hours PlayTime True Wireless E...,White, True Wireless,3.8,719,899,2999,33% off,48,False,False,False,70.02334111370457,2100,266.0886962320774,,0
+822,JBL,"Tune 125BT Flex Neckband with 16 Hour Playtime, Qui...",Blue, In the Ear,4.0,9849,1999,4999,10% off,16,False,False,False,60.01200240048009,3000,240.04800960192037,,0
+824,Lenovo,HE18 Bluetooth Headset,Green, In the Ear,3.4,123,1739,2999,42% off,,False,False,False,42.014004668222746,1260,142.84761587195734,,0
+825,CIHLEX,C-54 Super Bass Bluetooth Earphones Neckband Hea...,Green, In the Ear,3.6,30,749,1999,62% off,,False,False,False,62.531265632816414,1250,225.1125562781391,,0
+826,CIHLEX,CH-045 Classical Bluetooth Neckband Headphone Ea...,Black, In the Ear,3.6,6182,749,1999,62% off,,False,False,False,62.531265632816414,1250,225.1125562781391,,0
+827,Aroma,NB140 Captain 24 Hours* Playtime | Deep Bass | Ma...,Dark Blue, True Wireless,3.9,200,546,1999,72% off,24,False,False,False,72.68634317158579,1453,283.4767383691846,,0
+828,SOniLEX,SL-BT-193 (GREEN) Bluetooth Headset,Green, In the Ear,4.2,4028,679,2499,72% off,,False,False,False,72.82913165266106,1820,305.88235294117646,,0
+829,Gideon,ZEE-RML ME-1 Bluetooth Headset,Yellow, In the Ear,3.7,8896,399,1499,73% off,,False,False,False,73.3822548365577,1100,271.51434289526355,,0
+830,realme,Buds Air 3S with Dual Device Pairing and 30hrs T...,Bass White, In the Ear,3.9,134,2499,4999,50% off,,False,False,False,50.01000200040008,2500,195.0390078015603,,0
+831,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,Black, True Wireless,3.7,12546,546,1999,72% off,24,False,False,False,72.68634317158579,1453,268.93946973486743,,0
+832,DigiClues,Earbuds M29 Pro with Power-Bank Bluetooth Hea...,Black, True Wireless,3.5,131,781,4999,84% off,,False,False,False,84.37687537507502,4218,295.3190638127626,,0
+833,Boult,"Audio XPods Pro with Zen ENC Mic, Mega 13mm Drive...",Black, True Wireless,4.2,308,1099,5999,81% off,,False,True,False,81.68028004667445,4900,343.05717619603274,,1
+834,Digiwins,Premium Gaming Series P86 TWS 13mm HD Dynamic ...,Black, True Wireless,4.0,4643,999,7999,87% off,,False,False,False,87.51093886735842,7000,350.0437554694337,,0
+835,Mivi,"DuoPods K5 TWS Earbuds Metallic Finish, HD calling...",Cobalt Blue, True Wireless,2.0,2,1399,3999,65% off,,False,False,False,65.01625406351587,2600,130.03250812703175,,0
+836,Fome,M10 TWS 2200 mAh Power Bank Charging Box EarBuds W...,Black, True Wireless,4.0,20048,499,2449,79% off,,False,False,False,79.6243364638628,1950,318.4973458554512,,0
+837,ORAIMO,"FreePods 3 in Ear TWS Earbuds,36Hrs Playtime ,4-...",White, True Wireless,3.8,3898,1399,4999,72% off,36,False,False,False,72.01440288057611,3600,273.6547309461892,,0
+838,Gonsgadapp,5100 Wireless Bluetooth Over-Ear -Black Blue...,Black, In the Ear,4.3,4,299,1299,76% off,,False,False,False,76.98229407236336,1000,331.02386451116246,,0
+839,Boult,"Audio YCharge with Pro+ Calling Mic, Full Charge ...",Blue, In the Ear,3.7,3128,699,1999,65% off,,False,False,False,65.03251625812906,1300,240.62031015507756,,0
+840,U&i,Valley 80 Hours Music Time Fast Charging Wireless N...,Black, In the Ear,3.1,43,699,3799,81% off,80,True,False,False,81.60042116346406,3100,252.9613056067386,,1
+841,BULLSTORM,Latest Version B11 Neckband Bluetooth Neckban...,Black, In the Ear,3.7,9,399,999,60% off,,False,False,False,60.06006006006006,600,222.22222222222223,,0
+842,VIPPO,VBT-675 Gleaming Light 25 Hours Music Playtime 40...,Red, In the Ear,4.1,111172,674,2299,70% off,25,False,False,False,70.68290561113527,1625,289.79991300565456,,0
+843,Aroma,NB137 Nexon 16 Hours* Playtime Deep Bass True Wir...,White  Silver, True Wireless,3.9,19951,499,1499,66% off,16,False,False,False,66.711140760507,1000,260.17344896597734,,0
+844,Hitage,NBT1949+ Wireless music Sports headset Bluetooth...,Beige, In the Ear,3.7,3128,1099,1999,45% off,,False,False,False,45.02251125562781,900,166.58329164582292,,0
+845,GUGGU,OGW_462T HSB-730 Bluetooth for all Smartphones wi...,Black, In the Ear,3.8,705,349,999,65% off,,False,False,False,65.06506506506507,650,247.24724724724726,,0
+846,Worricow,40H Playtime 10mm Drivers Crystal-Clear Calls ...,Blue, In the Ear,3.9,72798,429,999,57% off,40,False,False,False,57.05705705705706,570,222.5225225225225,,0
+847,Boult,"Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...",Black, True Wireless,4.0,9,999,5499,81% off,40,True,False,False,81.83306055646482,4500,327.33224222585926,,1
+848,realme,Buds Q2 with Active Noise Cancellation Bluetooth...,Grey, In the Ear,3.9,4974,1499,3499,57% off,,False,False,True,57.15918833952558,2000,222.92083452414974,,1
+849,Aroma,NB137 Union Wireless Earbuds Bluetooth Headset,White, True Wireless,3.8,486,783,3999,80% off,,False,False,False,80.42010502625656,3216,305.59639909977494,,0
+850,JBL,"Wave Beam TWS, 32Hr Playtime, IP54, Smart Ambient &...",Black, In the Ear,4.0,20048,3999,4999,20% off,32,False,False,False,20.004000800160032,1000,80.01600320064013,,0
+851,HOPPUP,GRAND With Power Bank Function & Upto 75 Hours P...,Black, True Wireless,3.6,1461,599,2999,80% off,75,False,False,False,80.02667555851951,2400,288.0960320106703,,0
+852,UPOZA,"Earbuds L21 with ASAP Charge, 10mm Drivers and 25...",Black, True Wireless,4.2,308,549,3999,86% off,,False,False,False,86.27156789197299,3450,362.34058514628657,,0
+853,Wings,"Phantom 105 Earbuds with Game Mode, ENC, 40 Hours...",Black, True Wireless,3.3,4,1799,3599,50% off,40,False,True,False,50.01389274798556,1800,165.04584606835235,,1
+854,PTron,"Bassbuds Verse TWS Earbuds, 40H Playtime, ENC Cal...",Black, In the Ear,4.1,327645,999,4599,78% off,40,False,True,False,78.27788649706457,3600,320.9393346379647,,1
+855,Sulfur,Vibration & 45 Hours Backup Elite-2 Wireless Spo...,Black1, True Wireless,4.0,1670,498,2499,80% off,45,False,False,False,80.0720288115246,2001,320.2881152460984,,0
+856,GAGANDEEP,Magnet Bluetooth Headset for all Smart phones...,Multicolor, In the Ear,3.9,90,399,1699,76% off,,False,False,False,76.51559741024133,1300,298.4108298999412,,0
+857,Portronics,Harmonics Z3 Wireless Stereo Neckband Blueto...,Black, In the Ear,3.7,6379,699,1999,65% off,,False,False,False,65.03251625812906,1300,240.62031015507756,,0
+858,PTron,"Bassbuds Joy TWS with 13mm Drivers, Stereo Calls,...",Black, True Wireless,3.9,142,799,2599,69% off,,False,False,False,69.25740669488265,1800,270.1038861100423,,0
+859,Portronics,Harmonics X1 Sports Bluetooth Headset,Green, In the Ear,3.7,38,899,1999,55% off,,False,False,False,55.02751375687844,1100,203.60180090045026,,0
+860,Fome,M10 TWS Bluetooth 5.1 Headset 9D Stereo Sports Wat...,Black, In the Ear,3.4,229,491,2698,81% off,1,False,False,False,81.80133432171979,2207,278.1245366938473,,0
+861,GAGANDEEP,TWS i12 Bluetooth Wireless Earphone Touch Sen...,Multicolor, True Wireless,4.2,14276,499,2999,83% off,,False,False,False,83.36112037345782,2500,350.1167055685229,,0
+862,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",White, In the Ear,3.8,4473,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,281.25625125025005,,1
+863,truke,"Air Buds+ with Quad Mic ENC & 20 EQ mode, Digital...",Black, True Wireless,3.7,8916,1099,1699,35% off,,False,True,False,35.31489111241907,600,130.66509711595057,,1
+864,HOPPUP,MAX Bluetooth Headset,White, True Wireless,3.6,211,699,2099,66% off,,False,False,False,66.69842782277274,1400,240.1143401619819,,0
+865,BeastBass,"M10 Earpods/ipod/buds 225Hours Backup, Power ...",Black, True Wireless,4.0,49704,599,3999,85% off,225,False,False,False,85.02125531382846,3400,340.08502125531385,,0
+866,Boult,"Audio ProBass EQCharge with ZEN Mode ENC, 32hrs P...",Blue, In the Ear,3.4,166,799,4499,82% off,,False,True,False,82.24049788841965,3700,279.6176928206268,,1
+867,PRONOVA,M28 Gaming Earbuds TWS with 300 Hours Palyback ...,Black, True Wireless,4.1,747,699,7999,91% off,300,False,False,False,91.26140767595949,7300,374.1717714714339,,0
+869,PTron,Tangent Beats wireless neckband Bluetooth Headset,Black, In the Ear,4.1,111172,1099,5499,81% off,,False,False,False,80.01454809965448,4400,328.0596472085833,,0
+870,Boult,"Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...",Black, True Wireless,3.2,1828,999,1699,76% off,40,True,False,False,41.20070629782225,700,131.84226015303122,,1
+871,GAGANDEEP,Magnet Bluetooth Headset for all Smart phones...,Black, In the Ear,3.6,6182,399,1299,61% off,,False,False,False,69.28406466512702,900,249.4226327944573,,0
+872,SYARA,RHB_15K_ Bluetooth Headset for all Smart phones B...,Multicolor, In the Ear,2.2,5,499,1999,72% off,,False,False,False,75.03751875937968,1500,165.08254127063532,,0
+873,DRUMSTONE,S530 Smallest Wireless Invisible Mini Bluetoo...,Black, In the Ear,3.4,165,599,1999,62% off,,False,False,False,70.03501750875438,1400,238.11905952976488,,0
+874,Aroma,NB140 Captain 24 Hours* Playtime | Deep Bass | Ma...,Dark Blue, True Wireless,3.6,2289,546,999,50% off,24,False,False,False,45.34534534534534,453,163.24324324324323,,0
+875,CIHLEX,CH-45 Classical Bluetooth Neckband Headphone Ear...,Black, In the Ear,3.8,47151,749,7999,91% off,,False,False,False,90.63632954119265,7250,344.41805225653206,,0
+876,Buy,Genuine Mini Wireless Earbuds With Microphone (Dual...,White, In the Ear,3.7,3685,499,7999,86% off,,False,False,False,93.76172021502688,7500,346.9183647955995,,0
+877,Earboss,M19 Earbuds/TWS/buds 5.1 Earbuds with 280H Play...,Black, True Wireless,4.1,20,649,1999,68% off,280,False,False,False,67.53376688344173,1350,276.88844422211105,,0
+878,Boult,"Audio Truebuds with 30H Battery, IPX7 Waterproof,...",Red, True Wireless,3.6,358,1099,3499,74% off,30,False,False,False,68.5910260074307,2400,246.9276936267505,,0
+879,Aroma,NB140 Fabulous 24 Hours* Playtime | Deep Bass | M...,White, True Wireless,4.2,14276,638,2599,69% off,24,False,False,False,75.45209696036937,1961,316.8988072335514,,0
+880,Portronics,Harmonics Twins S4 Smart TWS Earbuds Bluetoo...,Black, In the Ear,3.7,71,899,4999,74% off,,False,False,False,82.01640328065614,4100,303.4606921384277,,0
+881,PTron,"Basspods P81 TWS Earbuds, 32H Playtime, Deep Bass...",White, In the Ear,3.8,593,799,4999,81% off,32,False,False,False,84.01680336067213,4200,319.2638527705541,,0
+882,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",Blue, In the Ear,3.7,8896,1299,1999,75% off,60,False,True,False,35.01750875437719,700,129.56478239119562,,1
+883,UPOZA,Earbuds M29 Pro ENC Technology Bluetooth Headset,Black, True Wireless,3.8,796,949,1999,75% off,,False,True,False,52.526263131565784,1050,199.59979989994997,,1
+884,Kabeer,enterprises L21 Air Buds Mini Truly Wireless Blu...,Black, True Wireless,3.8,47151,497,1999,72% off,,False,False,False,75.1375687843922,1502,285.5227613806903,,0
+885,FPX,Magnus 50Hr Playtime with Superior sound Wireless N...,Blue  Black, In the Ear,3.1,43,499,1399,71% off,50,False,False,False,64.33166547533953,900,199.42816297355256,,0
+886,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,Black, True Wireless,4.1,327645,546,2499,48% off,24,False,False,False,78.15126050420169,1953,320.4201680672269,,0
+887,Lenovo,HE15 Bluetooth Headset,Black, In the Ear,3.9,909,1559,2999,48% off,,False,False,False,48.01600533511171,1440,187.26242080693567,,0
+888,SYARA,RHB_15K_ Bluetooth Headset for all Smart phones B...,Multicolor, In the Ear,4.0,20048,499,1299,61% off,,False,False,False,61.585835257890686,800,246.34334103156274,,0
+889,Clairbell,TEI_621B_B11 Neck Band Bluetooth Headset Blue...,Black, In the Ear,4.5,53485,389,659,40% off,,False,False,False,40.971168437025796,270,184.37025796661607,,0
+890,Boult,"Audio YCharge with Pro+ Calling Mic, Full Charge ...",Blue, In the Ear,3.8,5418,699,1999,65% off,,False,False,False,65.03251625812906,1300,247.12356178089044,,0
+891,Wings,"Phantom 345 with Low Latency 40ms, App Support, 5...",Black, In the Ear,4.1,111172,1799,2999,40% off,,False,True,False,40.01333777925976,1200,164.054684894965,,1
+892,APPLE,Airpods Pro with MagSafe Charging Case Bluetooth ...,White, True Wireless,3.3,34,16999,26300,35% off,,False,False,False,35.365019011406844,9301,116.70456273764258,,0
+893,Boult,"Audio PowerBuds with Inbuilt Powerbank, 120H Batt...",Blue, True Wireless,4.0,1345614,1299,8999,85% off,120,False,False,False,85.56506278475386,7700,342.26025113901545,,0
+894,Boult,"Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...",Black, True Wireless,3.4,326,999,5499,81% off,40,True,False,False,81.83306055646482,4500,278.23240589198036,,1
+895,NP,SERIES TWS L21 True Wireless Bluetooth Sports Earpho...,Black 6, True Wireless,3.7,147072,499,4299,88% off,,False,False,False,88.39264945336124,3800,327.0528029774366,,0
+896,boAt,Airdopes 131 with upto 60 Hours and ASAP Charge Bl...,Crimson Cream, True Wireless,3.9,1438,1199,2990,59% off,60,False,False,False,59.89966555183946,1791,233.6086956521739,,0
+897,JVMART,UPGRADED VERSION M10 TWS Wireless Headphones wit...,Black, True Wireless,3.6,95,499,2999,83% off,,False,False,False,83.36112037345782,2500,300.10003334444815,,0
+898,Boult,"Audio Gearpods with 32H Playtime, Fast Charging, ...",White, True Wireless,4.2,14276,899,5999,85% off,32,True,False,False,85.01416902817137,5100,357.05950991831975,,1
+899,Ucool,Pesto 150 Hours Play AI Noise Cancellation Blueto...,Black, In the Ear,3.7,1299,649,3499,81% off,150,False,False,True,81.45184338382396,2850,301.3718205201487,,1
+900,GOVO,"GOKIXX 610 Bluetooth Neckband, 12H Battery, Magnet...",Platinum Black, In the Ear,4.4,310263,1499,3799,60% off,12,False,False,False,60.54224795998947,2300,266.38589102395366,,0
+901,webster,Elite-2 Wireless Exta Bass Sports Neckband Vibr...,Black, In the Ear,4.0,20048,499,2499,80% off,,False,False,False,80.03201280512204,2000,320.12805122048815,,0
+902,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",Blue, In the Ear,3.7,16321,1299,4999,74% off,60,False,True,False,74.01480296059212,3700,273.8547709541909,,1
+903,Ubon,UP BEAT CL-4070 Bluetooth Headset,Blue, In the Ear,4.2,124994,899,2899,68% off,,False,False,False,68.98930665746809,2000,289.755087961366,,0
+904,SYARA,LHU_459S_ HP17 Neck band Bluetooth Headset Blueto...,Black, In the Ear,3.7,493,399,799,50% off,,False,False,False,50.06257822277848,400,185.23153942428038,,0
+905,OnePlus,Bullets Wireless Z Bluetooth Headset,Black, In the Ear,4.2,54287,2184,2190,65% off,,False,False,False,0.273972602739726,6,1.1506849315068493,,0
+906,Boult,"Audio YCharge with Pro+ Calling Mic, Full Charge ...",Black, In the Ear,3.8,47151,699,1999,63% off,,False,False,False,65.03251625812906,1300,247.12356178089044,,0
+907,ROKAVO,BT22 Classic Bluetooth Neckband With Long Life B...,Black, In the Ear,3.8,4952,729,1999,61% off,,False,False,False,63.53176588294147,1270,241.4207103551776,,0
+908,boAt,Airdopes 381 Sunburn Edition with upto 20 Hours Pl...,Techno Purple, In the Ear,4.2,1644667,1899,4990,63% off,20,False,False,False,61.9438877755511,3091,260.1643286573146,,0
+909,zevin's,Premium TWS F9 True Wireless Headset with Power...,Black, True Wireless,4.0,114272,899,2490,78% off,,False,False,False,63.89558232931727,1591,255.58232931726909,,0
+910,boAt,Rockerz 235 Pro with upto 20 Hours Playback & ASAP...,Ash Grey, In the Ear,4.0,405147,499,2299,88% off,20,False,False,False,78.294910830796,1800,313.179643323184,,0
+911,Karimotech,Ear pod with Wireless Charging Case WS-4000 ...,White, True Wireless,4.0,405147,499,4499,42% off,,False,False,False,88.90864636585908,4000,355.63458546343634,,0
+912,Tunifi,Earbuds T-2 PRO with ASAP Charge Bluetooth Heads...,Black, True Wireless,4.1,17,1999,3499,86% off,,False,False,False,42.869391254644185,1500,175.76450414404115,,0
+913,realme,Buds Air 3 Neo with up to 30 hours Playback & Fa...,Galaxy White, True Wireless,3.9,127,1099,7999,68% off,,False,False,False,86.26078259782473,6900,336.4170521315164,,0
+914,Boult,"Audio Truebuds with 30H Battery, IPX7 Waterproof,...",Grey, True Wireless,3.9,60877,1399,4499,59% off,30,False,False,False,68.90420093354078,3100,268.72638364080905,,0
+915,truke,"Buds Pro with ANC, 48 Hours Playtime, Quad-Mic EN...",Black, True Wireless,4.0,49704,1199,2990,39% off,48,False,False,True,59.89966555183946,1791,239.59866220735785,,1
+916,zevin's,BT-Max Wireless Bluetooth Smart Neckband with V...,Green, In the Ear,4.2,13,699,1999,65% off,,False,False,False,65.03251625812906,1300,273.1365682841421,,0
+917,byer,"Sound Cross 35 hours playtime, ENC, fast Charging,...",Grey, In the Ear,3.9,27254,499,1499,66% off,,True,True,False,66.711140760507,1000,260.17344896597734,,2
+918,WeCool,Moonwalk Mini in ear bluetooth Earbuds with 16 h...,Black  Yellow, True Wireless,3.7,3128,1199,3999,70% off,,False,False,False,70.01750437609402,2800,259.0647661915479,,0
+919,Aroma,NB137 Nexon 16 Hours* Playtime Deep Bass True Wir...,White  Silver, True Wireless,4.1,15839,1499,4999,70% off,16,False,False,False,70.01400280056012,3500,287.05741148229646,,0
+920,Fire-Boltt,Fire Pods Ninja G201 Earbuds TWS IWP HD Call...,Pink, True Wireless,3.7,744,645,5999,89% off,,False,False,False,89.24820803467244,5354,330.21836972828805,,0
+921,Boult,"Audio X60 ANC (30dB), Quad Mic ENC, 30 Hrs Batter...",Black, True Wireless,3.6,6182,546,1999,72% off,30,False,True,True,72.68634317158579,1453,261.6708354177089,,2
+922,BRICKFIRE,M28 TWS EARBUDS Bluetooth Headset,Black, In the Ear,4.1,8448,2299,3990,42% off,,False,False,False,42.38095238095238,1691,173.76190476190473,,0
+923,Aroma,NB140 Captain 24 Hours* Playtime | Deep Bass | Ma...,Dark Blue, True Wireless,3.7,71,949,4999,81% off,24,False,False,False,81.01620324064814,4050,299.7599519903981,,0
+924,OPPO,Enco Air 2 With 13.4 dynamic driver Bluetooth Head...,Blue, True Wireless,3.5,386,499,2999,83% off,,False,True,False,83.36112037345782,2500,291.76392130710235,,1
+925,UPOZA,Earbuds M29 Pro ENC Technology Bluetooth Headset,Black, True Wireless,4.0,20048,699,1999,65% off,,False,True,False,65.03251625812906,1300,260.13006503251626,,1
+926,FPX,"Lunar In Ear Wireless Neckband, 15Hrs Playtime, Swe...",Black, In the Ear,3.8,75,989,1999,50% off,15,False,False,False,50.52526263131566,1010,191.9959979989995,,0
+927,Boult,"Audio YCharge with Pro+ Calling Mic, Full Charge ...",Blue, In the Ear,4.0,405147,699,3499,80% off,,False,False,False,80.02286367533581,2800,320.09145470134325,,0
+928,Hitage,NBT-3591+ 72 Hours Music Time Wireless Neckband ...,Black, In the Ear,4.0,4,1619,5999,73% off,72,False,False,False,73.01216869478246,4380,292.04867477912984,,0
+929,Boult,"Audio Curve with BoomX Rich Bass, Flexi-band, Mag...",Red  Black  Grey, In the Ear,4.1,111172,999,5499,81% off,,False,False,False,81.83306055646482,4500,335.5155482815057,,0
+930,D1Y3,"Z-1,Badshah - 100 Hours Playtime Bluetooth Neckban...",Multicolor, In the Ear,3.7,8896,389,999,61% off,100,False,False,False,61.06106106106106,610,225.92592592592592,,0
+931,Boult,"Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...",Black, True Wireless,4.3,15,499,999,50% off,40,True,False,False,50.050050050050054,500,215.2152152152152,,1
+932,BULLSTORM,Latest Version B11 Neckband Bluetooth Neckban...,Black, In the Ear,4.0,3242,499,899,44% off,,False,False,False,44.493882091212456,400,177.97552836484982,,0
+933,SYARA,JKK_30F_S6 Bluetooth Headset for all Smart phones...,Black, In the Ear,3.7,147072,546,1999,72% off,,False,False,False,72.68634317158579,1453,268.93946973486743,,0
+934,Gadget,Master Presents you super sound quality unstoppa...,Yellow, In the Ear,4.3,15,499,4999,90% off,,False,False,False,90.01800360072014,4500,387.07741548309656,,0
+935,Aroma,NB140 Evolve 24 Hours* Playtime | Deep Bass | Mad...,Black, True Wireless,3.5,191,999,3000,66% off,24,False,False,False,66.7,2001,233.45000000000002,,0
+936,Tunifi,M28 Gaming Monster Earbuds with ASAP Charge Blue...,Black, True Wireless,3.6,358,495,1999,75% off,,False,False,False,75.23761880940471,1504,270.85542771385695,,0
+937,FUR,"JADEN AirJams Gamex Pro with ENC HD+ Calling, Deep ...",Black, True Wireless,4.2,14276,899,5999,85% off,,False,True,False,85.01416902817137,5100,357.05950991831975,,1
+938,Kabeer,enterprises L21 Earbuds/Air-pod/ buds 5.0 Blueto...,Black, True Wireless,3.8,321,424,2699,84% off,,False,False,False,84.29047795479806,2275,320.3038162282326,,0
+939,Boult,"Audio Gearpods with 32H Playtime, Fast Charging, ...",White, True Wireless,3.9,38,449,999,55% off,32,True,False,False,55.05505505505506,550,214.71471471471472,,1
+940,FINGER,THREE Premium TWS I12 Twins touch sensor Bluetoo...,White, True Wireless,3.7,96,799,2599,69% off,,False,False,False,69.25740669488265,1800,256.2524047710658,,0
+941,v,chip Air Tune (Buds) True wireless Bluetooth headset ...,White, True Wireless,4.0,20048,1299,4999,74% off,,False,False,False,74.01480296059212,3700,296.0592118423685,,0
+942,PTron,"Basspods P81 TWS Earbuds, 32H Playtime, Deep Bass...",White, In the Ear,3.5,1776,1099,1499,26% off,32,False,False,False,26.684456304202804,400,93.39559706470982,,0
+943,Boult,"Audio Z40 with Zen ENC Mic, 60H Battery Life, Low...",Blue, In the Ear,4.1,2992,1499,4000,62% off,60,False,True,False,62.525,2501,256.35249999999996,,1
+944,Intex,MUSIQUE Flexi Bluetooth Headset,Black, In the Ear,3.3,10,1040,2199,52% off,,False,False,False,52.70577535243292,1159,173.92905866302863,,0
+945,Zaap,AQUA GEAR Bluetooth without Mic Headset,Black, In the Ear,4.0,11,699,1999,65% off,,False,False,False,65.03251625812906,1300,260.13006503251626,,0
+946,Landmark,"PLAY2.0, 50 Hours Playtime, IPX4 Water Resista...",Grey, In the Ear,3.5,515,378,1998,81% off,50,False,False,False,81.08108108108108,1620,283.7837837837838,,0
+947,Boult,"Audio YCharge with Pro+ Calling Mic, Full Charge ...",Black, In the Ear,4.2,124994,389,738,47% off,,False,False,False,47.289972899729,349,198.61788617886182,,0
