@@ -107,7 +107,7 @@ streamlit run home.py
 ##  Author
 
 **Sakshi Dubey**
-Aspiring Data Analyst | Machine Learning Enthusiast
+Aspiring Data Analyst 
 
 ---
 
