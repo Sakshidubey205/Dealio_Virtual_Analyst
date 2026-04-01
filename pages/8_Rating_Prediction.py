@@ -3,9 +3,8 @@ import pandas as pd
 import pickle
 
 
-# =========================
-# 📦 LOAD MODEL
-# =========================
+# LOAD MODEL
+
 @st.cache_resource
 def load_model():
     with open("rating_prediction_model1.pkl", "rb") as f:
@@ -14,8 +13,7 @@ def load_model():
 
 model = load_model()
 
-# =========================
-# 🎨 CUSTOM CSS
+# CUSTOM CSS
 st.markdown("""
 <style>
 
@@ -71,15 +69,12 @@ body {
 </style>
 """, unsafe_allow_html=True)
 
-# =========================
-# 🎧 HEADER
-# =========================
-st.markdown('<div class="title">🎧 Earphone Rating Predictor</div>', unsafe_allow_html=True)
+#HEADER
+
+st.markdown('<div class="title"> Earphone Rating Predictor</div>', unsafe_allow_html=True)
 st.caption("Smart AI model to predict product ratings")
 
-# =========================
-# 🧾 INPUT SECTION
-# =========================
+# INPUT SECTION
 
 st.markdown('<div class="card">', unsafe_allow_html=True)
 
@@ -102,24 +97,23 @@ with col2:
     feature_score = st.slider("Feature Score", 0.0, 10.0, 7.0)
     value_score = st.slider("Value Score", 0.0, 10.0, 7.0)
 
-    # 🔥 Fast input (typing instead of + -)
+    #  Fast input (typing instead of + -)
     offer_price = st.text_input("Offer Price (₹)", "1499")
     real_price = st.text_input("Real Price (₹)", "2999")
 
 st.markdown('</div>', unsafe_allow_html=True)
 
-# =========================
-# 🔮 PREDICTION
-# =========================
+# PREDICTION
 
-if st.button("🚀 Predict Rating"):
+
+if st.button(" Predict Rating"):
 
     # Convert price safely
     try:
         offer_price = float(offer_price)
         real_price = float(real_price)
     except:
-        st.error("❌ Please enter valid numeric price")
+        st.error("Please enter valid numeric price")
         st.stop()
 
     # Auto calculations
@@ -157,7 +151,7 @@ if st.button("🚀 Predict Rating"):
 
         st.markdown(f"""
         <div class="card">
-            <h2 style="color:#22c55e;">⭐ Predicted Rating: {round(prediction,2)} / 5</h2>
+            <h2 style="color:#22c55e;"> Predicted Rating: {round(prediction,2)} / 5</h2>
         </div>
         """, unsafe_allow_html=True)
 
@@ -165,11 +159,11 @@ if st.button("🚀 Predict Rating"):
 
         # Rating label
         if prediction >= 4:
-            st.success("🔥 Excellent Product")
+            st.success(" Excellent Product")
         elif prediction >= 3:
-            st.warning("👍 Average Product")
+            st.warning(" Average Product")
         else:
-            st.error("⚠️ Low Rated Product")
+            st.error("Low Rated Product")
 
     except Exception as e:
         st.error("Prediction failed")

@@ -6,14 +6,12 @@ from streamlit.components.v1 import html
 
 st.set_page_config(page_title="Earphones Analysis", layout="wide")
 
-# =========================
 # TITLE
-# =========================
+
 st.title(" Earphones Market Analysis")
 
-# =========================
 # INTRODUCTION
-# =========================
+
 st.write("""
 This page helps you understand the Earphones market using data analysis
 and machine learning models.

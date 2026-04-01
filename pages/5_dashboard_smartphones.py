@@ -4,9 +4,7 @@ import plotly.express as px
 
 st.set_page_config(page_title="EDA Dashboard", layout="wide")
 
-# =========================
-# 📊 LOAD DATA
-# =========================
+#  LOAD DATA
 @st.cache_data
 def load_data():
     df = pd.read_csv("C:\\Users\\DEEL\\dealio_major_project_final_folder\\smartphone_cleaned_v4.csv")
@@ -15,11 +13,9 @@ def load_data():
 
 df = load_data()
 
-# =========================
-# 🚀 TITLE
-# =========================
+# TITLE
 
-st.title("📊 Smartphone Market Analysis Dashboard")
+st.title(" Smartphone Market Analysis Dashboard")
 
 st.write("""
 This dashboard provides detailed insights into smartphone market trends,
@@ -28,11 +24,10 @@ features, pricing, and user preferences using Exploratory Data Analysis (EDA).
 
 st.markdown("---")
 
-# =========================
-# 📊 SECTION 1: DISTRIBUTION
-# =========================
+#  SECTION 1: DISTRIBUTION
 
-st.header("📊 Price & Rating Analysis")
+
+st.header(" Price & Rating Analysis")
 
 col1, col2 = st.columns(2)
 
@@ -44,11 +39,10 @@ with col2:
     fig = px.histogram(df, x='rating', nbins=50, title="Rating Distribution")
     st.plotly_chart(fig, use_container_width=True)
 
-# =========================
-# 📊 SECTION 2: PRICE VS FEATURES
-# =========================
+#SECTION 2: PRICE VS FEATURES
 
-st.header("💰 Price vs Features")
+
+st.header(" Price vs Features")
 
 col1, col2 = st.columns(2)
 
@@ -62,11 +56,9 @@ with col2:
                      title="Price vs Battery", color='battery_capacity')
     st.plotly_chart(fig, use_container_width=True)
 
-# =========================
-# 📊 SECTION 3: BRAND ANALYSIS
-# =========================
+# SECTION 3: BRAND ANALYSIS
 
-st.header("🏷️ Brand Analysis")
+st.header(" Brand Analysis")
 
 top_brands = df['brand_name'].value_counts().head(10).reset_index()
 top_brands.columns = ['brand_name', 'count']
@@ -75,11 +67,9 @@ fig = px.bar(top_brands, x='count', y='brand_name',
              orientation='h', title="Top 10 Brands")
 st.plotly_chart(fig, use_container_width=True)
 
-# =========================
-# 📊 SECTION 4: 5G & FEATURES
-# =========================
+# SECTION 4: 5G & FEATURES
 
-st.header("📶 Feature Adoption")
+st.header(" Feature Adoption")
 
 col1, col2, col3 = st.columns(3)
 
@@ -95,11 +85,9 @@ with col3:
     fig = px.histogram(df, x='has_ir_blaster', title="IR Blaster")
     st.plotly_chart(fig, use_container_width=True)
 
-# =========================
-# 📊 SECTION 5: DISPLAY
-# =========================
+# SECTION 5: DISPLAY
 
-st.header("📱 Display Analysis")
+st.header(" Display Analysis")
 
 col1, col2 = st.columns(2)
 
@@ -111,11 +99,9 @@ with col2:
     fig = px.histogram(df, x='refresh_rate', title="Refresh Rate")
     st.plotly_chart(fig, use_container_width=True)
 
-# =========================
-# 📊 SECTION 6: CAMERA
-# =========================
+#  SECTION 6: CAMERA
 
-st.header("📸 Camera Analysis")
+st.header(" Camera Analysis")
 
 col1, col2 = st.columns(2)
 
@@ -131,21 +117,17 @@ with col2:
                      color='primary_camera_front')
     st.plotly_chart(fig, use_container_width=True)
 
-# =========================
-# 📊 SECTION 7: PROCESSOR
-# =========================
+#SECTION 7: PROCESSOR
 
-st.header("🧠 Processor Analysis")
+st.header(" Processor Analysis")
 
 fig = px.histogram(df, y='processor_brand',
                    title="Processor Distribution")
 st.plotly_chart(fig, use_container_width=True)
 
-# =========================
-# 📊 SECTION 8: STORAGE & RAM
-# =========================
+# SECTION 8: STORAGE & RAM
 
-st.header("💾 Storage & RAM")
+st.header(" Storage & RAM")
 
 col1, col2 = st.columns(2)
 
@@ -159,20 +141,16 @@ with col2:
                        title="Storage Distribution")
     st.plotly_chart(fig, use_container_width=True)
 
-# =========================
-# 📊 SECTION 9: OS
-# =========================
+#  SECTION 9: OS
 
-st.header("📱 OS Distribution")
+st.header(" OS Distribution")
 
 fig = px.histogram(df, x='os', title="Operating System")
 st.plotly_chart(fig, use_container_width=True)
 
-# =========================
-# 📊 SECTION 10: CORRELATION
-# =========================
+#  SECTION 10: CORRELATION
 
-st.header("📈 Correlation Heatmap")
+st.header(" Correlation Heatmap")
 
 numeric_df = df.select_dtypes(include=['int64','float64'])
 

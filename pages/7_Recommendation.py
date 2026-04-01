@@ -6,15 +6,14 @@ from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.compose import ColumnTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
-# =========================
-# 📦 LOAD DATA
-# =========================
+# LOAD DATA
+
 @st.cache_data
 def load_data():
     df3 = pd.read_csv("C:\\Users\\DEEL\\dealio_major_project_final_folder\\updated_earphones_dataset.csv")
     df3.columns = df3.columns.str.strip()
 
-    # 🔥 Fix duplicate names
+    # Fix duplicate names
     df3 = df3.drop_duplicates(subset='name')
 
     # Reset index
@@ -23,19 +22,16 @@ def load_data():
     return df3
 
 df3 = load_data()
-df = df3   # ✅ Fix
+df = df3
 
-# =========================
-# 🧹 HANDLE MISSING VALUES (FIX FOR ERROR)
-# =========================
+#  HANDLE MISSING VALUES (FIX FOR ERROR)
+
 numeric_cols = ['battery_hours', 'people_review', 'feature_count', 'ratings']
 df[numeric_cols] = df[numeric_cols].fillna(0)
 
 df['company'] = df['company'].fillna('Unknown')
 
-# =========================
-# 🧠 FEATURE SELECTION
-# =========================
+# FEATURE SELECTION
 features = [
     'company',
     'battery_hours',
@@ -49,9 +45,8 @@ features = [
 
 X = df[features]
 
-# =========================
-# 🔄 PREPROCESSING
-# =========================
+# PREPROCESSING
+
 numeric_features = ['battery_hours', 'people_review', 'feature_count', 'ratings']
 categorical_features = ['company']
 
@@ -62,14 +57,11 @@ preprocessor = ColumnTransformer([
 
 X_processed = preprocessor.fit_transform(X)
 
-# =========================
-# 🔗 SIMILARITY MATRIX
-# =========================
+# SIMILARITY MATRIX
+
 similarity_matrix = cosine_similarity(X_processed)
 
-# =========================
-# 🔍 RECOMMEND FUNCTION
-# =========================
+#  RECOMMEND FUNCTION
 def recommend_similar(phone_name, top_n=5):
 
     df_clean = df.copy()
@@ -91,10 +83,8 @@ def recommend_similar(phone_name, top_n=5):
 
     return rec
 
-# =========================
-# 🎨 UI
-# =========================
-st.title("📱 Similar Phone Recommendation System")
+#  UI
+st.title("Similar Phone Recommendation System")
 
 selected_phone = st.selectbox(
     "Select a Phone",
@@ -103,17 +93,15 @@ selected_phone = st.selectbox(
 
 top_n = st.slider("Number of Recommendations", 1, 10, 5)
 
-# =========================
-# 🚀 BUTTON
-# =========================
-if st.button("🔍 Find Similar Phones"):
+#  BUTTON
+if st.button("Find Similar Phones"):
 
     results = recommend_similar(selected_phone, top_n)
 
     if results.empty:
         st.error("No recommendations found")
     else:
-        st.subheader("📊 Similar Phones")
+        st.subheader(" Similar Phones")
 
         for _, row in results.iterrows():
             st.markdown(f"""
@@ -124,7 +112,7 @@ if st.button("🔍 Find Similar Phones"):
                 margin-bottom:10px;
             ">
                 <h4>{row['company']} - {row['name']}</h4>
-                <p>💰 ₹ {row['offer_price']} | ⭐ {row['ratings']}</p>
-                <p>🔋 Battery: {row['battery_hours']} hrs</p>
+                <p> ₹ {row['offer_price']} |  {row['ratings']}</p>
+                <p> Battery: {row['battery_hours']} hrs</p>
             </div>
             """, unsafe_allow_html=True)

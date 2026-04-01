@@ -3,9 +3,8 @@ import pandas as pd
 import numpy as np
 import pickle
 
-# =========================
-# 📦 LOAD MODEL
-# =========================
+#LOAD MODEL
+
 @st.cache_resource
 def load_model():
     with open("earphones_price_prediction_model2.pkl", "rb") as f:
@@ -14,9 +13,8 @@ def load_model():
 
 model = load_model()
 
-# =========================
-# 🎨 CSS
-# =========================
+# CSS
+
 st.markdown("""
 <style>
 .stApp {
@@ -49,15 +47,11 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# =========================
-# 🎧 HEADER
-# =========================
-st.markdown('<div class="title">💰 Earphone Price Predictor</div>', unsafe_allow_html=True)
+#  HEADER
+st.markdown('<div class="title"> Earphone Price Predictor</div>', unsafe_allow_html=True)
 st.caption("Predict ideal market price based on features")
 
-# =========================
-# 🧾 INPUT SECTION
-# =========================
+#INPUT SECTION
 
 st.markdown('<div class="card">', unsafe_allow_html=True)
 
@@ -82,11 +76,10 @@ with col2:
 
 st.markdown('</div>', unsafe_allow_html=True)
 
-# =========================
-# 🔮 PREDICTION
-# =========================
+#  PREDICTION
 
-if st.button("🚀 Predict Price"):
+
+if st.button(" Predict Price"):
 
     # Convert Yes/No
     fast_charging = 1 if fast_charging == "Yes" else 0
@@ -118,7 +111,7 @@ if st.button("🚀 Predict Price"):
 
         st.markdown(f"""
         <div class="card">
-            <h2 style="color:#3b82f6;">💰 Predicted Price: ₹ {round(prediction, 2)}</h2>
+            <h2 style="color:#3b82f6;"> Predicted Price: ₹ {round(prediction, 2)}</h2>
         </div>
         """, unsafe_allow_html=True)
 

@@ -7,14 +7,12 @@ from streamlit.components.v1 import html
 
 st.set_page_config(page_title="Smartphone Analysis", layout="wide")
 
-# =========================
 # TITLE
-# =========================
+
 st.title(" Smartphone Market Analysis")
 
-# =========================
 # INTRODUCTION
-# =========================
+
 st.write("""
 This page helps you understand the smartphone market using data analysis
 and machine learning models.
